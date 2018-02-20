@@ -75,7 +75,7 @@ public class MapPainterTest {
 
     @Test
     public void drawDisasterAreaMapStart() throws IOException {
-//        DataLogic.drawDisasterArea();
-        DataLogic.drawPopulationDensityDisasterArea();
+        DataLogic.drawDisasterArea(true);
+        DataLogic.drawPopulationDensityDisasterArea(true);
     }
 }

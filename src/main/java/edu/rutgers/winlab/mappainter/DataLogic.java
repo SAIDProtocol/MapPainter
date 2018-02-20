@@ -14,7 +14,6 @@ import java.io.IOException;
 import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.HashMap;
-import java.util.HashSet;
 
 /**
  *
@@ -81,7 +80,7 @@ public class DataLogic {
     private static final DecimalFormat INTEGER_FORMAT = new DecimalFormat("#,##0");
     private static final DecimalFormat FLOAT_FORMAT = new DecimalFormat("#,##0.####");
 
-    public static void drawDisasterArea() throws IOException {
+    public static void drawDisasterArea(boolean crop) throws IOException {
         double imageScale = 10;
         double strokeThickness = 3;
         Color disasterAreaColor = Color.red;
@@ -124,7 +123,9 @@ public class DataLogic {
         img = MapPainter.generateBufferedImage(settings);
         g2d = MapPainter.getGraphicsFromImage(img, fontSize);
         MapPainter.drawSetting(g2d, settings, colors, texts, strokeThickness);
-        img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+        if (crop) {
+            img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+        }
         MapPainter.saveImage(img, "disasterArea1.png");
 
         for (String TXCounty : TXCounties2) {
@@ -137,7 +138,9 @@ public class DataLogic {
         img = MapPainter.generateBufferedImage(settings);
         g2d = MapPainter.getGraphicsFromImage(img, fontSize);
         MapPainter.drawSetting(g2d, settings, colors, texts, strokeThickness);
-        img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+        if (crop) {
+            img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+        }
         MapPainter.saveImage(img, "disasterArea2.png");
 
         colors.keySet().forEach((mapItem) -> {
@@ -152,11 +155,13 @@ public class DataLogic {
         img = MapPainter.generateBufferedImage(settings);
         g2d = MapPainter.getGraphicsFromImage(img, fontSize);
         MapPainter.drawSetting(g2d, settings, colors, texts, strokeThickness);
-        img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+        if (crop) {
+            img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+        }
         MapPainter.saveImage(img, "disasterArea3.png");
     }
 
-    public static void drawPopulationDensityDisasterArea() throws IOException {
+    public static void drawPopulationDensityDisasterArea(boolean crop) throws IOException {
         double imageScale = 10;
         double strokeThickness = 3;
         int fontSize = 20;
@@ -233,13 +238,17 @@ public class DataLogic {
         img = MapPainter.generateBufferedImage(settings);
         g2d = MapPainter.getGraphicsFromImage(img, fontSize);
         MapPainter.drawSetting(g2d, settings, populationColors, populationStrings, strokeThickness);
-        img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+        if (crop) {
+            img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+        }
         MapPainter.saveImage(img, "population.png");
 
         img = MapPainter.generateBufferedImage(settings);
         g2d = MapPainter.getGraphicsFromImage(img, fontSize);
         MapPainter.drawSetting(g2d, settings, densityColors, densityStrings, strokeThickness);
-        img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+        if (crop) {
+            img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+        }
         MapPainter.saveImage(img, "density.png");
 
     }
