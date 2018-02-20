@@ -1,0 +1,642 @@
+[
+  {
+    "area": 1044342212,
+    "FIPS": "22125",
+    "Pop": 15344,
+    "Year": 2016,
+    "GrowthRate": -1.7921146953405014,
+    "CTYNAME": "West Feliciana Parish",
+    "StatePercentage": 0.32774657568480964,
+    "StateRank": 52
+  },
+  {
+    "area": 1678747394,
+    "FIPS": "22063",
+    "Pop": 140138,
+    "Year": 2016,
+    "GrowthRate": 8.881412821369466,
+    "CTYNAME": "Livingston Parish",
+    "StatePercentage": 2.9933361329065336,
+    "StateRank": 9
+  },
+  {
+    "area": 2176181456,
+    "FIPS": "22015",
+    "Pop": 126057,
+    "Year": 2016,
+    "GrowthRate": 7.165810861359546,
+    "CTYNAME": "Bossier Parish",
+    "StatePercentage": 2.692567133153027,
+    "StateRank": 12
+  },
+  {
+    "area": 1734071719,
+    "FIPS": "22117",
+    "Pop": 46310,
+    "Year": 2016,
+    "GrowthRate": -1.6731071383073584,
+    "CTYNAME": "Washington Parish",
+    "StatePercentage": 0.9891777841477799,
+    "StateRank": 25
+  },
+  {
+    "area": 1438844850,
+    "FIPS": "22101",
+    "Pop": 52093,
+    "Year": 2016,
+    "GrowthRate": -4.4901177074548,
+    "CTYNAME": "St. Mary Parish",
+    "StatePercentage": 1.112702187640041,
+    "StateRank": 22
+  },
+  {
+    "area": 765682141,
+    "FIPS": "22051",
+    "Pop": 436523,
+    "Year": 2016,
+    "GrowthRate": 0.870700511836958,
+    "CTYNAME": "Jefferson Parish",
+    "StatePercentage": 9.324095311369927,
+    "StateRank": 2
+  },
+  {
+    "area": 2156226385,
+    "FIPS": "22009",
+    "Pop": 41117,
+    "Year": 2016,
+    "GrowthRate": -2.311712995961031,
+    "CTYNAME": "Avoyelles Parish",
+    "StatePercentage": 0.8782557320406881,
+    "StateRank": 28
+  },
+  {
+    "area": 1057772592,
+    "FIPS": "22091",
+    "Pop": 10512,
+    "Year": 2016,
+    "GrowthRate": -5.873925501432666,
+    "CTYNAME": "St. Helena Parish",
+    "StatePercentage": 0.2245354538320333,
+    "StateRank": 58
+  },
+  {
+    "area": 2392904510,
+    "FIPS": "22097",
+    "Pop": 83883,
+    "Year": 2016,
+    "GrowthRate": 0.4646984849392197,
+    "CTYNAME": "St. Landry Parish",
+    "StatePercentage": 1.7917339682070443,
+    "StateRank": 16
+  },
+  {
+    "area": 3439275943,
+    "FIPS": "22115",
+    "Pop": 50569,
+    "Year": 2016,
+    "GrowthRate": -4.12187399275733,
+    "CTYNAME": "Vernon Parish",
+    "StatePercentage": 1.0801496732146205,
+    "StateRank": 23
+  },
+  {
+    "area": 2754925000,
+    "FIPS": "22019",
+    "Pop": 200601,
+    "Year": 2016,
+    "GrowthRate": 3.8823639075316976,
+    "CTYNAME": "Calcasieu Parish",
+    "StatePercentage": 4.284820830875163,
+    "StateRank": 7
+  },
+  {
+    "area": 1955125390,
+    "FIPS": "22027",
+    "Pop": 16132,
+    "Year": 2016,
+    "GrowthRate": -5.9523115490001715,
+    "CTYNAME": "Claiborne Parish",
+    "StatePercentage": 0.3445781907551713,
+    "StateRank": 50
+  },
+  {
+    "area": 877123530,
+    "FIPS": "22007",
+    "Pop": 22695,
+    "Year": 2016,
+    "GrowthRate": -2.8134635149023666,
+    "CTYNAME": "Assumption Parish",
+    "StatePercentage": 0.4847633299769783,
+    "StateRank": 41
+  },
+  {
+    "area": 1221806132,
+    "FIPS": "22061",
+    "Pop": 47745,
+    "Year": 2016,
+    "GrowthRate": 1.8799078183680393,
+    "CTYNAME": "Lincoln Parish",
+    "StatePercentage": 1.019829265906624,
+    "StateRank": 24
+  },
+  {
+    "area": 3038610957,
+    "FIPS": "22113",
+    "Pop": 60205,
+    "Year": 2016,
+    "GrowthRate": 3.66945621104108,
+    "CTYNAME": "Vermilion Parish",
+    "StatePercentage": 1.285973839227318,
+    "StateRank": 19
+  },
+  {
+    "area": 625582188,
+    "FIPS": "22093",
+    "Pop": 21557,
+    "Year": 2016,
+    "GrowthRate": -2.0403526311006033,
+    "CTYNAME": "St. James Parish",
+    "StatePercentage": 0.4604557437459229,
+    "StateRank": 45
+  },
+  {
+    "area": 498293891,
+    "FIPS": "22121",
+    "Pop": 25795,
+    "Year": 2016,
+    "GrowthRate": 7.712543844997498,
+    "CTYNAME": "West Baton Rouge Parish",
+    "StatePercentage": 0.550979074543122,
+    "StateRank": 37
+  },
+  {
+    "area": 719646243,
+    "FIPS": "22089",
+    "Pop": 52923,
+    "Year": 2016,
+    "GrowthRate": 0.1494966315948858,
+    "CTYNAME": "St. Charles Parish",
+    "StatePercentage": 1.130430919249686,
+    "StateRank": 21
+  },
+  {
+    "area": 1474195901,
+    "FIPS": "22049",
+    "Pop": 15808,
+    "Year": 2016,
+    "GrowthRate": -2.9767384766464176,
+    "CTYNAME": "Jackson Parish",
+    "StatePercentage": 0.3376575774521292,
+    "StateRank": 51
+  },
+  {
+    "area": 2244628537,
+    "FIPS": "22085",
+    "Pop": 23977,
+    "Year": 2016,
+    "GrowthRate": -1.0604935214987279,
+    "CTYNAME": "Sabine Parish",
+    "StatePercentage": 0.512146744342719,
+    "StateRank": 39
+  },
+  {
+    "area": 1696777753,
+    "FIPS": "22001",
+    "Pop": 62645,
+    "Year": 2016,
+    "GrowthRate": 1.2853678253840002,
+    "CTYNAME": "Acadia Parish",
+    "StatePercentage": 1.3380920381761536,
+    "StateRank": 18
+  },
+  {
+    "area": 1535941083,
+    "FIPS": "22119",
+    "Pop": 39710,
+    "Year": 2016,
+    "GrowthRate": -3.597785977859772,
+    "CTYNAME": "Webster Parish",
+    "StatePercentage": 0.8482023279746996,
+    "StateRank": 29
+  },
+  {
+    "area": 555050486,
+    "FIPS": "22095",
+    "Pop": 43631,
+    "Year": 2016,
+    "GrowthRate": -4.368314921970892,
+    "CTYNAME": "St. John the Baptist Parish",
+    "StatePercentage": 0.9319545648920705,
+    "StateRank": 27
+  },
+  {
+    "area": 1007739207,
+    "FIPS": "22081",
+    "Pop": 8550,
+    "Year": 2016,
+    "GrowthRate": -5.608302053433434,
+    "CTYNAME": "Red River Parish",
+    "StatePercentage": 0.1826272954969449,
+    "StateRank": 61
+  },
+  {
+    "area": 438792720,
+    "FIPS": "22071",
+    "Pop": 391495,
+    "Year": 2016,
+    "GrowthRate": 12.52992931937925,
+    "CTYNAME": "Orleans Parish",
+    "StatePercentage": 8.362300941587888,
+    "StateRank": 3
+  },
+  {
+    "area": 1602209065,
+    "FIPS": "22047",
+    "Pop": 32920,
+    "Year": 2016,
+    "GrowthRate": -1.327818241764831,
+    "CTYNAME": "Iberville Parish",
+    "StatePercentage": 0.7031684874572428,
+    "StateRank": 33
+  },
+  {
+    "area": 1617667694,
+    "FIPS": "22041",
+    "Pop": 20330,
+    "Year": 2016,
+    "GrowthRate": -2.3535062439961507,
+    "CTYNAME": "Franklin Parish",
+    "StatePercentage": 0.4342471248482912,
+    "StateRank": 47
+  },
+  {
+    "area": 2269878444,
+    "FIPS": "22031",
+    "Pop": 27149,
+    "Year": 2016,
+    "GrowthRate": 1.7464303114342528,
+    "CTYNAME": "De Soto Parish",
+    "StatePercentage": 0.5799004029762055,
+    "StateRank": 35
+  },
+  {
+    "area": 3327839224,
+    "FIPS": "22023",
+    "Pop": 6882,
+    "Year": 2016,
+    "GrowthRate": -0.2753224170410107,
+    "CTYNAME": "Cameron Parish",
+    "StatePercentage": 0.14699895293683915,
+    "StateRank": 63
+  },
+  {
+    "area": 1973084287,
+    "FIPS": "22003",
+    "Pop": 25684,
+    "Year": 2016,
+    "GrowthRate": -0.20980651177247012,
+    "CTYNAME": "Allen Parish",
+    "StatePercentage": 0.548608123689302,
+    "StateRank": 38
+  },
+  {
+    "area": 1617924843,
+    "FIPS": "22059",
+    "Pop": 15052,
+    "Year": 2016,
+    "GrowthRate": 0.9117725931885161,
+    "CTYNAME": "LaSalle Parish",
+    "StatePercentage": 0.3215094797450309,
+    "StateRank": 53
+  },
+  {
+    "area": 2766822935,
+    "FIPS": "22057",
+    "Pop": 98305,
+    "Year": 2016,
+    "GrowthRate": 1.6744926876693569,
+    "CTYNAME": "Lafourche Parish",
+    "StatePercentage": 2.0997866998628267,
+    "StateRank": 15
+  },
+  {
+    "area": 1561204545,
+    "FIPS": "22107",
+    "Pop": 4597,
+    "Year": 2016,
+    "GrowthRate": -12.002297090352215,
+    "CTYNAME": "Tensas Parish",
+    "StatePercentage": 0.0981915412163106,
+    "StateRank": 64
+  },
+  {
+    "area": 1580931662,
+    "FIPS": "22073",
+    "Pop": 156983,
+    "Year": 2016,
+    "GrowthRate": 1.9529017509222228,
+    "CTYNAME": "Ouachita Parish",
+    "StatePercentage": 3.3531439449119183,
+    "StateRank": 8
+  },
+  {
+    "area": 1486941068,
+    "FIPS": "22045",
+    "Pop": 73273,
+    "Year": 2016,
+    "GrowthRate": 0.028668159231145296,
+    "CTYNAME": "Iberia Parish",
+    "StatePercentage": 1.5651052424500167,
+    "StateRank": 17
+  },
+  {
+    "area": 2049504791,
+    "FIPS": "22105",
+    "Pop": 130710,
+    "Year": 2016,
+    "GrowthRate": 7.58733085306028,
+    "CTYNAME": "Tangipahoa Parish",
+    "StatePercentage": 2.7919548297550487,
+    "StateRank": 11
+  },
+  {
+    "area": 1617282459,
+    "FIPS": "22065",
+    "Pop": 11528,
+    "Year": 2016,
+    "GrowthRate": -4.727272727272734,
+    "CTYNAME": "Madison Parish",
+    "StatePercentage": 0.24623713011564688,
+    "StateRank": 56
+  },
+  {
+    "area": 931478638,
+    "FIPS": "22123",
+    "Pop": 11114,
+    "Year": 2016,
+    "GrowthRate": -3.9993089746912034,
+    "CTYNAME": "West Carroll Parish",
+    "StatePercentage": 0.23739412422842637,
+    "StateRank": 57
+  },
+  {
+    "area": 3190255110,
+    "FIPS": "22109",
+    "Pop": 113220,
+    "Year": 2016,
+    "GrowthRate": 1.5080062400258214,
+    "CTYNAME": "Terrebonne Parish",
+    "StatePercentage": 2.418369870896386,
+    "StateRank": 14
+  },
+  {
+    "area": 1174307243,
+    "FIPS": "22037",
+    "Pop": 19683,
+    "Year": 2016,
+    "GrowthRate": -2.4144769459593505,
+    "CTYNAME": "East Feliciana Parish",
+    "StatePercentage": 0.4204272581598089,
+    "StateRank": 49
+  },
+  {
+    "area": 1833782911,
+    "FIPS": "22025",
+    "Pop": 9921,
+    "Year": 2016,
+    "GrowthRate": -4.366685945633307,
+    "CTYNAME": "Catahoula Parish",
+    "StatePercentage": 0.211911742529262,
+    "StateRank": 60
+  },
+  {
+    "area": 751029431,
+    "FIPS": "22005",
+    "Pop": 121587,
+    "Year": 2016,
+    "GrowthRate": 12.73608960510333,
+    "CTYNAME": "Ascension Parish",
+    "StatePercentage": 2.5970883014721684,
+    "StateRank": 13
+  },
+  {
+    "area": 1665429795,
+    "FIPS": "22043",
+    "Pop": 22365,
+    "Year": 2016,
+    "GrowthRate": 0.08950548221078236,
+    "CTYNAME": "Grant Parish",
+    "StatePercentage": 0.4777145571683243,
+    "StateRank": 43
+  },
+  {
+    "area": 2275354742,
+    "FIPS": "22017",
+    "Pop": 248851,
+    "Year": 2016,
+    "GrowthRate": -2.676245825087804,
+    "CTYNAME": "Caddo Parish",
+    "StatePercentage": 5.315436855170788,
+    "StateRank": 5
+  },
+  {
+    "area": 2460711982,
+    "FIPS": "22127",
+    "Pop": 14376,
+    "Year": 2016,
+    "GrowthRate": -5.934698684813185,
+    "CTYNAME": "Winn Parish",
+    "StatePercentage": 0.3070701754460912,
+    "StateRank": 54
+  },
+  {
+    "area": 2271389438,
+    "FIPS": "22111",
+    "Pop": 22487,
+    "Year": 2016,
+    "GrowthRate": -1.4808324205914545,
+    "CTYNAME": "Union Parish",
+    "StatePercentage": 0.48032046711576604,
+    "StateRank": 42
+  },
+  {
+    "area": 2190289201,
+    "FIPS": "22103",
+    "Pop": 253602,
+    "Year": 2016,
+    "GrowthRate": 8.114491320214185,
+    "CTYNAME": "St. Tammany Parish",
+    "StatePercentage": 5.416917823697803,
+    "StateRank": 4
+  },
+  {
+    "area": 3413632520,
+    "FIPS": "22079",
+    "Pop": 132424,
+    "Year": 2016,
+    "GrowthRate": 0.4803059389487885,
+    "CTYNAME": "Rapides Parish",
+    "StatePercentage": 2.8285657285248456,
+    "StateRank": 10
+  },
+  {
+    "area": 2058870191,
+    "FIPS": "22067",
+    "Pop": 26071,
+    "Year": 2016,
+    "GrowthRate": -6.542156581588756,
+    "CTYNAME": "Morehouse Parish",
+    "StatePercentage": 0.5568744118012691,
+    "StateRank": 36
+  },
+  {
+    "area": 696045251,
+    "FIPS": "22055",
+    "Pop": 241398,
+    "Year": 2016,
+    "GrowthRate": 8.650721493577223,
+    "CTYNAME": "Lafayette Parish",
+    "StatePercentage": 5.156241389283217,
+    "StateRank": 6
+  },
+  {
+    "area": 1687025362,
+    "FIPS": "22053",
+    "Pop": 31413,
+    "Year": 2016,
+    "GrowthRate": -0.6797774124193694,
+    "CTYNAME": "Jefferson Davis Parish",
+    "StatePercentage": 0.6709790916310562,
+    "StateRank": 34
+  },
+  {
+    "area": 1715552083,
+    "FIPS": "22039",
+    "Pop": 33709,
+    "Year": 2016,
+    "GrowthRate": -0.7537170616811437,
+    "CTYNAME": "Evangeline Parish",
+    "StatePercentage": 0.7200214624452065,
+    "StateRank": 32
+  },
+  {
+    "area": 1089619259,
+    "FIPS": "22035",
+    "Pop": 7271,
+    "Year": 2016,
+    "GrowthRate": -5.864836872086997,
+    "CTYNAME": "East Carroll Parish",
+    "StatePercentage": 0.15530796088401008,
+    "StateRank": 62
+  },
+  {
+    "area": 1910535374,
+    "FIPS": "22099",
+    "Pop": 54007,
+    "Year": 2016,
+    "GrowthRate": 3.3409234419548,
+    "CTYNAME": "St. Martin Parish",
+    "StatePercentage": 1.1535850699302341,
+    "StateRank": 20
+  },
+  {
+    "area": 977743046,
+    "FIPS": "22087",
+    "Pop": 45688,
+    "Year": 2016,
+    "GrowthRate": 24.108331296009567,
+    "CTYNAME": "St. Bernard Parish",
+    "StatePercentage": 0.9758919153993472,
+    "StateRank": 26
+  },
+  {
+    "area": 1448537069,
+    "FIPS": "22083",
+    "Pop": 20430,
+    "Year": 2016,
+    "GrowthRate": -1.499445542645006,
+    "CTYNAME": "Richland Parish",
+    "StatePercentage": 0.4363831166084894,
+    "StateRank": 46
+  },
+  {
+    "area": 1443519857,
+    "FIPS": "22077",
+    "Pop": 22159,
+    "Year": 2016,
+    "GrowthRate": -2.6277628861449216,
+    "CTYNAME": "Pointe Coupee Parish",
+    "StatePercentage": 0.473314414142316,
+    "StateRank": 44
+  },
+  {
+    "area": 2020765755,
+    "FIPS": "22075",
+    "Pop": 23464,
+    "Year": 2016,
+    "GrowthRate": 1.474722138130872,
+    "CTYNAME": "Plaquemines Parish",
+    "StatePercentage": 0.5011891066129023,
+    "StateRank": 40
+  },
+  {
+    "area": 3243341073,
+    "FIPS": "22069",
+    "Pop": 39162,
+    "Year": 2016,
+    "GrowthRate": -0.918406072106265,
+    "CTYNAME": "Natchitoches Parish",
+    "StatePercentage": 0.8364970931288136,
+    "StateRank": 30
+  },
+  {
+    "area": 1179346048,
+    "FIPS": "22033",
+    "Pop": 447037,
+    "Year": 2016,
+    "GrowthRate": 1.432645902301445,
+    "CTYNAME": "East Baton Rouge Parish",
+    "StatePercentage": 9.548673485037163,
+    "StateRank": 1
+  },
+  {
+    "area": 1805172280,
+    "FIPS": "22029",
+    "Pop": 19920,
+    "Year": 2016,
+    "GrowthRate": -4.373289808458551,
+    "CTYNAME": "Concordia Parish",
+    "StatePercentage": 0.42548955863147864,
+    "StateRank": 48
+  },
+  {
+    "area": 1371203816,
+    "FIPS": "22021",
+    "Pop": 10087,
+    "Year": 2016,
+    "GrowthRate": -0.5030578023278736,
+    "CTYNAME": "Caldwell Parish",
+    "StatePercentage": 0.215457488851191,
+    "StateRank": 59
+  },
+  {
+    "area": 2101202068,
+    "FIPS": "22013",
+    "Pop": 13865,
+    "Year": 2016,
+    "GrowthRate": -3.2381882894828635,
+    "CTYNAME": "Bienville Parish",
+    "StatePercentage": 0.2961552575514785,
+    "StateRank": 55
+  },
+  {
+    "area": 2997502171,
+    "FIPS": "22011",
+    "Pop": 36927,
+    "Year": 2016,
+    "GrowthRate": 3.0099308190136185,
+    "CTYNAME": "Beauregard Parish",
+    "StatePercentage": 0.7887576772883841,
+    "StateRank": 31
+  }
+]

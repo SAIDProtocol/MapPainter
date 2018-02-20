@@ -1,0 +1,2542 @@
+[
+  {
+    "area": 2354581764,
+    "FIPS": "48011",
+    "Pop": 1876,
+    "Year": 2016,
+    "GrowthRate": -1.2111637704054772,
+    "CTYNAME": "Armstrong County",
+    "StatePercentage": 0.006733040955695585,
+    "StateRank": 237
+  },
+  {
+    "area": 2330820875,
+    "FIPS": "48203",
+    "Pop": 66534,
+    "Year": 2016,
+    "GrowthRate": 1.2570767638643758,
+    "CTYNAME": "Harrison County",
+    "StatePercentage": 0.23879325530183906,
+    "StateRank": 52
+  },
+  {
+    "area": 2723485993,
+    "FIPS": "48235",
+    "Pop": 1557,
+    "Year": 2016,
+    "GrowthRate": -3.291925465838503,
+    "CTYNAME": "Irion County",
+    "StatePercentage": 0.005588136869945643,
+    "StateRank": 238
+  },
+  {
+    "area": 4068610100,
+    "FIPS": "48215",
+    "Pop": 849843,
+    "Year": 2016,
+    "GrowthRate": 9.073092472566259,
+    "CTYNAME": "Hidalgo County",
+    "StatePercentage": 3.0501213885454175,
+    "StateRank": 7
+  },
+  {
+    "area": 2182215964,
+    "FIPS": "48467",
+    "Pop": 54355,
+    "Year": 2016,
+    "GrowthRate": 3.334537366209773,
+    "CTYNAME": "Van Zandt County",
+    "StatePercentage": 0.19508232470513515,
+    "StateRank": 60
+  },
+  {
+    "area": 2418212545,
+    "FIPS": "48351",
+    "Pop": 14003,
+    "Year": 2016,
+    "GrowthRate": -2.9591129591129572,
+    "CTYNAME": "Newton County",
+    "StatePercentage": 0.05025734141929919,
+    "StateRank": 145
+  },
+  {
+    "area": 2376792100,
+    "FIPS": "48357",
+    "Pop": 10306,
+    "Year": 2016,
+    "GrowthRate": 1.3073822864445077,
+    "CTYNAME": "Ochiltree County",
+    "StatePercentage": 0.03698865676407181,
+    "StateRank": 165
+  },
+  {
+    "area": 2405590978,
+    "FIPS": "48319",
+    "Pop": 4111,
+    "Year": 2016,
+    "GrowthRate": 2.365537848605584,
+    "CTYNAME": "Mason County",
+    "StatePercentage": 0.014754547637987501,
+    "StateRank": 210
+  },
+  {
+    "area": 2548139855,
+    "FIPS": "48095",
+    "Pop": 4279,
+    "Year": 2016,
+    "GrowthRate": 4.4422748352453,
+    "CTYNAME": "Concho County",
+    "StatePercentage": 0.01535750652954233,
+    "StateRank": 208
+  },
+  {
+    "area": 2369894740,
+    "FIPS": "48317",
+    "Pop": 5723,
+    "Year": 2016,
+    "GrowthRate": 18.85773624091381,
+    "CTYNAME": "Martin County",
+    "StatePercentage": 0.020540081764096926,
+    "StateRank": 198
+  },
+  {
+    "area": 2306607919,
+    "FIPS": "48199",
+    "Pop": 56322,
+    "Year": 2016,
+    "GrowthRate": 2.7623704568676146,
+    "CTYNAME": "Hardin County",
+    "StatePercentage": 0.20214196839375628,
+    "StateRank": 59
+  },
+  {
+    "area": 2727190094,
+    "FIPS": "48073",
+    "Pop": 51668,
+    "Year": 2016,
+    "GrowthRate": 1.4789354807031287,
+    "CTYNAME": "Cherokee County",
+    "StatePercentage": 0.18543857148127907,
+    "StateRank": 62
+  },
+  {
+    "area": 2383359750,
+    "FIPS": "48065",
+    "Pop": 6057,
+    "Year": 2016,
+    "GrowthRate": -1.7358857884490533,
+    "CTYNAME": "Carson County",
+    "StatePercentage": 0.021738821465164267,
+    "StateRank": 193
+  },
+  {
+    "area": 3886770077,
+    "FIPS": "48003",
+    "Pop": 17760,
+    "Year": 2016,
+    "GrowthRate": 19.716885743174927,
+    "CTYNAME": "Andrews County",
+    "StatePercentage": 0.06374136853579616,
+    "StateRank": 131
+  },
+  {
+    "area": 3765525014,
+    "FIPS": "48435",
+    "Pop": 3869,
+    "Year": 2016,
+    "GrowthRate": -4.680955900468092,
+    "CTYNAME": "Sutton County",
+    "StatePercentage": 0.013885999710866855,
+    "StateRank": 213
+  },
+  {
+    "area": 1795990942,
+    "FIPS": "48409",
+    "Pop": 67655,
+    "Year": 2016,
+    "GrowthRate": 4.917498914459401,
+    "CTYNAME": "San Patricio County",
+    "StatePercentage": 0.2428165702865591,
+    "StateRank": 51
+  },
+  {
+    "area": 1374395180,
+    "FIPS": "48405",
+    "Pop": 8320,
+    "Year": 2016,
+    "GrowthRate": -5.935556811758062,
+    "CTYNAME": "San Augustine County",
+    "StatePercentage": 0.029860821296048654,
+    "StateRank": 178
+  },
+  {
+    "area": 2282582851,
+    "FIPS": "48273",
+    "Pop": 31690,
+    "Year": 2016,
+    "GrowthRate": -1.144835761300186,
+    "CTYNAME": "Kleberg County",
+    "StatePercentage": 0.1137367099605507,
+    "StateRank": 93
+  },
+  {
+    "area": 1842193219,
+    "FIPS": "48187",
+    "Pop": 155265,
+    "Year": 2016,
+    "GrowthRate": 17.124558703720467,
+    "CTYNAME": "Guadalupe County",
+    "StatePercentage": 0.5572524541503598,
+    "StateRank": 29
+  },
+  {
+    "area": 507188431,
+    "FIPS": "48063",
+    "Pop": 12867,
+    "Year": 2016,
+    "GrowthRate": 3.6491058482358625,
+    "CTYNAME": "Camp County",
+    "StatePercentage": 0.04618019081926178,
+    "StateRank": 152
+  },
+  {
+    "area": 2752130046,
+    "FIPS": "48001",
+    "Pop": 57734,
+    "Year": 2016,
+    "GrowthRate": -1.279026025101743,
+    "CTYNAME": "Anderson County",
+    "StatePercentage": 0.20720969431563377,
+    "StateRank": 56
+  },
+  {
+    "area": 2305502705,
+    "FIPS": "48437",
+    "Pop": 7466,
+    "Year": 2016,
+    "GrowthRate": -5.385882651121534,
+    "CTYNAME": "Swisher County",
+    "StatePercentage": 0.026795780263978275,
+    "StateRank": 185
+  },
+  {
+    "area": 2367989257,
+    "FIPS": "48417",
+    "Pop": 3315,
+    "Year": 2016,
+    "GrowthRate": -1.602849510240432,
+    "CTYNAME": "Shackelford County",
+    "StatePercentage": 0.011897670985144385,
+    "StateRank": 224
+  },
+  {
+    "area": 2330188757,
+    "FIPS": "48341",
+    "Pop": 22120,
+    "Year": 2016,
+    "GrowthRate": 0.540884505249764,
+    "CTYNAME": "Moore County",
+    "StatePercentage": 0.07938958738805242,
+    "StateRank": 110
+  },
+  {
+    "area": 2335454749,
+    "FIPS": "48125",
+    "Pop": 2184,
+    "Year": 2016,
+    "GrowthRate": -10.528471937730444,
+    "CTYNAME": "Dickens County",
+    "StatePercentage": 0.007838465590212772,
+    "StateRank": 233
+  },
+  {
+    "area": 2373238706,
+    "FIPS": "48433",
+    "Pop": 1426,
+    "Year": 2016,
+    "GrowthRate": -4.615384615384613,
+    "CTYNAME": "Stonewall County",
+    "StatePercentage": 0.005117972496173724,
+    "StateRank": 241
+  },
+  {
+    "area": 1629156479,
+    "FIPS": "48287",
+    "Pop": 17055,
+    "Year": 2016,
+    "GrowthRate": 2.7162129607323493,
+    "CTYNAME": "Lee County",
+    "StatePercentage": 0.06121109461587858,
+    "StateRank": 136
+  },
+  {
+    "area": 3394564110,
+    "FIPS": "48413",
+    "Pop": 3056,
+    "Year": 2016,
+    "GrowthRate": -12.66076021720491,
+    "CTYNAME": "Schleicher County",
+    "StatePercentage": 0.010968109360664025,
+    "StateRank": 228
+  },
+  {
+    "area": 2779463148,
+    "FIPS": "48289",
+    "Pop": 17299,
+    "Year": 2016,
+    "GrowthRate": 3.3146201624462464,
+    "CTYNAME": "Leon County",
+    "StatePercentage": 0.06208682062504154,
+    "StateRank": 134
+  },
+  {
+    "area": 2623292317,
+    "FIPS": "48141",
+    "Pop": 837918,
+    "Year": 2016,
+    "GrowthRate": 4.265212949563306,
+    "CTYNAME": "El Paso County",
+    "StatePercentage": 3.0073220743680884,
+    "StateRank": 8
+  },
+  {
+    "area": 1846249311,
+    "FIPS": "48281",
+    "Pop": 20760,
+    "Year": 2016,
+    "GrowthRate": 5.082000404940274,
+    "CTYNAME": "Lampasas County",
+    "StatePercentage": 0.07450849159927524,
+    "StateRank": 119
+  },
+  {
+    "area": 2071235519,
+    "FIPS": "48501",
+    "Pop": 8488,
+    "Year": 2016,
+    "GrowthRate": 8.196303377947743,
+    "CTYNAME": "Yoakum County",
+    "StatePercentage": 0.03046378018760348,
+    "StateRank": 176
+  },
+  {
+    "area": 2363499438,
+    "FIPS": "48447",
+    "Pop": 1533,
+    "Year": 2016,
+    "GrowthRate": -6.066176470588232,
+    "CTYNAME": "Throckmorton County",
+    "StatePercentage": 0.00550199988543781,
+    "StateRank": 239
+  },
+  {
+    "area": 6825586561,
+    "FIPS": "48389",
+    "Pop": 14921,
+    "Year": 2016,
+    "GrowthRate": 8.005790807093732,
+    "CTYNAME": "Reeves County",
+    "StatePercentage": 0.05355208107672379,
+    "StateRank": 141
+  },
+  {
+    "area": 2359148816,
+    "FIPS": "48269",
+    "Pop": 289,
+    "Year": 2016,
+    "GrowthRate": 0.34722222222222854,
+    "CTYNAME": "King County",
+    "StatePercentage": 0.0010372328551151516,
+    "StateRank": 253
+  },
+  {
+    "area": 2275328170,
+    "FIPS": "48121",
+    "Pop": 806180,
+    "Year": 2016,
+    "GrowthRate": 20.914424899810413,
+    "CTYNAME": "Denton County",
+    "StatePercentage": 2.893413090438522,
+    "StateRank": 9
+  },
+  {
+    "area": 2399587755,
+    "FIPS": "48133",
+    "Pop": 18274,
+    "Year": 2016,
+    "GrowthRate": -1.694550540642311,
+    "CTYNAME": "Eastland County",
+    "StatePercentage": 0.06558613562067224,
+    "StateRank": 128
+  },
+  {
+    "area": 2725136393,
+    "FIPS": "48099",
+    "Pop": 74686,
+    "Year": 2016,
+    "GrowthRate": -1.1946182645623082,
+    "CTYNAME": "Coryell County",
+    "StatePercentage": 0.2680511177063329,
+    "StateRank": 49
+  },
+  {
+    "area": 3158593195,
+    "FIPS": "48013",
+    "Pop": 48797,
+    "Year": 2016,
+    "GrowthRate": 8.52701109801393,
+    "CTYNAME": "Atascosa County",
+    "StatePercentage": 0.17513443470952958,
+    "StateRank": 68
+  },
+  {
+    "area": 4019519389,
+    "FIPS": "48463",
+    "Pop": 27285,
+    "Year": 2016,
+    "GrowthRate": 3.1725024578386183,
+    "CTYNAME": "Uvalde County",
+    "StatePercentage": 0.09792698426234224,
+    "StateRank": 99
+  },
+  {
+    "area": 2368463888,
+    "FIPS": "48503",
+    "Pop": 18152,
+    "Year": 2016,
+    "GrowthRate": -2.103332973789236,
+    "CTYNAME": "Young County",
+    "StatePercentage": 0.06514827261609077,
+    "StateRank": 129
+  },
+  {
+    "area": 8144863832,
+    "FIPS": "48465",
+    "Pop": 48881,
+    "Year": 2016,
+    "GrowthRate": -0.2571061276960478,
+    "CTYNAME": "Val Verde County",
+    "StatePercentage": 0.175435914155307,
+    "StateRank": 67
+  },
+  {
+    "area": 2344685543,
+    "FIPS": "48293",
+    "Pop": 23468,
+    "Year": 2016,
+    "GrowthRate": 0.01278499893457763,
+    "CTYNAME": "Limestone County",
+    "StatePercentage": 0.0842276146845757,
+    "StateRank": 106
+  },
+  {
+    "area": 2857583413,
+    "FIPS": "48265",
+    "Pop": 51504,
+    "Year": 2016,
+    "GrowthRate": 3.7341389728096743,
+    "CTYNAME": "Kerr County",
+    "StatePercentage": 0.18484996875380888,
+    "StateRank": 63
+  },
+  {
+    "area": 2358612574,
+    "FIPS": "48237",
+    "Pop": 8744,
+    "Year": 2016,
+    "GrowthRate": -2.9845778320204204,
+    "CTYNAME": "Jack County",
+    "StatePercentage": 0.031382574689020365,
+    "StateRank": 173
+  },
+  {
+    "area": 3876866567,
+    "FIPS": "48117",
+    "Pop": 18830,
+    "Year": 2016,
+    "GrowthRate": -3.162766778092049,
+    "CTYNAME": "Deaf Smith County",
+    "StatePercentage": 0.06758164242843703,
+    "StateRank": 127
+  },
+  {
+    "area": 2329363247,
+    "FIPS": "48059",
+    "Pop": 13820,
+    "Year": 2016,
+    "GrowthRate": 2.2264960426066978,
+    "CTYNAME": "Callahan County",
+    "StatePercentage": 0.04960054691242697,
+    "StateRank": 147
+  },
+  {
+    "area": 1836948312,
+    "FIPS": "48031",
+    "Pop": 11392,
+    "Year": 2016,
+    "GrowthRate": 8.392007611798292,
+    "CTYNAME": "Blanco County",
+    "StatePercentage": 0.04088635531305123,
+    "StateRank": 160
+  },
+  {
+    "area": 2165008338,
+    "FIPS": "48193",
+    "Pop": 8304,
+    "Year": 2016,
+    "GrowthRate": -2.190812720848058,
+    "CTYNAME": "Hamilton County",
+    "StatePercentage": 0.029803396639710097,
+    "StateRank": 179
+  },
+  {
+    "area": 2400623971,
+    "FIPS": "48129",
+    "Pop": 3405,
+    "Year": 2016,
+    "GrowthRate": -8.73760385955508,
+    "CTYNAME": "Donley County",
+    "StatePercentage": 0.012220684677048758,
+    "StateRank": 222
+  },
+  {
+    "area": 2300343165,
+    "FIPS": "48021",
+    "Pop": 82733,
+    "Year": 2016,
+    "GrowthRate": 11.310981352420413,
+    "CTYNAME": "Bastrop County",
+    "StatePercentage": 0.2969321308036049,
+    "StateRank": 46
+  },
+  {
+    "area": 3886363536,
+    "FIPS": "48359",
+    "Pop": 2076,
+    "Year": 2016,
+    "GrowthRate": 1.218917601170162,
+    "CTYNAME": "Oldham County",
+    "StatePercentage": 0.007450849159927524,
+    "StateRank": 235
+  },
+  {
+    "area": 3215009899,
+    "FIPS": "48461",
+    "Pop": 3673,
+    "Year": 2016,
+    "GrowthRate": 9.838516746411486,
+    "CTYNAME": "Upton County",
+    "StatePercentage": 0.013182547670719556,
+    "StateRank": 218
+  },
+  {
+    "area": 2352680373,
+    "FIPS": "48375",
+    "Pop": 120832,
+    "Year": 2016,
+    "GrowthRate": -0.480171313264421,
+    "CTYNAME": "Potter County",
+    "StatePercentage": 0.4336710046687681,
+    "StateRank": 37
+  },
+  {
+    "area": 2331648904,
+    "FIPS": "48329",
+    "Pop": 162565,
+    "Year": 2016,
+    "GrowthRate": 18.681374839387928,
+    "CTYNAME": "Midland County",
+    "StatePercentage": 0.5834524536048257,
+    "StateRank": 27
+  },
+  {
+    "area": 5865089584,
+    "FIPS": "48243",
+    "Pop": 2200,
+    "Year": 2016,
+    "GrowthRate": -6.183368869936032,
+    "CTYNAME": "Jeff Davis County",
+    "StatePercentage": 0.007895890246551327,
+    "StateRank": 231
+  },
+  {
+    "area": 2288233622,
+    "FIPS": "48191",
+    "Pop": 3138,
+    "Year": 2016,
+    "GrowthRate": -6.38424821002387,
+    "CTYNAME": "Hall County",
+    "StatePercentage": 0.01126241072439912,
+    "StateRank": 226
+  },
+  {
+    "area": 2332448562,
+    "FIPS": "48101",
+    "Pop": 1402,
+    "Year": 2016,
+    "GrowthRate": -6.905710491367856,
+    "CTYNAME": "Cottle County",
+    "StatePercentage": 0.00503183551166589,
+    "StateRank": 242
+  },
+  {
+    "area": 2419183503,
+    "FIPS": "48299",
+    "Pop": 20362,
+    "Year": 2016,
+    "GrowthRate": 5.273498087064425,
+    "CTYNAME": "Llano County",
+    "StatePercentage": 0.07308005327285369,
+    "StateRank": 121
+  },
+  {
+    "area": 1936189585,
+    "FIPS": "48255",
+    "Pop": 15254,
+    "Year": 2016,
+    "GrowthRate": 2.64450575331405,
+    "CTYNAME": "Karnes County",
+    "StatePercentage": 0.05474723173676997,
+    "StateRank": 139
+  },
+  {
+    "area": 2483455107,
+    "FIPS": "48217",
+    "Pop": 35077,
+    "Year": 2016,
+    "GrowthRate": -0.14234064964271909,
+    "CTYNAME": "Hill County",
+    "StatePercentage": 0.1258927918992186,
+    "StateRank": 87
+  },
+  {
+    "area": 2313930843,
+    "FIPS": "48169",
+    "Pop": 6442,
+    "Year": 2016,
+    "GrowthRate": -0.4019789734075516,
+    "CTYNAME": "Garza County",
+    "StatePercentage": 0.02312060225831075,
+    "StateRank": 192
+  },
+  {
+    "area": 2569637276,
+    "FIPS": "48153",
+    "Pop": 5917,
+    "Year": 2016,
+    "GrowthRate": -7.61904761904762,
+    "CTYNAME": "Floyd County",
+    "StatePercentage": 0.021236355722201908,
+    "StateRank": 196
+  },
+  {
+    "area": 5485228672,
+    "FIPS": "48137",
+    "Pop": 1911,
+    "Year": 2016,
+    "GrowthRate": -4.354354354354356,
+    "CTYNAME": "Edwards County",
+    "StatePercentage": 0.006858657391436175,
+    "StateRank": 236
+  },
+  {
+    "area": 1715732847,
+    "FIPS": "48259",
+    "Pop": 42540,
+    "Year": 2016,
+    "GrowthRate": 26.41526254791833,
+    "CTYNAME": "Kendall County",
+    "StatePercentage": 0.15267780504013337,
+    "StateRank": 74
+  },
+  {
+    "area": 736570306,
+    "FIPS": "48159",
+    "Pop": 10607,
+    "Year": 2016,
+    "GrowthRate": 0.09436633009342188,
+    "CTYNAME": "Franklin County",
+    "StatePercentage": 0.03806895811144087,
+    "StateRank": 163
+  },
+  {
+    "area": 2307244931,
+    "FIPS": "48147",
+    "Pop": 34031,
+    "Year": 2016,
+    "GrowthRate": 0.36274625457119214,
+    "CTYNAME": "Fannin County",
+    "StatePercentage": 0.12213865499108555,
+    "StateRank": 90
+  },
+  {
+    "area": 2585876159,
+    "FIPS": "48505",
+    "Pop": 14349,
+    "Year": 2016,
+    "GrowthRate": 1.946714031971581,
+    "CTYNAME": "Zapata County",
+    "StatePercentage": 0.05149914961262045,
+    "StateRank": 144
+  },
+  {
+    "area": 3516716918,
+    "FIPS": "48039",
+    "Pop": 354195,
+    "Year": 2016,
+    "GrowthRate": 12.620905431444001,
+    "CTYNAME": "Brazoria County",
+    "StatePercentage": 1.2712203844896577,
+    "StateRank": 15
+  },
+  {
+    "area": 3432663606,
+    "FIPS": "48325",
+    "Pop": 49283,
+    "Year": 2016,
+    "GrowthRate": 6.837347438704498,
+    "CTYNAME": "Medina County",
+    "StatePercentage": 0.17687870864581318,
+    "StateRank": 66
+  },
+  {
+    "area": 2759887000,
+    "FIPS": "48307",
+    "Pop": 8172,
+    "Year": 2016,
+    "GrowthRate": -0.6806028196402565,
+    "CTYNAME": "McCulloch County",
+    "StatePercentage": 0.029329643224917018,
+    "StateRank": 180
+  },
+  {
+    "area": 2309924845,
+    "FIPS": "48305",
+    "Pop": 5711,
+    "Year": 2016,
+    "GrowthRate": -3.252583432153145,
+    "CTYNAME": "Lynn County",
+    "StatePercentage": 0.02049701327184301,
+    "StateRank": 199
+  },
+  {
+    "area": 2692796907,
+    "FIPS": "48297",
+    "Pop": 12056,
+    "Year": 2016,
+    "GrowthRate": 4.408071360526549,
+    "CTYNAME": "Live Oak County",
+    "StatePercentage": 0.04326947855110127,
+    "StateRank": 156
+  },
+  {
+    "area": 2414327232,
+    "FIPS": "48295",
+    "Pop": 3487,
+    "Year": 2016,
+    "GrowthRate": 6.181485992691833,
+    "CTYNAME": "Lipscomb County",
+    "StatePercentage": 0.012514986040783853,
+    "StateRank": 221
+  },
+  {
+    "area": 3000360928,
+    "FIPS": "48291",
+    "Pop": 81704,
+    "Year": 2016,
+    "GrowthRate": 7.733488047047032,
+    "CTYNAME": "Liberty County",
+    "StatePercentage": 0.2932390075928316,
+    "StateRank": 47
+  },
+  {
+    "area": 3850511983,
+    "FIPS": "48283",
+    "Pop": 7613,
+    "Year": 2016,
+    "GrowthRate": 10.317345312273588,
+    "CTYNAME": "La Salle County",
+    "StatePercentage": 0.02732336929408875,
+    "StateRank": 183
+  },
+  {
+    "area": 3522534792,
+    "FIPS": "48271",
+    "Pop": 3590,
+    "Year": 2016,
+    "GrowthRate": -0.1390820584144592,
+    "CTYNAME": "Kinney County",
+    "StatePercentage": 0.0128846572659633,
+    "StateRank": 220
+  },
+  {
+    "area": 3240116505,
+    "FIPS": "48267",
+    "Pop": 4423,
+    "Year": 2016,
+    "GrowthRate": -3.5753215609330766,
+    "CTYNAME": "Kimble County",
+    "StatePercentage": 0.015874328436589327,
+    "StateRank": 207
+  },
+  {
+    "area": 2022009515,
+    "FIPS": "48257",
+    "Pop": 118350,
+    "Year": 2016,
+    "GrowthRate": 13.905410867933242,
+    "CTYNAME": "Kaufman County",
+    "StatePercentage": 0.4247630048542498,
+    "StateRank": 39
+  },
+  {
+    "area": 2081662846,
+    "FIPS": "48493",
+    "Pop": 48480,
+    "Year": 2016,
+    "GrowthRate": 12.553107515148696,
+    "CTYNAME": "Wilson County",
+    "StatePercentage": 0.17399670870582196,
+    "StateRank": 70
+  },
+  {
+    "area": 2368603567,
+    "FIPS": "48483",
+    "Pop": 5546,
+    "Year": 2016,
+    "GrowthRate": 2.7798369162342453,
+    "CTYNAME": "Wheeler County",
+    "StatePercentage": 0.019904821503351662,
+    "StateRank": 201
+  },
+  {
+    "area": 2302083227,
+    "FIPS": "48445",
+    "Pop": 12799,
+    "Year": 2016,
+    "GrowthRate": 1.0660138976626712,
+    "CTYNAME": "Terry County",
+    "StatePercentage": 0.045936136029822924,
+    "StateRank": 153
+  },
+  {
+    "area": 2391739055,
+    "FIPS": "48431",
+    "Pop": 1367,
+    "Year": 2016,
+    "GrowthRate": 20.123022847100174,
+    "CTYNAME": "Sterling County",
+    "StatePercentage": 0.0049062190759253015,
+    "StateRank": 243
+  },
+  {
+    "area": 2322492642,
+    "FIPS": "48429",
+    "Pop": 9906,
+    "Year": 2016,
+    "GrowthRate": 3.123048094940657,
+    "CTYNAME": "Stephens County",
+    "StatePercentage": 0.035553040355607926,
+    "StateRank": 169
+  },
+  {
+    "area": 2390648957,
+    "FIPS": "48421",
+    "Pop": 3068,
+    "Year": 2016,
+    "GrowthRate": 1.32100396301189,
+    "CTYNAME": "Sherman County",
+    "StatePercentage": 0.01101117785291794,
+    "StateRank": 227
+  },
+  {
+    "area": 2345090493,
+    "FIPS": "48415",
+    "Pop": 17333,
+    "Year": 2016,
+    "GrowthRate": 2.3199527744982333,
+    "CTYNAME": "Scurry County",
+    "StatePercentage": 0.062208848019760975,
+    "StateRank": 133
+  },
+  {
+    "area": 2404946726,
+    "FIPS": "48253",
+    "Pop": 20009,
+    "Year": 2016,
+    "GrowthRate": -1.058201058201064,
+    "CTYNAME": "Jones County",
+    "StatePercentage": 0.07181312179238432,
+    "StateRank": 122
+  },
+  {
+    "area": 2240778092,
+    "FIPS": "48249",
+    "Pop": 41149,
+    "Year": 2016,
+    "GrowthRate": 0.6358678373156579,
+    "CTYNAME": "Jim Wells County",
+    "StatePercentage": 0.14768544897970023,
+    "StateRank": 78
+  },
+  {
+    "area": 2942597110,
+    "FIPS": "48247",
+    "Pop": 5146,
+    "Year": 2016,
+    "GrowthRate": -2.648505486189933,
+    "CTYNAME": "Jim Hogg County",
+    "StatePercentage": 0.018469205094887784,
+    "StateRank": 204
+  },
+  {
+    "area": 2298404017,
+    "FIPS": "48233",
+    "Pop": 21511,
+    "Year": 2016,
+    "GrowthRate": -3.1166959419898177,
+    "CTYNAME": "Hutchinson County",
+    "StatePercentage": 0.07720386140616617,
+    "StateRank": 114
+  },
+  {
+    "area": 2352723913,
+    "FIPS": "48219",
+    "Pop": 23275,
+    "Year": 2016,
+    "GrowthRate": 1.8644141975578776,
+    "CTYNAME": "Hockley County",
+    "StatePercentage": 0.08353492976749187,
+    "StateRank": 107
+  },
+  {
+    "area": 1755978884,
+    "FIPS": "48209",
+    "Pop": 204470,
+    "Year": 2016,
+    "GrowthRate": 29.214299707408315,
+    "CTYNAME": "Hays County",
+    "StatePercentage": 0.7338512175965226,
+    "StateRank": 24
+  },
+  {
+    "area": 3786647725,
+    "FIPS": "48205",
+    "Pop": 5747,
+    "Year": 2016,
+    "GrowthRate": -5.071027419887685,
+    "CTYNAME": "Hartley County",
+    "StatePercentage": 0.02062621874860476,
+    "StateRank": 197
+  },
+  {
+    "area": 1800337387,
+    "FIPS": "48197",
+    "Pop": 3906,
+    "Year": 2016,
+    "GrowthRate": -5.992779783393502,
+    "CTYNAME": "Hardeman County",
+    "StatePercentage": 0.014018794228649763,
+    "StateRank": 212
+  },
+  {
+    "area": 2415989108,
+    "FIPS": "48181",
+    "Pop": 128235,
+    "Year": 2016,
+    "GrowthRate": 5.946941844229457,
+    "CTYNAME": "Grayson County",
+    "StatePercentage": 0.46024067534841334,
+    "StateRank": 35
+  },
+  {
+    "area": 2382296529,
+    "FIPS": "48195",
+    "Pop": 5538,
+    "Year": 2016,
+    "GrowthRate": -1.1424491253123819,
+    "CTYNAME": "Hansford County",
+    "StatePercentage": 0.019876109175182385,
+    "StateRank": 202
+  },
+  {
+    "area": 2762704864,
+    "FIPS": "48177",
+    "Pop": 20876,
+    "Year": 2016,
+    "GrowthRate": 5.476960388035565,
+    "CTYNAME": "Gonzales County",
+    "StatePercentage": 0.07492482035772977,
+    "StateRank": 117
+  },
+  {
+    "area": 2740756101,
+    "FIPS": "48171",
+    "Pop": 26521,
+    "Year": 2016,
+    "GrowthRate": 6.608513888330592,
+    "CTYNAME": "Gillespie County",
+    "StatePercentage": 0.09518495692217624,
+    "StateRank": 100
+  },
+  {
+    "area": 2354237904,
+    "FIPS": "48123",
+    "Pop": 20865,
+    "Year": 2016,
+    "GrowthRate": 4.028518721643323,
+    "CTYNAME": "DeWitt County",
+    "StatePercentage": 0.07488534090649701,
+    "StateRank": 118
+  },
+  {
+    "area": 2331781557,
+    "FIPS": "48115",
+    "Pop": 13111,
+    "Year": 2016,
+    "GrowthRate": -5.239953743856603,
+    "CTYNAME": "Dawson County",
+    "StatePercentage": 0.04705591682842475,
+    "StateRank": 150
+  },
+  {
+    "area": 3893418641,
+    "FIPS": "48111",
+    "Pop": 7056,
+    "Year": 2016,
+    "GrowthRate": 4.65737169979235,
+    "CTYNAME": "Dallam County",
+    "StatePercentage": 0.0253242734453028,
+    "StateRank": 189
+  },
+  {
+    "area": 9875068369,
+    "FIPS": "48109",
+    "Pop": 2198,
+    "Year": 2016,
+    "GrowthRate": -8.378491037932477,
+    "CTYNAME": "Culberson County",
+    "StatePercentage": 0.007888712164509006,
+    "StateRank": 232
+  },
+  {
+    "area": 2178964322,
+    "FIPS": "48085",
+    "Pop": 939585,
+    "Year": 2016,
+    "GrowthRate": 19.124655622060985,
+    "CTYNAME": "Collin County",
+    "StatePercentage": 3.3722091078663308,
+    "StateRank": 6
+  },
+  {
+    "area": 2360705920,
+    "FIPS": "48081",
+    "Pop": 3264,
+    "Year": 2016,
+    "GrowthRate": -1.6867469879518069,
+    "CTYNAME": "Coke County",
+    "StatePercentage": 0.01171462989306524,
+    "StateRank": 225
+  },
+  {
+    "area": 2819780889,
+    "FIPS": "48077",
+    "Pop": 10193,
+    "Year": 2016,
+    "GrowthRate": -5.031212149445636,
+    "CTYNAME": "Clay County",
+    "StatePercentage": 0.036583095128680757,
+    "StateRank": 167
+  },
+  {
+    "area": 1803680231,
+    "FIPS": "48075",
+    "Pop": 7052,
+    "Year": 2016,
+    "GrowthRate": -0.14160294534126194,
+    "CTYNAME": "Childress County",
+    "StatePercentage": 0.02530991728121816,
+    "StateRank": 190
+  },
+  {
+    "area": 2575116286,
+    "FIPS": "48053",
+    "Pop": 46243,
+    "Year": 2016,
+    "GrowthRate": 8.188475305898038,
+    "CTYNAME": "Burnet County",
+    "StatePercentage": 0.1659680239414877,
+    "StateRank": 72
+  },
+  {
+    "area": 2443273797,
+    "FIPS": "48047",
+    "Pop": 7214,
+    "Year": 2016,
+    "GrowthRate": 0.16662038322688488,
+    "CTYNAME": "Brooks County",
+    "StatePercentage": 0.025891341926646032,
+    "StateRank": 187
+  },
+  {
+    "area": 2722150391,
+    "FIPS": "48027",
+    "Pop": 340411,
+    "Year": 2016,
+    "GrowthRate": 8.762720258159334,
+    "CTYNAME": "Bell County",
+    "StatePercentage": 1.2217490430539926,
+    "StateRank": 16
+  },
+  {
+    "area": 2048649340,
+    "FIPS": "48019",
+    "Pop": 21776,
+    "Year": 2016,
+    "GrowthRate": 5.971093483867833,
+    "CTYNAME": "Bandera County",
+    "StatePercentage": 0.07815495727677349,
+    "StateRank": 113
+  },
+  {
+    "area": 2339055582,
+    "FIPS": "48009",
+    "Pop": 8703,
+    "Year": 2016,
+    "GrowthRate": -4.4466403162055315,
+    "CTYNAME": "Archer County",
+    "StatePercentage": 0.031235424007152814,
+    "StateRank": 175
+  },
+  {
+    "area": 329204539,
+    "FIPS": "48397",
+    "Pop": 93978,
+    "Year": 2016,
+    "GrowthRate": 19.058960650670187,
+    "CTYNAME": "Rockwall County",
+    "StatePercentage": 0.3372908970865457,
+    "StateRank": 40
+  },
+  {
+    "area": 2393298484,
+    "FIPS": "48393",
+    "Pop": 916,
+    "Year": 2016,
+    "GrowthRate": -0.865800865800864,
+    "CTYNAME": "Roberts County",
+    "StatePercentage": 0.0032875615753822796,
+    "StateRank": 247
+  },
+  {
+    "area": 2361843619,
+    "FIPS": "48381",
+    "Pop": 132501,
+    "Year": 2016,
+    "GrowthRate": 9.330571897716865,
+    "CTYNAME": "Randall County",
+    "StatePercentage": 0.47555152434468057,
+    "StateRank": 32
+  },
+  {
+    "area": 2281212181,
+    "FIPS": "48369",
+    "Pop": 9776,
+    "Year": 2016,
+    "GrowthRate": -4.847187074167806,
+    "CTYNAME": "Parmer County",
+    "StatePercentage": 0.035086465022857165,
+    "StateRank": 170
+  },
+  {
+    "area": 2339994800,
+    "FIPS": "48367",
+    "Pop": 129441,
+    "Year": 2016,
+    "GrowthRate": 10.300546215265058,
+    "CTYNAME": "Parker County",
+    "StatePercentage": 0.46456905881993193,
+    "StateRank": 34
+  },
+  {
+    "area": 2465126936,
+    "FIPS": "48363",
+    "Pop": 28053,
+    "Year": 2016,
+    "GrowthRate": -0.06412311638345614,
+    "CTYNAME": "Palo Pinto County",
+    "StatePercentage": 0.1006833677665929,
+    "StateRank": 96
+  },
+  {
+    "area": 2362061740,
+    "FIPS": "48353",
+    "Pop": 14993,
+    "Year": 2016,
+    "GrowthRate": -1.6530009839291608,
+    "CTYNAME": "Nolan County",
+    "StatePercentage": 0.05381049203024729,
+    "StateRank": 140
+  },
+  {
+    "area": 2562949310,
+    "FIPS": "48345",
+    "Pop": 1160,
+    "Year": 2016,
+    "GrowthRate": -3.8142620232172533,
+    "CTYNAME": "Motley County",
+    "StatePercentage": 0.0041632875845452446,
+    "StateRank": 246
+  },
+  {
+    "area": 2359711005,
+    "FIPS": "48335",
+    "Pop": 8720,
+    "Year": 2016,
+    "GrowthRate": -7.381837493361658,
+    "CTYNAME": "Mitchell County",
+    "StatePercentage": 0.03129643770451253,
+    "StateRank": 174
+  },
+  {
+    "area": 2633655781,
+    "FIPS": "48331",
+    "Pop": 24871,
+    "Year": 2016,
+    "GrowthRate": 0.7453315510187508,
+    "CTYNAME": "Milam County",
+    "StatePercentage": 0.08926303923726274,
+    "StateRank": 104
+  },
+  {
+    "area": 2216227839,
+    "FIPS": "48395",
+    "Pop": 16751,
+    "Year": 2016,
+    "GrowthRate": 1.0984368398816997,
+    "CTYNAME": "Robertson County",
+    "StatePercentage": 0.06012002614544603,
+    "StateRank": 137
+  },
+  {
+    "area": 2514474407,
+    "FIPS": "48487",
+    "Pop": 12892,
+    "Year": 2016,
+    "GrowthRate": -4.524920388061915,
+    "CTYNAME": "Wilbarger County",
+    "StatePercentage": 0.04626991684479077,
+    "StateRank": 151
+  },
+  {
+    "area": 2236761455,
+    "FIPS": "48439",
+    "Pop": 2016872,
+    "Year": 2016,
+    "GrowthRate": 10.958157262498986,
+    "CTYNAME": "Tarrant County",
+    "StatePercentage": 7.238636342428394,
+    "StateRank": 3
+  },
+  {
+    "area": 1824378275,
+    "FIPS": "48155",
+    "Pop": 1183,
+    "Year": 2016,
+    "GrowthRate": -11.584454409566519,
+    "CTYNAME": "Foard County",
+    "StatePercentage": 0.0042458355280319176,
+    "StateRank": 245
+  },
+  {
+    "area": 1412142115,
+    "FIPS": "48055",
+    "Pop": 41161,
+    "Year": 2016,
+    "GrowthRate": 8.019944889122158,
+    "CTYNAME": "Caldwell County",
+    "StatePercentage": 0.14772851747195415,
+    "StateRank": 77
+  },
+  {
+    "area": 3360268387,
+    "FIPS": "48507",
+    "Pop": 12023,
+    "Year": 2016,
+    "GrowthRate": 2.655396174863384,
+    "CTYNAME": "Zavala County",
+    "StatePercentage": 0.043151040197403,
+    "StateRank": 157
+  },
+  {
+    "area": 2342376357,
+    "FIPS": "48497",
+    "Pop": 64455,
+    "Year": 2016,
+    "GrowthRate": 9.060913705583758,
+    "CTYNAME": "Wise County",
+    "StatePercentage": 0.23133163901884807,
+    "StateRank": 54
+  },
+  {
+    "area": 1529529800,
+    "FIPS": "48489",
+    "Pop": 21810,
+    "Year": 2016,
+    "GrowthRate": -1.7744550531435834,
+    "CTYNAME": "Willacy County",
+    "StatePercentage": 0.07827698467149292,
+    "StateRank": 112
+  },
+  {
+    "area": 1625943401,
+    "FIPS": "48485",
+    "Pop": 131838,
+    "Year": 2016,
+    "GrowthRate": 0.02351923645936438,
+    "CTYNAME": "Wichita County",
+    "StatePercentage": 0.4731719901476517,
+    "StateRank": 33
+  },
+  {
+    "area": 2813116863,
+    "FIPS": "48481",
+    "Pop": 41735,
+    "Year": 2016,
+    "GrowthRate": 1.0239155693261068,
+    "CTYNAME": "Wharton County",
+    "StatePercentage": 0.14978862701809983,
+    "StateRank": 75
+  },
+  {
+    "area": 3941920273,
+    "FIPS": "48451",
+    "Pop": 118386,
+    "Year": 2016,
+    "GrowthRate": 6.972079154242337,
+    "CTYNAME": "Tom Green County",
+    "StatePercentage": 0.4248922103310115,
+    "StateRank": 38
+  },
+  {
+    "area": 2371267399,
+    "FIPS": "48441",
+    "Pop": 136535,
+    "Year": 2016,
+    "GrowthRate": 3.544641706038931,
+    "CTYNAME": "Taylor County",
+    "StatePercentage": 0.4900297158240388,
+    "StateRank": 30
+  },
+  {
+    "area": 2386700344,
+    "FIPS": "48423",
+    "Pop": 225290,
+    "Year": 2016,
+    "GrowthRate": 7.043926543605821,
+    "CTYNAME": "Smith County",
+    "StatePercentage": 0.8085750516570674,
+    "StateRank": 22
+  },
+  {
+    "area": 2721934014,
+    "FIPS": "48399",
+    "Pop": 10448,
+    "Year": 2016,
+    "GrowthRate": -0.5615304082992338,
+    "CTYNAME": "Runnels County",
+    "StatePercentage": 0.03749830058907648,
+    "StateRank": 164
+  },
+  {
+    "area": 1810772281,
+    "FIPS": "48385",
+    "Pop": 3389,
+    "Year": 2016,
+    "GrowthRate": 2.1090689966857497,
+    "CTYNAME": "Real County",
+    "StatePercentage": 0.012163260020710203,
+    "StateRank": 223
+  },
+  {
+    "area": 2101400463,
+    "FIPS": "48365",
+    "Pop": 23492,
+    "Year": 2016,
+    "GrowthRate": -1.2443248696821883,
+    "CTYNAME": "Panola County",
+    "StatePercentage": 0.08431375166908353,
+    "StateRank": 105
+  },
+  {
+    "area": 2171223719,
+    "FIPS": "48355",
+    "Pop": 361350,
+    "Year": 2016,
+    "GrowthRate": 6.181350164847757,
+    "CTYNAME": "Nueces County",
+    "StatePercentage": 1.2968999729960553,
+    "StateRank": 14
+  },
+  {
+    "area": 2411034616,
+    "FIPS": "48337",
+    "Pop": 19414,
+    "Year": 2016,
+    "GrowthRate": -1.5167655861614122,
+    "CTYNAME": "Montague County",
+    "StatePercentage": 0.06967764238479429,
+    "StateRank": 125
+  },
+  {
+    "area": 2686101579,
+    "FIPS": "48309",
+    "Pop": 247934,
+    "Year": 2016,
+    "GrowthRate": 5.083050423622851,
+    "CTYNAME": "McLennan County",
+    "StatePercentage": 0.8898452965402075,
+    "StateRank": 21
+  },
+  {
+    "area": 2319585100,
+    "FIPS": "48303",
+    "Pop": 303137,
+    "Year": 2016,
+    "GrowthRate": 8.141555036298456,
+    "CTYNAME": "Lubbock County",
+    "StatePercentage": 1.087971128031286,
+    "StateRank": 18
+  },
+  {
+    "area": 2511535241,
+    "FIPS": "48285",
+    "Pop": 19809,
+    "Year": 2016,
+    "GrowthRate": 2.9252831757248288,
+    "CTYNAME": "Lavaca County",
+    "StatePercentage": 0.07109531358815238,
+    "StateRank": 123
+  },
+  {
+    "area": 2631897575,
+    "FIPS": "48279",
+    "Pop": 13275,
+    "Year": 2016,
+    "GrowthRate": -5.171797985570393,
+    "CTYNAME": "Lamb County",
+    "StatePercentage": 0.04764451955589494,
+    "StateRank": 149
+  },
+  {
+    "area": 2203098613,
+    "FIPS": "48275",
+    "Pop": 3806,
+    "Year": 2016,
+    "GrowthRate": 2.2293849046467926,
+    "CTYNAME": "Knox County",
+    "StatePercentage": 0.013659890126533795,
+    "StateRank": 215
+  },
+  {
+    "area": 1877186503,
+    "FIPS": "48251",
+    "Pop": 163274,
+    "Year": 2016,
+    "GrowthRate": 7.940474537725677,
+    "CTYNAME": "Johnson County",
+    "StatePercentage": 0.5859970836888279,
+    "StateRank": 26
+  },
+  {
+    "area": 2176414828,
+    "FIPS": "48231",
+    "Pop": 92073,
+    "Year": 2016,
+    "GrowthRate": 6.602987148315393,
+    "CTYNAME": "Hunt County",
+    "StatePercentage": 0.3304537739412365,
+    "StateRank": 43
+  },
+  {
+    "area": 2333038989,
+    "FIPS": "48227",
+    "Pop": 36708,
+    "Year": 2016,
+    "GrowthRate": 4.850042844901452,
+    "CTYNAME": "Howard County",
+    "StatePercentage": 0.13174651780473004,
+    "StateRank": 84
+  },
+  {
+    "area": 1089485204,
+    "FIPS": "48221",
+    "Pop": 56857,
+    "Year": 2016,
+    "GrowthRate": 10.884234339652082,
+    "CTYNAME": "Hood County",
+    "StatePercentage": 0.2040621053400767,
+    "StateRank": 58
+  },
+  {
+    "area": 2602115649,
+    "FIPS": "48189",
+    "Pop": 34263,
+    "Year": 2016,
+    "GrowthRate": -5.611570247933884,
+    "CTYNAME": "Hale County",
+    "StatePercentage": 0.12297131250799459,
+    "StateRank": 89
+  },
+  {
+    "area": 708030599,
+    "FIPS": "48183",
+    "Pop": 123745,
+    "Year": 2016,
+    "GrowthRate": 1.4220145889681106,
+    "CTYNAME": "Gregg County",
+    "StatePercentage": 0.4441258811634063,
+    "StateRank": 36
+  },
+  {
+    "area": 2398261671,
+    "FIPS": "48179",
+    "Pop": 22725,
+    "Year": 2016,
+    "GrowthRate": 1.1888859203847204,
+    "CTYNAME": "Gray County",
+    "StatePercentage": 0.08156095720585405,
+    "StateRank": 109
+  },
+  {
+    "area": 3891129569,
+    "FIPS": "48165",
+    "Pop": 20478,
+    "Year": 2016,
+    "GrowthRate": 16.550939100739896,
+    "CTYNAME": "Gaines County",
+    "StatePercentage": 0.0734963820313082,
+    "StateRank": 120
+  },
+  {
+    "area": 2935753509,
+    "FIPS": "48163",
+    "Pop": 18956,
+    "Year": 2016,
+    "GrowthRate": 9.921716439547694,
+    "CTYNAME": "Frio County",
+    "StatePercentage": 0.06803386159710316,
+    "StateRank": 126
+  },
+  {
+    "area": 2273333001,
+    "FIPS": "48161",
+    "Pop": 19624,
+    "Year": 2016,
+    "GrowthRate": -0.9389197375063105,
+    "CTYNAME": "Freestone County",
+    "StatePercentage": 0.07043134099923783,
+    "StateRank": 124
+  },
+  {
+    "area": 2460509745,
+    "FIPS": "48149",
+    "Pop": 25149,
+    "Year": 2016,
+    "GrowthRate": 2.527620367727991,
+    "CTYNAME": "Fayette County",
+    "StatePercentage": 0.09026079264114514,
+    "StateRank": 103
+  },
+  {
+    "area": 1982592892,
+    "FIPS": "48145",
+    "Pop": 17273,
+    "Year": 2016,
+    "GrowthRate": -3.38404743259872,
+    "CTYNAME": "Falls County",
+    "StatePercentage": 0.06199350555849139,
+    "StateRank": 135
+  },
+  {
+    "area": 2805141640,
+    "FIPS": "48143",
+    "Pop": 41659,
+    "Year": 2016,
+    "GrowthRate": 9.929807895292385,
+    "CTYNAME": "Erath County",
+    "StatePercentage": 0.14951585990049168,
+    "StateRank": 76
+  },
+  {
+    "area": 4645082837,
+    "FIPS": "48131",
+    "Pop": 11428,
+    "Year": 2016,
+    "GrowthRate": -2.49978670761881,
+    "CTYNAME": "Duval County",
+    "StatePercentage": 0.04101556078981298,
+    "StateRank": 159
+  },
+  {
+    "area": 3441795366,
+    "FIPS": "48127",
+    "Pop": 10794,
+    "Year": 2016,
+    "GrowthRate": 7.542094251270299,
+    "CTYNAME": "Dimmit County",
+    "StatePercentage": 0.03874010878239773,
+    "StateRank": 162
+  },
+  {
+    "area": 2261192991,
+    "FIPS": "48113",
+    "Pop": 2574984,
+    "Year": 2016,
+    "GrowthRate": 8.536913317456637,
+    "CTYNAME": "Dallas County",
+    "StatePercentage": 9.241723204829873,
+    "StateRank": 2
+  },
+  {
+    "area": 2331504872,
+    "FIPS": "48107",
+    "Pop": 5992,
+    "Year": 2016,
+    "GrowthRate": -0.8275405494869261,
+    "CTYNAME": "Crosby County",
+    "StatePercentage": 0.021505533798788886,
+    "StateRank": 194
+  },
+  {
+    "area": 2265775271,
+    "FIPS": "48097",
+    "Pop": 39266,
+    "Year": 2016,
+    "GrowthRate": 2.106303307676299,
+    "CTYNAME": "Cooke County",
+    "StatePercentage": 0.14092728473685653,
+    "StateRank": 81
+  },
+  {
+    "area": 2428770461,
+    "FIPS": "48093",
+    "Pop": 13484,
+    "Year": 2016,
+    "GrowthRate": -3.3405017921146936,
+    "CTYNAME": "Comanche County",
+    "StatePercentage": 0.04839462912931731,
+    "StateRank": 148
+  },
+  {
+    "area": 2316573414,
+    "FIPS": "48069",
+    "Pop": 7669,
+    "Year": 2016,
+    "GrowthRate": -5.4377311960542585,
+    "CTYNAME": "Castro County",
+    "StatePercentage": 0.02752435559127369,
+    "StateRank": 182
+  },
+  {
+    "area": 2446081829,
+    "FIPS": "48049",
+    "Pop": 38271,
+    "Year": 2016,
+    "GrowthRate": 0.4066533739112117,
+    "CTYNAME": "Brown County",
+    "StatePercentage": 0.13735618892080265,
+    "StateRank": 82
+  },
+  {
+    "area": 2330991080,
+    "FIPS": "48045",
+    "Pop": 1474,
+    "Year": 2016,
+    "GrowthRate": -9.625996321275295,
+    "CTYNAME": "Briscoe County",
+    "StatePercentage": 0.005290246465189389,
+    "StateRank": 240
+  },
+  {
+    "area": 2141566431,
+    "FIPS": "48017",
+    "Pop": 7181,
+    "Year": 2016,
+    "GrowthRate": 0.3914441493079863,
+    "CTYNAME": "Bailey County",
+    "StatePercentage": 0.025772903572947762,
+    "StateRank": 188
+  },
+  {
+    "area": 2336245914,
+    "FIPS": "48327",
+    "Pop": 2123,
+    "Year": 2016,
+    "GrowthRate": -5.053667262969583,
+    "CTYNAME": "Menard County",
+    "StatePercentage": 0.00761953408792203,
+    "StateRank": 234
+  },
+  {
+    "area": 2339103809,
+    "FIPS": "48207",
+    "Pop": 5681,
+    "Year": 2016,
+    "GrowthRate": -3.3843537414965965,
+    "CTYNAME": "Haskell County",
+    "StatePercentage": 0.020389342041208222,
+    "StateRank": 200
+  },
+  {
+    "area": 2232145033,
+    "FIPS": "48157",
+    "Pop": 741237,
+    "Year": 2016,
+    "GrowthRate": 25.541255316013846,
+    "CTYNAME": "Fort Bend County",
+    "StatePercentage": 2.660329999401348,
+    "StateRank": 10
+  },
+  {
+    "area": 2393244478,
+    "FIPS": "48401",
+    "Pop": 52732,
+    "Year": 2016,
+    "GrowthRate": -1.1380040870657524,
+    "CTYNAME": "Rusk County",
+    "StatePercentage": 0.18925731112779298,
+    "StateRank": 61
+  },
+  {
+    "area": 4415554759,
+    "FIPS": "48201",
+    "Pop": 4589928,
+    "Year": 2016,
+    "GrowthRate": 11.723074316726013,
+    "CTYNAME": "Harris County",
+    "StatePercentage": 16.473439876169472,
+    "StateRank": 1
+  },
+  {
+    "area": 1312707083,
+    "FIPS": "48057",
+    "Pop": 21965,
+    "Year": 2016,
+    "GrowthRate": 2.99151310545318,
+    "CTYNAME": "Calhoun County",
+    "StatePercentage": 0.07883328602977267,
+    "StateRank": 111
+  },
+  {
+    "area": 2246765475,
+    "FIPS": "48023",
+    "Pop": 3697,
+    "Year": 2016,
+    "GrowthRate": -0.5113024757804112,
+    "CTYNAME": "Baylor County",
+    "StatePercentage": 0.013268684655227387,
+    "StateRank": 216
+  },
+  {
+    "area": 1796490532,
+    "FIPS": "48455",
+    "Pop": 14442,
+    "Year": 2016,
+    "GrowthRate": -1.8218898708361593,
+    "CTYNAME": "Trinity County",
+    "StatePercentage": 0.0518329304275883,
+    "StateRank": 143
+  },
+  {
+    "area": 2178493584,
+    "FIPS": "48495",
+    "Pop": 7893,
+    "Year": 2016,
+    "GrowthRate": 11.498799265432964,
+    "CTYNAME": "Winkler County",
+    "StatePercentage": 0.028328300780013464,
+    "StateRank": 181
+  },
+  {
+    "area": 2060566160,
+    "FIPS": "48419",
+    "Pop": 25579,
+    "Year": 2016,
+    "GrowthRate": 0.5661490072734381,
+    "CTYNAME": "Shelby County",
+    "StatePercentage": 0.09180408028024381,
+    "StateRank": 102
+  },
+  {
+    "area": 2007614621,
+    "FIPS": "48079",
+    "Pop": 2882,
+    "Year": 2016,
+    "GrowthRate": -8.15806246016571,
+    "CTYNAME": "Cochran County",
+    "StatePercentage": 0.010343616222982237,
+    "StateRank": 230
+  },
+  {
+    "area": 1516568117,
+    "FIPS": "48041",
+    "Pop": 220417,
+    "Year": 2016,
+    "GrowthRate": 12.632923682260667,
+    "CTYNAME": "Brazos County",
+    "StatePercentage": 0.7910856547609563,
+    "StateRank": 23
+  },
+  {
+    "area": 2703628975,
+    "FIPS": "48387",
+    "Pop": 12207,
+    "Year": 2016,
+    "GrowthRate": -5.033452621751991,
+    "CTYNAME": "Red River County",
+    "StatePercentage": 0.04381142374529638,
+    "StateRank": 155
+  },
+  {
+    "area": 1732508024,
+    "FIPS": "48301",
+    "Pop": 113,
+    "Year": 2016,
+    "GrowthRate": 36.14457831325302,
+    "CTYNAME": "Loving County",
+    "StatePercentage": 4.055616353910454E-4,
+    "StateRank": 254
+  },
+  {
+    "area": 2349622228,
+    "FIPS": "48277",
+    "Pop": 49791,
+    "Year": 2016,
+    "GrowthRate": -0.0541972780922606,
+    "CTYNAME": "Lamar County",
+    "StatePercentage": 0.1787019414845623,
+    "StateRank": 65
+  },
+  {
+    "area": 2331552809,
+    "FIPS": "48173",
+    "Pop": 1314,
+    "Year": 2016,
+    "GrowthRate": 6.742485783915512,
+    "CTYNAME": "Glasscock County",
+    "StatePercentage": 0.004715999901803838,
+    "StateRank": 244
+  },
+  {
+    "area": 1546604745,
+    "FIPS": "48071",
+    "Pop": 39899,
+    "Year": 2016,
+    "GrowthRate": 12.619961612284072,
+    "CTYNAME": "Chambers County",
+    "StatePercentage": 0.14319914770325062,
+    "StateRank": 80
+  },
+  {
+    "area": 16015846743,
+    "FIPS": "48043",
+    "Pop": 9200,
+    "Year": 2016,
+    "GrowthRate": -0.7551240560949282,
+    "CTYNAME": "Brewster County",
+    "StatePercentage": 0.03301917739466918,
+    "StateRank": 171
+  },
+  {
+    "area": 1674400698,
+    "FIPS": "48015",
+    "Pop": 29758,
+    "Year": 2016,
+    "GrowthRate": 4.862921981816896,
+    "CTYNAME": "Austin County",
+    "StatePercentage": 0.10680268270767017,
+    "StateRank": 95
+  },
+  {
+    "area": 2940486012,
+    "FIPS": "48411",
+    "Pop": 5944,
+    "Year": 2016,
+    "GrowthRate": -3.0816892222403425,
+    "CTYNAME": "San Saba County",
+    "StatePercentage": 0.02133325982977322,
+    "StateRank": 195
+  },
+  {
+    "area": 1995524251,
+    "FIPS": "48391",
+    "Pop": 7321,
+    "Year": 2016,
+    "GrowthRate": -0.5298913043478279,
+    "CTYNAME": "Refugio County",
+    "StatePercentage": 0.026275369315910117,
+    "StateRank": 186
+  },
+  {
+    "area": 594280566,
+    "FIPS": "48379",
+    "Pop": 11314,
+    "Year": 2016,
+    "GrowthRate": 3.513266239707221,
+    "CTYNAME": "Rains County",
+    "StatePercentage": 0.04060641011340078,
+    "StateRank": 161
+  },
+  {
+    "area": 3313824009,
+    "FIPS": "48323",
+    "Pop": 57685,
+    "Year": 2016,
+    "GrowthRate": 5.865404026500755,
+    "CTYNAME": "Maverick County",
+    "StatePercentage": 0.20703383130559694,
+    "StateRank": 57
+  },
+  {
+    "area": 2206695364,
+    "FIPS": "48175",
+    "Pop": 7517,
+    "Year": 2016,
+    "GrowthRate": 4.070330887442893,
+    "CTYNAME": "Goliad County",
+    "StatePercentage": 0.02697882135605742,
+    "StateRank": 184
+  },
+  {
+    "area": 2325094451,
+    "FIPS": "48135",
+    "Pop": 157462,
+    "Year": 2016,
+    "GrowthRate": 14.866175966385327,
+    "CTYNAME": "Ector County",
+    "StatePercentage": 0.5651375772738477,
+    "StateRank": 28
+  },
+  {
+    "area": 2487151628,
+    "FIPS": "48089",
+    "Pop": 21019,
+    "Year": 2016,
+    "GrowthRate": 0.651247426136095,
+    "CTYNAME": "Colorado County",
+    "StatePercentage": 0.0754380532237556,
+    "StateRank": 116
+  },
+  {
+    "area": 652637707,
+    "FIPS": "48343",
+    "Pop": 12593,
+    "Year": 2016,
+    "GrowthRate": -2.493224932249319,
+    "CTYNAME": "Morris County",
+    "StatePercentage": 0.045196793579464024,
+    "StateRank": 154
+  },
+  {
+    "area": 1207103466,
+    "FIPS": "48313",
+    "Pop": 13987,
+    "Year": 2016,
+    "GrowthRate": 1.7754493196536458,
+    "CTYNAME": "Madison County",
+    "StatePercentage": 0.050199916762960636,
+    "StateRank": 146
+  },
+  {
+    "area": 1474332266,
+    "FIPS": "48407",
+    "Pop": 27707,
+    "Year": 2016,
+    "GrowthRate": 4.768206912198437,
+    "CTYNAME": "San Jacinto County",
+    "StatePercentage": 0.09944155957327164,
+    "StateRank": 97
+  },
+  {
+    "area": 3044012007,
+    "FIPS": "48383",
+    "Pop": 3608,
+    "Year": 2016,
+    "GrowthRate": 7.765830346475511,
+    "CTYNAME": "Reagan County",
+    "StatePercentage": 0.012949260004344175,
+    "StateRank": 219
+  },
+  {
+    "area": 9985023570,
+    "FIPS": "48377",
+    "Pop": 6958,
+    "Year": 2016,
+    "GrowthRate": -11.655662772981202,
+    "CTYNAME": "Presidio County",
+    "StatePercentage": 0.024972547425229148,
+    "StateRank": 191
+  },
+  {
+    "area": 2737855946,
+    "FIPS": "48373",
+    "Pop": 47916,
+    "Year": 2016,
+    "GrowthRate": 5.342303126236644,
+    "CTYNAME": "Polk County",
+    "StatePercentage": 0.1719724895698879,
+    "StateRank": 71
+  },
+  {
+    "area": 2614935760,
+    "FIPS": "48349",
+    "Pop": 48523,
+    "Year": 2016,
+    "GrowthRate": 1.3874088468208754,
+    "CTYNAME": "Navarro County",
+    "StatePercentage": 0.17415103746973182,
+    "StateRank": 69
+  },
+  {
+    "area": 2698558994,
+    "FIPS": "48339",
+    "Pop": 556203,
+    "Year": 2016,
+    "GrowthRate": 21.092965890807918,
+    "CTYNAME": "Montgomery County",
+    "StatePercentage": 1.9962353830920851,
+    "StateRank": 11
+  },
+  {
+    "area": 2830586533,
+    "FIPS": "48321",
+    "Pop": 37187,
+    "Year": 2016,
+    "GrowthRate": 1.3159328683522205,
+    "CTYNAME": "Matagorda County",
+    "StatePercentage": 0.13346566845386554,
+    "StateRank": 83
+  },
+  {
+    "area": 986503063,
+    "FIPS": "48315",
+    "Pop": 10147,
+    "Year": 2016,
+    "GrowthRate": -3.3434939988569283,
+    "CTYNAME": "Marion County",
+    "StatePercentage": 0.03641799924170741,
+    "StateRank": 168
+  },
+  {
+    "area": 2952084694,
+    "FIPS": "48311",
+    "Pop": 804,
+    "Year": 2016,
+    "GrowthRate": 12.762973352033654,
+    "CTYNAME": "McMullen County",
+    "StatePercentage": 0.002885588981012394,
+    "StateRank": 249
+  },
+  {
+    "area": 2337522504,
+    "FIPS": "48263",
+    "Pop": 769,
+    "Year": 2016,
+    "GrowthRate": -4.944375772558715,
+    "CTYNAME": "Kent County",
+    "StatePercentage": 0.0027599725452718046,
+    "StateRank": 250
+  },
+  {
+    "area": 2148246647,
+    "FIPS": "48239",
+    "Pop": 14869,
+    "Year": 2016,
+    "GrowthRate": 5.6186958374769205,
+    "CTYNAME": "Jackson County",
+    "StatePercentage": 0.05336545094362349,
+    "StateRank": 142
+  },
+  {
+    "area": 11838354409,
+    "FIPS": "48229",
+    "Pop": 4053,
+    "Year": 2016,
+    "GrowthRate": 16.9022209402942,
+    "CTYNAME": "Hudspeth County",
+    "StatePercentage": 0.014546383258760238,
+    "StateRank": 211
+  },
+  {
+    "area": 3188288246,
+    "FIPS": "48225",
+    "Pop": 22754,
+    "Year": 2016,
+    "GrowthRate": -3.9591423265237182,
+    "CTYNAME": "Houston County",
+    "StatePercentage": 0.08166503939546767,
+    "StateRank": 108
+  },
+  {
+    "area": 1987018121,
+    "FIPS": "48223",
+    "Pop": 36400,
+    "Year": 2016,
+    "GrowthRate": 3.40615323428311,
+    "CTYNAME": "Hopkins County",
+    "StatePercentage": 0.13064109317021286,
+    "StateRank": 85
+  },
+  {
+    "area": 2347272199,
+    "FIPS": "48211",
+    "Pop": 4129,
+    "Year": 2016,
+    "GrowthRate": 8.772391991570075,
+    "CTYNAME": "Hemphill County",
+    "StatePercentage": 0.014819150376368375,
+    "StateRank": 209
+  },
+  {
+    "area": 2039539025,
+    "FIPS": "48185",
+    "Pop": 27671,
+    "Year": 2016,
+    "GrowthRate": 3.9676873943265036,
+    "CTYNAME": "Grimes County",
+    "StatePercentage": 0.09931235409650989,
+    "StateRank": 98
+  },
+  {
+    "area": 665174300,
+    "FIPS": "48119",
+    "Pop": 5215,
+    "Year": 2016,
+    "GrowthRate": -0.4390988927071362,
+    "CTYNAME": "Delta County",
+    "StatePercentage": 0.018716848925347803,
+    "StateRank": 203
+  },
+  {
+    "area": 7270834113,
+    "FIPS": "48105",
+    "Pop": 3675,
+    "Year": 2016,
+    "GrowthRate": -0.9166891345376058,
+    "CTYNAME": "Crockett County",
+    "StatePercentage": 0.013189725752761875,
+    "StateRank": 217
+  },
+  {
+    "area": 2378749933,
+    "FIPS": "48087",
+    "Pop": 3016,
+    "Year": 2016,
+    "GrowthRate": -1.2765957446808471,
+    "CTYNAME": "Collingsworth County",
+    "StatePercentage": 0.010824547719817636,
+    "StateRank": 229
+  },
+  {
+    "area": 2307839892,
+    "FIPS": "48061",
+    "Pop": 422135,
+    "Year": 2016,
+    "GrowthRate": 3.5586280662072625,
+    "CTYNAME": "Cameron County",
+    "StatePercentage": 1.5150598314672474,
+    "StateRank": 13
+  },
+  {
+    "area": 1706884775,
+    "FIPS": "48051",
+    "Pop": 17760,
+    "Year": 2016,
+    "GrowthRate": 3.159851301115239,
+    "CTYNAME": "Burleson County",
+    "StatePercentage": 0.06374136853579616,
+    "StateRank": 132
+  },
+  {
+    "area": 2292153737,
+    "FIPS": "48037",
+    "Pop": 93860,
+    "Year": 2016,
+    "GrowthRate": 1.2753835861801122,
+    "CTYNAME": "Bowie County",
+    "StatePercentage": 0.33686739024604884,
+    "StateRank": 41
+  },
+  {
+    "area": 2324366073,
+    "FIPS": "48033",
+    "Pop": 633,
+    "Year": 2016,
+    "GrowthRate": -1.5552099533437058,
+    "CTYNAME": "Borden County",
+    "StatePercentage": 0.002271862966394086,
+    "StateRank": 251
+  },
+  {
+    "area": 3211263825,
+    "FIPS": "48029",
+    "Pop": 1928680,
+    "Year": 2016,
+    "GrowthRate": 11.936928832517125,
+    "CTYNAME": "Bexar County",
+    "StatePercentage": 6.922111636690278,
+    "StateRank": 4
+  },
+  {
+    "area": 2066240093,
+    "FIPS": "48005",
+    "Pop": 87791,
+    "Year": 2016,
+    "GrowthRate": 1.0078812633032328,
+    "CTYNAME": "Angelina County",
+    "StatePercentage": 0.3150855002886307,
+    "StateRank": 44
+  },
+  {
+    "area": 2896454930,
+    "FIPS": "48491",
+    "Pop": 528718,
+    "Year": 2016,
+    "GrowthRate": 23.991416812260354,
+    "CTYNAME": "Williamson County",
+    "StatePercentage": 1.897590590625511,
+    "StateRank": 12
+  },
+  {
+    "area": 1329535286,
+    "FIPS": "48473",
+    "Pop": 50115,
+    "Year": 2016,
+    "GrowthRate": 15.37133385514987,
+    "CTYNAME": "Waller County",
+    "StatePercentage": 0.17986479077541806,
+    "StateRank": 64
+  },
+  {
+    "area": 1509791536,
+    "FIPS": "48459",
+    "Pop": 40969,
+    "Year": 2016,
+    "GrowthRate": 4.04296924600655,
+    "CTYNAME": "Upshur County",
+    "StatePercentage": 0.1470394215958915,
+    "StateRank": 79
+  },
+  {
+    "area": 2568577738,
+    "FIPS": "48453",
+    "Pop": 1199323,
+    "Year": 2016,
+    "GrowthRate": 16.37483758971986,
+    "CTYNAME": "Travis County",
+    "StatePercentage": 4.304419444620307,
+    "StateRank": 5
+  },
+  {
+    "area": 1051677550,
+    "FIPS": "48449",
+    "Pop": 32592,
+    "Year": 2016,
+    "GrowthRate": 0.5925925925925952,
+    "CTYNAME": "Titus County",
+    "StatePercentage": 0.11697402496163674,
+    "StateRank": 92
+  },
+  {
+    "area": 6107208523,
+    "FIPS": "48443",
+    "Pop": 812,
+    "Year": 2016,
+    "GrowthRate": -19.52428146679881,
+    "CTYNAME": "Terrell County",
+    "StatePercentage": 0.0029143013091816714,
+    "StateRank": 248
+  },
+  {
+    "area": 482937177,
+    "FIPS": "48425",
+    "Pop": 8775,
+    "Year": 2016,
+    "GrowthRate": 3.235294117647058,
+    "CTYNAME": "Somervell County",
+    "StatePercentage": 0.031493834960676315,
+    "StateRank": 172
+  },
+  {
+    "area": 1671154357,
+    "FIPS": "48499",
+    "Pop": 44227,
+    "Year": 2016,
+    "GrowthRate": 5.277314925017848,
+    "CTYNAME": "Wood County",
+    "StatePercentage": 0.15873251724282977,
+    "StateRank": 73
+  },
+  {
+    "area": 8706200257,
+    "FIPS": "48479",
+    "Pop": 271193,
+    "Year": 2016,
+    "GrowthRate": 7.901008614001228,
+    "CTYNAME": "Webb County",
+    "StatePercentage": 0.9733228016513609,
+    "StateRank": 19
+  },
+  {
+    "area": 1564237466,
+    "FIPS": "48477",
+    "Pop": 35056,
+    "Year": 2016,
+    "GrowthRate": 3.968206892460998,
+    "CTYNAME": "Washington County",
+    "StatePercentage": 0.1258174220377742,
+    "StateRank": 88
+  },
+  {
+    "area": 2164200429,
+    "FIPS": "48475",
+    "Pop": 11600,
+    "Year": 2016,
+    "GrowthRate": 9.402999151183622,
+    "CTYNAME": "Ward County",
+    "StatePercentage": 0.04163287584545245,
+    "StateRank": 158
+  },
+  {
+    "area": 2031033544,
+    "FIPS": "48471",
+    "Pop": 71484,
+    "Year": 2016,
+    "GrowthRate": 4.802955665024626,
+    "CTYNAME": "Walker County",
+    "StatePercentage": 0.2565590083565796,
+    "StateRank": 50
+  },
+  {
+    "area": 2284737171,
+    "FIPS": "48469",
+    "Pop": 92467,
+    "Year": 2016,
+    "GrowthRate": 6.453989707693907,
+    "CTYNAME": "Victoria County",
+    "StatePercentage": 0.3318678561035734,
+    "StateRank": 42
+  },
+  {
+    "area": 2394445965,
+    "FIPS": "48457",
+    "Pop": 21320,
+    "Year": 2016,
+    "GrowthRate": -1.9634892169034828,
+    "CTYNAME": "Tyler County",
+    "StatePercentage": 0.07651835457112467,
+    "StateRank": 115
+  },
+  {
+    "area": 3168016109,
+    "FIPS": "48427",
+    "Pop": 64122,
+    "Year": 2016,
+    "GrowthRate": 4.825895046591469,
+    "CTYNAME": "Starr County",
+    "StatePercentage": 0.23013648835880188,
+    "StateRank": 55
+  },
+  {
+    "area": 1272739767,
+    "FIPS": "48403",
+    "Pop": 10303,
+    "Year": 2016,
+    "GrowthRate": -5.181299466224928,
+    "CTYNAME": "Sabine County",
+    "StatePercentage": 0.03697788964100832,
+    "StateRank": 166
+  },
+  {
+    "area": 12338323514,
+    "FIPS": "48371",
+    "Pop": 15970,
+    "Year": 2016,
+    "GrowthRate": 2.8266048548065186,
+    "CTYNAME": "Pecos County",
+    "StatePercentage": 0.05731698510792031,
+    "StateRank": 138
+  },
+  {
+    "area": 864487617,
+    "FIPS": "48361",
+    "Pop": 84964,
+    "Year": 2016,
+    "GrowthRate": 3.599473247817386,
+    "CTYNAME": "Orange County",
+    "StatePercentage": 0.30493928132181225,
+    "StateRank": 45
+  },
+  {
+    "area": 2451523994,
+    "FIPS": "48347",
+    "Pop": 65806,
+    "Year": 2016,
+    "GrowthRate": 1.7613311271591385,
+    "CTYNAME": "Nacogdoches County",
+    "StatePercentage": 0.2361804334384348,
+    "StateRank": 53
+  },
+  {
+    "area": 1937987420,
+    "FIPS": "48333",
+    "Pop": 4907,
+    "Year": 2016,
+    "GrowthRate": -0.8887093516461277,
+    "CTYNAME": "Mills County",
+    "StatePercentage": 0.017611424290830617,
+    "StateRank": 205
+  },
+  {
+    "area": 3777420465,
+    "FIPS": "48261",
+    "Pop": 404,
+    "Year": 2016,
+    "GrowthRate": -2.6506024096385516,
+    "CTYNAME": "Kenedy County",
+    "StatePercentage": 0.0014499725725485163,
+    "StateRank": 252
+  },
+  {
+    "area": 2269596850,
+    "FIPS": "48245",
+    "Pop": 254679,
+    "Year": 2016,
+    "GrowthRate": 0.8813486813439226,
+    "CTYNAME": "Jefferson County",
+    "StatePercentage": 0.9140533782279296,
+    "StateRank": 20
+  },
+  {
+    "area": 2431621507,
+    "FIPS": "48241",
+    "Pop": 35648,
+    "Year": 2016,
+    "GrowthRate": -0.4217994916059098,
+    "CTYNAME": "Jasper County",
+    "StatePercentage": 0.12794213432230075,
+    "StateRank": 86
+  },
+  {
+    "area": 2262941927,
+    "FIPS": "48213",
+    "Pop": 79901,
+    "Year": 2016,
+    "GrowthRate": 1.5854247717852843,
+    "CTYNAME": "Henderson County",
+    "StatePercentage": 0.2867679666316807,
+    "StateRank": 48
+  },
+  {
+    "area": 981463497,
+    "FIPS": "48167",
+    "Pop": 329431,
+    "Year": 2016,
+    "GrowthRate": 12.61481767619621,
+    "CTYNAME": "Galveston County",
+    "StatePercentage": 1.1823413726416592,
+    "StateRank": 17
+  },
+  {
+    "area": 2328246699,
+    "FIPS": "48151",
+    "Pop": 3854,
+    "Year": 2016,
+    "GrowthRate": -2.529084471421342,
+    "CTYNAME": "Fisher County",
+    "StatePercentage": 0.01383216409554946,
+    "StateRank": 214
+  },
+  {
+    "area": 2423336009,
+    "FIPS": "48139",
+    "Pop": 168499,
+    "Year": 2016,
+    "GrowthRate": 12.05998736408074,
+    "CTYNAME": "Ellis County",
+    "StatePercentage": 0.6047498230243873,
+    "StateRank": 25
+  },
+  {
+    "area": 2033319717,
+    "FIPS": "48103",
+    "Pop": 4830,
+    "Year": 2016,
+    "GrowthRate": 10.248801643460396,
+    "CTYNAME": "Crane County",
+    "StatePercentage": 0.01733506813220132,
+    "StateRank": 206
+  },
+  {
+    "area": 1449127335,
+    "FIPS": "48091",
+    "Pop": 134788,
+    "Year": 2016,
+    "GrowthRate": 23.326074624407568,
+    "CTYNAME": "Comal County",
+    "StatePercentage": 0.4837596611600728,
+    "StateRank": 31
+  },
+  {
+    "area": 3268424415,
+    "FIPS": "48083",
+    "Pop": 8420,
+    "Year": 2016,
+    "GrowthRate": -5.158819553953592,
+    "CTYNAME": "Coleman County",
+    "StatePercentage": 0.030219725398164622,
+    "StateRank": 177
+  },
+  {
+    "area": 2426724487,
+    "FIPS": "48067",
+    "Pop": 30375,
+    "Year": 2016,
+    "GrowthRate": -0.1774622892635307,
+    "CTYNAME": "Cass County",
+    "StatePercentage": 0.1090171210177257,
+    "StateRank": 94
+  },
+  {
+    "area": 2545904361,
+    "FIPS": "48035",
+    "Pop": 18097,
+    "Year": 2016,
+    "GrowthRate": -0.8872336929733251,
+    "CTYNAME": "Bosque County",
+    "StatePercentage": 0.06495087535992698,
+    "StateRank": 130
+  },
+  {
+    "area": 2279809514,
+    "FIPS": "48025",
+    "Pop": 32750,
+    "Year": 2016,
+    "GrowthRate": 2.7193175046262894,
+    "CTYNAME": "Bee County",
+    "StatePercentage": 0.11754109344297997,
+    "StateRank": 91
+  },
+  {
+    "area": 652895326,
+    "FIPS": "48007",
+    "Pop": 25721,
+    "Year": 2016,
+    "GrowthRate": 10.871158239579287,
+    "CTYNAME": "Aransas County",
+    "StatePercentage": 0.09231372410524849,
+    "StateRank": 101
+  }
+]
