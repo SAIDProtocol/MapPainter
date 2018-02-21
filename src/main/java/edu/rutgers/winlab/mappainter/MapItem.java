@@ -7,7 +7,6 @@ package edu.rutgers.winlab.mappainter;
 
 import java.awt.geom.PathIterator;
 import java.util.LinkedList;
-import java.util.ListIterator;
 
 /**
  *

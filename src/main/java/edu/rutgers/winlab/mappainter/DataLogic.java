@@ -7,11 +7,14 @@ package edu.rutgers.winlab.mappainter;
 
 import com.google.gson.Gson;
 import java.awt.Color;
+import java.awt.FontMetrics;
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
+import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.text.DecimalFormat;
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
@@ -74,6 +77,42 @@ public class DataLogic {
             return county.substring(0, county.length() - 7).trim();
         }
         return county;
+    }
+
+    // values[d1][d2] d1==colors.length  d2==titles.length
+    public static void drawBarCharts(ArrayList<String> titles, Color[] colors, ArrayList<Double>[] values, int barWidth, int maxHeight, int fontSize, String fileName) throws IOException {
+        int totalWidth = barWidth * colors.length * titles.size();
+        BufferedImage img = new BufferedImage(1, 1, BufferedImage.TYPE_4BYTE_ABGR);
+        Graphics2D g2d = MapPainter.getGraphicsFromImage(img, fontSize);
+        int maxFontWidth = 0;
+        FontMetrics metrics = g2d.getFontMetrics();
+        for (String title : titles) {
+            maxFontWidth = Math.max(maxFontWidth, metrics.stringWidth(" " + title));
+        }
+        int totalHeight = maxHeight + maxFontWidth;
+        img = new BufferedImage(totalWidth, totalHeight, BufferedImage.TYPE_4BYTE_ABGR);
+        g2d = MapPainter.getGraphicsFromImage(img, fontSize);
+        metrics = g2d.getFontMetrics();
+        for (int j = 0; j < colors.length; j++) {
+            g2d.setColor(colors[j]);
+            for (int i = 0; i < titles.size(); i++) {
+                int height = (int) Math.round(values[j].get(i) * maxHeight);
+                g2d.fillRect((i * colors.length + j) * barWidth, maxHeight - height, barWidth, height);
+            }
+        }
+        g2d.setColor(Color.black);
+        for (int i = 0; i < titles.size(); i++) {
+            g2d.drawLine((i * colors.length) * barWidth, maxHeight - 4, (i * colors.length) * barWidth, maxHeight + 4);
+            g2d.drawLine(((i + 1) * colors.length) * barWidth - 1, maxHeight - 4, ((i + 1) * colors.length) * barWidth - 1, maxHeight + 4);
+        }
+        g2d.drawLine(0, maxHeight, totalWidth, maxHeight);
+        g2d.drawLine(0, maxHeight + 1, totalWidth, maxHeight + 1);
+        g2d.rotate(Math.PI / 2);
+        for (int i = 0; i < titles.size(); i++) {
+            String title = " " + titles.get(i);
+            g2d.drawString(title, maxHeight, (float) (metrics.getHeight() / 2 - metrics.getDescent() - (i + 0.5) * barWidth * colors.length));
+        }
+        MapPainter.saveImage(img, fileName);
     }
 
     private static final double BOUND_X = 310, BOUND_Y = 240, BOUND_WIDTH = 430, BOUND_HEIGHT = 280;
@@ -250,6 +289,157 @@ public class DataLogic {
             img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
         }
         MapPainter.saveImage(img, "density.png");
+
+    }
+
+    public static void drawCellSites(boolean crop) throws IOException {
+        double imageScale = 10;
+        double strokeThickness = 3;
+        int fontSize = 20;
+        float hue = 0, saturation = 100, minBrightness = 95.0f, maxBrightness = 5.0f;
+        int maxOut = 160, maxPopOut = 234554;
+        double maxOutPercent = 18.0 / 19 * 100;
+        int days = 11;
+        Gson gson = new Gson();
+        Color[] colorSetting = new Color[]{
+            new Color(255, 0, 0, 64),
+            Color.green,
+            Color.blue
+        };
+
+        MapPainter.DrawSetting[] settings = new MapPainter.DrawSetting[]{
+            new MapPainter.DrawSetting("ResultMapTX.json", "TX", imageScale, 0, 0),
+            new MapPainter.DrawSetting("ResultMapLA.json", "LA", imageScale * 1102.0 / 2770, (518.0 + 3.0) * imageScale, (174.2 + 0.0) * imageScale)
+        };
+        CountyItem[] resultDataLA, resultDataTX;
+        HashMap<String, CountyItem> resultData = new HashMap<>();
+        try (FileReader reader = new FileReader("ResultDataLA.json")) {
+            resultDataLA = gson.fromJson(reader, CountyItem[].class);
+        }
+        try (FileReader reader = new FileReader("ResultDataTX.json")) {
+            resultDataTX = gson.fromJson(reader, CountyItem[].class);
+        }
+        for (CountyItem countyItem : resultDataTX) {
+            resultData.put(countyItem.getFIPS(), countyItem);
+        }
+        for (CountyItem countyItem : resultDataLA) {
+            resultData.put(countyItem.getFIPS(), countyItem);
+        }
+
+        HashMap<MapItem, Color>[] outColors = (HashMap<MapItem, Color>[]) new HashMap<?, ?>[days];
+        HashMap<MapItem, Color>[] outPercentColors = (HashMap<MapItem, Color>[]) new HashMap<?, ?>[days];
+        HashMap<MapItem, Color>[] popColors = (HashMap<MapItem, Color>[]) new HashMap<?, ?>[days];
+        HashMap<MapItem, String>[] texts = (HashMap<MapItem, String>[]) new HashMap<?, ?>[days];
+        HashMap<MapItem, String>[] popTexts = (HashMap<MapItem, String>[]) new HashMap<?, ?>[days];
+
+        ArrayList<String> titles = new ArrayList<>();
+        ArrayList<Double>[][] values = (ArrayList<Double>[][]) new ArrayList<?>[days][3];
+
+        for (int i = 0; i < outColors.length; i++) {
+            outColors[i] = new HashMap<>();
+            outPercentColors[i] = new HashMap<>();
+            texts[i] = new HashMap<>();
+            popColors[i] = new HashMap<>();
+            popTexts[i] = new HashMap<>();
+        }
+        for (ArrayList<Double>[] value : values) {
+            for (int j = 0; j < value.length; j++) {
+                value[j] = new ArrayList<>();
+            }
+        }
+
+        try (BufferedReader br1 = new BufferedReader(new FileReader("CellSitesServed.txt"))) {
+            try (BufferedReader br2 = new BufferedReader(new FileReader("CellSitesOut.txt"))) {
+                br1.readLine();
+                br2.readLine();
+                String line1, line2;
+                int lineCount = 1;
+                while ((line1 = br1.readLine()) != null) {
+                    line2 = br2.readLine();
+                    lineCount++;
+                    String[] parts1 = line1.split("\t");
+                    String[] parts2 = line2.split("\t");
+                    if (parts1.length != parts2.length || parts1.length < 2 || !parts1[0].equals(parts2[0]) || !parts1[1].equals(parts2[1])) {
+                        throw new IllegalArgumentException("Files not aligned at line " + lineCount);
+                    }
+                    MapItem mi = findCounty((parts1[0].equals("TX") ? settings[0] : settings[1]).getMis(), parts1[1], parts1[0]);
+                    String shortName = getShortCountyName(mi.getName());
+                    titles.add(shortName);
+                    long population = resultData.get(mi.getFIPS()).getPop();
+                    for (int i = 0; i < days; i++) {
+                        int pos = i + 2;
+                        if (pos >= parts1.length) {
+                            values[i][0].add(0.0);
+                            values[i][1].add(0.0);
+                            values[i][2].add(0.0);
+                            continue;
+                        }
+                        if (parts1[pos].equals("")) {
+                            if (!parts2[pos].equals("")) {
+                                throw new IllegalArgumentException("Files not aligned at line " + lineCount + ", part " + pos);
+                            } else {
+                                values[i][0].add(0.0);
+                                values[i][1].add(0.0);
+                                values[i][2].add(0.0);
+                                continue;
+                            }
+                        }
+                        int served = Integer.parseInt(parts1[pos]),
+                                out = Integer.parseInt(parts2[pos]);
+                        double percent = out * 100.0 / served;
+                        int popOut = (int) Math.ceil(out * 1.0 / served * population);
+                        values[i][0].add(percent / maxOutPercent);
+                        values[i][1].add(out * 1.0 / maxOut);
+                        values[i][2].add(popOut * 1.0 / maxPopOut);
+
+                        if (out == 0) {
+                            texts[i].put(mi, String.format("%s:%s", shortName, INTEGER_FORMAT.format(served)));
+//                            outPercentColors[i].put(mi, Color.white);
+//                            outColors[i].put(mi, Color.white);
+                            popTexts[i].put(mi, String.format("%s", shortName));
+//                            popColors[i].put(mi, Color.white);
+                        } else {
+                            texts[i].put(mi, String.format("%s:%s/%s(%.2f%%)", shortName, INTEGER_FORMAT.format(out), INTEGER_FORMAT.format(served), percent));
+                            outPercentColors[i].put(mi, HSLColor.toRGB(hue, saturation, (float) (percent * (maxBrightness - minBrightness) / maxOutPercent + minBrightness)));
+                            outColors[i].put(mi, HSLColor.toRGB(hue, saturation, (float) (out * (maxBrightness - minBrightness) / maxOut + minBrightness)));
+                            popTexts[i].put(mi, String.format("%s:%s", shortName, INTEGER_FORMAT.format(popOut)));
+                            popColors[i].put(mi, HSLColor.toRGB(hue, saturation, (float) (popOut * (maxBrightness - minBrightness) / maxPopOut + minBrightness)));
+                        }
+                    }
+                }
+            }
+        }
+
+        BufferedImage img;
+        Graphics2D g2d;
+
+        for (int i = 0; i < texts.length; i++) {
+            img = MapPainter.generateBufferedImage(settings);
+            g2d = MapPainter.getGraphicsFromImage(img, fontSize);
+            MapPainter.drawSetting(g2d, settings, outColors[i], texts[i], strokeThickness);
+            if (crop) {
+                img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+            }
+            MapPainter.saveImage(img, "out_" + i + ".png");
+
+            img = MapPainter.generateBufferedImage(settings);
+            g2d = MapPainter.getGraphicsFromImage(img, fontSize);
+            MapPainter.drawSetting(g2d, settings, outPercentColors[i], texts[i], strokeThickness);
+            if (crop) {
+                img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+            }
+            MapPainter.saveImage(img, "outPercent_" + i + ".png");
+
+            img = MapPainter.generateBufferedImage(settings);
+            g2d = MapPainter.getGraphicsFromImage(img, fontSize);
+            MapPainter.drawSetting(g2d, settings, popColors[i], popTexts[i], strokeThickness);
+            if (crop) {
+                img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
+            }
+            MapPainter.saveImage(img, "outPop_" + i + ".png");
+
+            drawBarCharts(titles, colorSetting, values[i], 10, 300, fontSize, "bar_" + i + ".png");
+        }
 
     }
 }

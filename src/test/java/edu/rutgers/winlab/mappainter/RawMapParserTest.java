@@ -7,15 +7,13 @@ package edu.rutgers.winlab.mappainter;
 
 import java.io.IOException;
 import org.jdom2.JDOMException;
-import org.junit.Test;
-import static org.junit.Assert.*;
 
 /**
  *
  * @author jiachen
  */
 public class RawMapParserTest {
-    
+
     public RawMapParserTest() {
     }
 
@@ -24,5 +22,5 @@ public class RawMapParserTest {
         RawMapParser.parseMap("RawMapTX.txt", "ResultMapTX.json", "ResultDataTX.json");
         RawMapParser.parseMap("RawMapLA.txt", "ResultMapLA.json", "ResultDataLA.json");
     }
-    
+
 }

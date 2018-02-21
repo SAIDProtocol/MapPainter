@@ -1,0 +1,65 @@
+State	Affected Counties	8/26	8/27	8/28	8/29	8/30	8/31	9/1	9/2	9/3	9/4	9/5
+LA	Acadia Parish	50	50	50	50	50	50	50	50			
+LA	Assumption Parish	23	23	23	23	23	23	23	23			
+LA	Calcasieu Parish	154	154	154	154	154	154	154	154			
+LA	Cameron Parish	30	30	30	30	30	30	30	30			
+LA	Iberia Parish	45	45	45	45	45	45	45	45			
+LA	Jefferson Parish	275	275	275	275	275	275	275	275			
+LA	Jefferson Davis Parish	36	36	36	36	36	36	36	36			
+LA	Lafayette Parish	150	150	150	150	150	150	150	150			
+LA	Lafourche Parish	31	31	31	31	31	31	31	31			
+LA	Orleans Parish	349	349	349	349	349	349	349	349			
+LA	Plaquemines Parish	48	48	48	48	48	48	48	48			
+LA	St. Bernard Parish	35	35	35	35	35	35	35	35			
+LA	St. Charles Parish	48	48	48	48	48	48	48	48			
+LA	St. James Parish	27	27	27	27	27	27	27	27			
+LA	St. John the Baptist Parish	33	33	33	33	33	33	33	33			
+LA	St. Martin Parish	53	53	53	53	53	53	53	53			
+LA	St. Mary Parish	60	60	60	60	60	60	60	60			
+LA	Terrebonne Parish	80	80	80	80	80	80	80	80			
+LA	Vermilion Parish	56	56	56	56	56	56	56	56			
+TX	Aransas County	19	19	19	19	19	19	19	19	19	19	19
+TX	Atascosa County	40	40	40	40	40	40	40	40			
+TX	Bee County	40	40	40	40	40	40	40	40			
+TX	Brazoria County	267	267	267	267	267	267	267	267			
+TX	Brooks County	15	15	15	15	15	15	15	15			
+TX	Calhoun County	27	27	27	28	28	28	28	28	28	28	28
+TX	Cameron County	210	210	210	210	210	210	210	210			
+TX	Chambers County	54	54	54	54	54	54	54	54	54	54	54
+TX	Colorado County	49	49	49	49	49	49	49	49			
+TX	DeWitt County	31	31	31	31	31	31	31	31			
+TX	Duval County	36	39	39	39	39	39	39	39			
+TX	Fort Bend County	363	363	363	363	363	363	363	363			
+TX	Galveston County	241	241	241	241	241	241	241	241			
+TX	Goliad County	23	23	23	23	23	23	23	23			
+TX	Gonzales County	41	41	40	40	40	40	41	41			
+TX	Harris County	3131	3131	3131	3131	3131	3131	3131	3131	3131	3131	3131
+TX	Hidalgo County	380	380	380	380	380	380	380	380			
+TX	Jackson County	17	17	17	17	17	17	17	17			
+TX	Jefferson County	247	247	247	247	247	247	247	247	247	247	247
+TX	Jim Wells County	35	35	35	35	35	35	35	35			
+TX	Karnes County	17	17	17	17	17	17	17	17			
+TX	Kenedy County	14	14	14	14	14	14	14	14			
+TX	Kleberg County	27	27	27	27	27	27	27	27			
+TX	Lavaca County	33	33	33	33	33	33	33	33			
+TX	Liberty County	108	108	108	108	108	108	108	108			
+TX	Live Oak County	47	47	47	47	47	47	47	47			
+TX	Matagorda County	58	58	58	58	58	58	58	58	58	58	58
+TX	McMullen County	7	7	7	7	7	7	7	7			
+TX	Nueces County	267	267	267	268	267	267	267	267	267	267	267
+TX	Orange County	85	85	85	85	85	85	85	85	85	85	85
+TX	Refugio County	26	26	26	26	26	26	26	26	26	26	26
+TX	San Patricio County	58	58	58	58	58	58	58	58	58	58	58
+TX	Victoria County	92	92	92	92	92	92	92	92	92	92	92
+TX	Wharton County	63	63	63	63	63	63	63	63	63	63	63
+TX	Willacy County	21	21	21	21	21	21	21	21			
+TX	Wilson County	29	29	29	29	29	29	29	29			
+TX	Bexar County							989	989			
+TX	Fayette County							68	68			
+TX	Hardin County							71	71	71	71	71
+TX	Jasper County							81	81			
+TX	Montgomery County							418	418			
+TX	Newton County							45	45			
+TX	Sabine County							24	24			
+TX	San Jacinto County							54	54			
+TX	Waller County							56	56			

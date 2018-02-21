@@ -127,6 +127,7 @@ public class MapPainter {
 
     public static Graphics2D drawSetting(Graphics2D g2d, DrawSetting[] settings, HashMap<MapItem, Color> colors, HashMap<MapItem, String> texts, double strokeThickness) {
         Rectangle2D r2d;
+        FontMetrics metrics = g2d.getFontMetrics();
         HashMap<MapItem, Point2D.Double> centers = new HashMap<>();
         for (MapPainter.DrawSetting setting : settings) {
             AffineTransform tr = g2d.getTransform();
@@ -168,9 +169,8 @@ public class MapPainter {
                     Point2D.Double p = centers.get(mi);
                     double centerX = p.x;
                     double centerY = p.y;
-                    r2d = g2d.getFontMetrics().getStringBounds(text, g2d);
-                    centerX -= r2d.getWidth() / 2;
-                    centerY += r2d.getHeight() / 2;
+                    centerX -= metrics.stringWidth(text) / 2;
+                    centerY += metrics.getHeight() / 2 - metrics.getDescent();
                     g2d.setColor(Color.white);
                     g2d.drawString(text, (float) (centerX - 2), (float) (centerY));
                     g2d.drawString(text, (float) (centerX + 2), (float) (centerY));

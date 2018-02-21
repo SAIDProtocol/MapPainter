@@ -5,18 +5,7 @@
  */
 package edu.rutgers.winlab.mappainter;
 
-import java.awt.BasicStroke;
-import java.awt.Color;
-import java.awt.Graphics2D;
-import java.awt.RenderingHints;
-import java.awt.geom.AffineTransform;
-import java.awt.geom.Path2D;
-import java.awt.geom.Rectangle2D;
-import java.awt.image.BufferedImage;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.util.HashMap;
-import javax.imageio.ImageIO;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -75,7 +64,8 @@ public class MapPainterTest {
 
     @Test
     public void drawDisasterAreaMapStart() throws IOException {
-        DataLogic.drawDisasterArea(true);
-        DataLogic.drawPopulationDensityDisasterArea(true);
+//        DataLogic.drawDisasterArea(true);
+//        DataLogic.drawPopulationDensityDisasterArea(true);
+        DataLogic.drawCellSites(true);
     }
 }
