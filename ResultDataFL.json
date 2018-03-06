@@ -1,0 +1,672 @@
+[
+  {
+    "area": 2851713758,
+    "FIPS": "12127",
+    "Pop": 529364,
+    "Year": 2016,
+    "GrowthRate": 7.020487710204236,
+    "CTYNAME": "Volusia County",
+    "StatePercentage": 2.568177400064107,
+    "StateRank": 11
+  },
+  {
+    "area": 2164095689,
+    "FIPS": "12077",
+    "Pop": 8202,
+    "Year": 2016,
+    "GrowthRate": -1.6310865915087618,
+    "CTYNAME": "Liberty County",
+    "StatePercentage": 0.03979150647819989,
+    "StateRank": 67
+  },
+  {
+    "area": 2687690444,
+    "FIPS": "12131",
+    "Pop": 65889,
+    "Year": 2016,
+    "GrowthRate": 19.26906089349069,
+    "CTYNAME": "Walton County",
+    "StatePercentage": 0.3196564947990871,
+    "StateRank": 41
+  },
+  {
+    "area": 1224611025,
+    "FIPS": "12053",
+    "Pop": 182835,
+    "Year": 2016,
+    "GrowthRate": 5.700245700245702,
+    "CTYNAME": "Hernando County",
+    "StatePercentage": 0.88701293427721,
+    "StateRank": 28
+  },
+  {
+    "area": 1408245188,
+    "FIPS": "12085",
+    "Pop": 158701,
+    "Year": 2016,
+    "GrowthRate": 7.975288986862068,
+    "CTYNAME": "Martin County",
+    "StatePercentage": 0.7699282942693002,
+    "StateRank": 31
+  },
+  {
+    "area": 2087857862,
+    "FIPS": "12043",
+    "Pop": 13970,
+    "Year": 2016,
+    "GrowthRate": 7.9765033235430565,
+    "CTYNAME": "Glades County",
+    "StatePercentage": 0.06777460930266428,
+    "StateRank": 63
+  },
+  {
+    "area": 1515740957,
+    "FIPS": "12003",
+    "Pop": 27937,
+    "Year": 2016,
+    "GrowthRate": 3.164697193500743,
+    "CTYNAME": "Baker County",
+    "StatePercentage": 0.13553466428693858,
+    "StateRank": 50
+  },
+  {
+    "area": 2409367476,
+    "FIPS": "12091",
+    "Pop": 201170,
+    "Year": 2016,
+    "GrowthRate": 11.28998351423418,
+    "CTYNAME": "Okaloosa County",
+    "StatePercentage": 0.9759640768372922,
+    "StateRank": 26
+  },
+  {
+    "area": 1964402061,
+    "FIPS": "12005",
+    "Pop": 183974,
+    "Year": 2016,
+    "GrowthRate": 8.695061356398853,
+    "CTYNAME": "Bay County",
+    "StatePercentage": 0.8925387238259384,
+    "StateRank": 27
+  },
+  {
+    "area": 1651878523,
+    "FIPS": "12049",
+    "Pop": 27360,
+    "Year": 2016,
+    "GrowthRate": -1.3698630136986338,
+    "CTYNAME": "Hardee County",
+    "StatePercentage": 0.1327353837165995,
+    "StateRank": 51
+  },
+  {
+    "area": 1411918810,
+    "FIPS": "12037",
+    "Pop": 11901,
+    "Year": 2016,
+    "GrowthRate": 3.1818970001734073,
+    "CTYNAME": "Franklin County",
+    "StatePercentage": 0.05773698105304278,
+    "StateRank": 65
+  },
+  {
+    "area": 1936599224,
+    "FIPS": "12101",
+    "Pop": 512368,
+    "Year": 2016,
+    "GrowthRate": 10.064294107411754,
+    "CTYNAME": "Pasco County",
+    "StatePercentage": 2.485722334945418,
+    "StateRank": 12
+  },
+  {
+    "area": 1566445254,
+    "FIPS": "12019",
+    "Pop": 208311,
+    "Year": 2016,
+    "GrowthRate": 8.814956434526422,
+    "CTYNAME": "Clay County",
+    "StatePercentage": 1.0106082060449033,
+    "StateRank": 25
+  },
+  {
+    "area": 1302340528,
+    "FIPS": "12061",
+    "Pop": 151563,
+    "Year": 2016,
+    "GrowthRate": 9.635207569280183,
+    "CTYNAME": "Indian River County",
+    "StatePercentage": 0.7352987193800792,
+    "StateRank": 32
+  },
+  {
+    "area": 2986009287,
+    "FIPS": "12051",
+    "Pop": 39290,
+    "Year": 2016,
+    "GrowthRate": 0.6558384997694304,
+    "CTYNAME": "Hendry County",
+    "StatePercentage": 0.1906130565140787,
+    "StateRank": 47
+  },
+  {
+    "area": 1649970328,
+    "FIPS": "12027",
+    "Pop": 35800,
+    "Year": 2016,
+    "GrowthRate": 2.5083037452754553,
+    "CTYNAME": "DeSoto County",
+    "StatePercentage": 0.17368153278707096,
+    "StateRank": 48
+  },
+  {
+    "area": 5101944591,
+    "FIPS": "12099",
+    "Pop": 1443810,
+    "Year": 2016,
+    "GrowthRate": 9.057577742075097,
+    "CTYNAME": "Palm Beach County",
+    "StatePercentage": 7.0045568115447185,
+    "StateRank": 3
+  },
+  {
+    "area": 1924779544,
+    "FIPS": "12081",
+    "Pop": 375888,
+    "Year": 2016,
+    "GrowthRate": 16.21352559623554,
+    "CTYNAME": "Manatee County",
+    "StatePercentage": 1.823597876990685,
+    "StateRank": 15
+  },
+  {
+    "area": 1407427927,
+    "FIPS": "12067",
+    "Pop": 8617,
+    "Year": 2016,
+    "GrowthRate": -2.2239872915011887,
+    "CTYNAME": "Lafayette County",
+    "StatePercentage": 0.041804853855480176,
+    "StateRank": 66
+  },
+  {
+    "area": 2376988508,
+    "FIPS": "12063",
+    "Pop": 48229,
+    "Year": 2016,
+    "GrowthRate": -2.791550771959521,
+    "CTYNAME": "Jackson County",
+    "StatePercentage": 0.23398007387674985,
+    "StateRank": 42
+  },
+  {
+    "area": 5176959832,
+    "FIPS": "12021",
+    "Pop": 365136,
+    "Year": 2016,
+    "GrowthRate": 13.14187974863971,
+    "CTYNAME": "Collier County",
+    "StatePercentage": 1.7714351998810038,
+    "StateRank": 16
+  },
+  {
+    "area": 1764034033,
+    "FIPS": "12015",
+    "Pop": 178465,
+    "Year": 2016,
+    "GrowthRate": 11.585956794947947,
+    "CTYNAME": "Charlotte County",
+    "StatePercentage": 0.8658121438224754,
+    "StateRank": 29
+  },
+  {
+    "area": 3126184877,
+    "FIPS": "12011",
+    "Pop": 1909632,
+    "Year": 2016,
+    "GrowthRate": 8.927315508021394,
+    "CTYNAME": "Broward County",
+    "StatePercentage": 9.264464045230165,
+    "StateRank": 2
+  },
+  {
+    "area": 1975212116,
+    "FIPS": "12031",
+    "Pop": 926255,
+    "Year": 2016,
+    "GrowthRate": 6.979470447261278,
+    "CTYNAME": "Duval County",
+    "StatePercentage": 4.493670060103028,
+    "StateRank": 7
+  },
+  {
+    "area": 1417596662,
+    "FIPS": "12119",
+    "Pop": 123996,
+    "Year": 2016,
+    "GrowthRate": 31.518879932117102,
+    "CTYNAME": "Sumter County",
+    "StatePercentage": 0.6015590876945712,
+    "StateRank": 34
+  },
+  {
+    "area": 2339574474,
+    "FIPS": "12095",
+    "Pop": 1314367,
+    "Year": 2016,
+    "GrowthRate": 14.420535624122934,
+    "CTYNAME": "Orange County",
+    "StatePercentage": 6.37657193309341,
+    "StateRank": 5
+  },
+  {
+    "area": 2065626671,
+    "FIPS": "12023",
+    "Pop": 69299,
+    "Year": 2016,
+    "GrowthRate": 2.5375828598484844,
+    "CTYNAME": "Columbia County",
+    "StatePercentage": 0.3361999033690288,
+    "StateRank": 40
+  },
+  {
+    "area": 1439467414,
+    "FIPS": "12115",
+    "Pop": 412569,
+    "Year": 2016,
+    "GrowthRate": 8.5593621724029,
+    "CTYNAME": "Sarasota County",
+    "StatePercentage": 2.0015535279449463,
+    "StateRank": 14
+  },
+  {
+    "area": 1480637109,
+    "FIPS": "12111",
+    "Pop": 306507,
+    "Year": 2016,
+    "GrowthRate": 10.141401800312636,
+    "CTYNAME": "St. Lucie County",
+    "StatePercentage": 1.4870001555856636,
+    "StateRank": 21
+  },
+  {
+    "area": 1555777526,
+    "FIPS": "12109",
+    "Pop": 235087,
+    "Year": 2016,
+    "GrowthRate": 22.911024437171264,
+    "CTYNAME": "St. Johns County",
+    "StatePercentage": 1.1405103491149204,
+    "StateRank": 24
+  },
+  {
+    "area": 2546040739,
+    "FIPS": "12087",
+    "Pop": 79077,
+    "Year": 2016,
+    "GrowthRate": 8.01098180626127,
+    "CTYNAME": "Monroe County",
+    "StatePercentage": 0.3836372784414304,
+    "StateRank": 38
+  },
+  {
+    "area": 1239970210,
+    "FIPS": "12059",
+    "Pop": 19487,
+    "Year": 2016,
+    "GrowthRate": -1.8781470292044276,
+    "CTYNAME": "Holmes County",
+    "StatePercentage": 0.09454000082183385,
+    "StateRank": 55
+  },
+  {
+    "area": 1257381103,
+    "FIPS": "12035",
+    "Pop": 108310,
+    "Year": 2016,
+    "GrowthRate": 12.71841730062755,
+    "CTYNAME": "Flagler County",
+    "StatePercentage": 0.5254594082728395,
+    "StateRank": 35
+  },
+  {
+    "area": 761365424,
+    "FIPS": "12007",
+    "Pop": 26926,
+    "Year": 2016,
+    "GrowthRate": -5.645302589620499,
+    "CTYNAME": "Bradford County",
+    "StatePercentage": 0.13062985898951598,
+    "StateRank": 52
+  },
+  {
+    "area": 4653250695,
+    "FIPS": "12105",
+    "Pop": 666149,
+    "Year": 2016,
+    "GrowthRate": 10.433462143554593,
+    "CTYNAME": "Polk County",
+    "StatePercentage": 3.2317815470551543,
+    "StateRank": 9
+  },
+  {
+    "area": 4112985503,
+    "FIPS": "12083",
+    "Pop": 349020,
+    "Year": 2016,
+    "GrowthRate": 5.30508060355362,
+    "CTYNAME": "Marion County",
+    "StatePercentage": 1.693249401490042,
+    "StateRank": 17
+  },
+  {
+    "area": 2620446204,
+    "FIPS": "12113",
+    "Pop": 170497,
+    "Year": 2016,
+    "GrowthRate": 11.47091898111826,
+    "CTYNAME": "Santa Rosa County",
+    "StatePercentage": 0.8271558741786937,
+    "StateRank": 30
+  },
+  {
+    "area": 1570621273,
+    "FIPS": "12129",
+    "Pop": 31893,
+    "Year": 2016,
+    "GrowthRate": 3.437875004054092,
+    "CTYNAME": "Wakulla County",
+    "StatePercentage": 0.15472695880385626,
+    "StateRank": 49
+  },
+  {
+    "area": 709120966,
+    "FIPS": "12103",
+    "Pop": 960730,
+    "Year": 2016,
+    "GrowthRate": 4.825053354689757,
+    "CTYNAME": "Pinellas County",
+    "StatePercentage": 4.660923435601192,
+    "StateRank": 6
+  },
+  {
+    "area": 2432320587,
+    "FIPS": "12069",
+    "Pop": 335396,
+    "Year": 2016,
+    "GrowthRate": 12.601137439485399,
+    "CTYNAME": "Lake County",
+    "StatePercentage": 1.6271533902416886,
+    "StateRank": 19
+  },
+  {
+    "area": 1469389206,
+    "FIPS": "12013",
+    "Pop": 14423,
+    "Year": 2016,
+    "GrowthRate": -1.4351124171393366,
+    "CTYNAME": "Calhoun County",
+    "StatePercentage": 0.06997231137955096,
+    "StateRank": 61
+  },
+  {
+    "area": 1679962718,
+    "FIPS": "12089",
+    "Pop": 80622,
+    "Year": 2016,
+    "GrowthRate": 9.645042839657279,
+    "CTYNAME": "Nassau County",
+    "StatePercentage": 0.39113275241226914,
+    "StateRank": 37
+  },
+  {
+    "area": 2642601093,
+    "FIPS": "12057",
+    "Pop": 1376238,
+    "Year": 2016,
+    "GrowthRate": 11.541133000334725,
+    "CTYNAME": "Hillsborough County",
+    "StatePercentage": 6.676735344128853,
+    "StateRank": 4
+  },
+  {
+    "area": 1826212267,
+    "FIPS": "12029",
+    "Pop": 16300,
+    "Year": 2016,
+    "GrowthRate": -0.62793391452783,
+    "CTYNAME": "Dixie County",
+    "StatePercentage": 0.07907846325221388,
+    "StateRank": 58
+  },
+  {
+    "area": 1783341102,
+    "FIPS": "12121",
+    "Pop": 43794,
+    "Year": 2016,
+    "GrowthRate": 3.5025524673851436,
+    "CTYNAME": "Suwannee County",
+    "StatePercentage": 0.21246393985689904,
+    "StateRank": 44
+  },
+  {
+    "area": 1433780459,
+    "FIPS": "12045",
+    "Pop": 15990,
+    "Year": 2016,
+    "GrowthRate": 1.1129379031238074,
+    "CTYNAME": "Gulf County",
+    "StatePercentage": 0.07757451701858281,
+    "StateRank": 59
+  },
+  {
+    "area": 2896185793,
+    "FIPS": "12075",
+    "Pop": 39961,
+    "Year": 2016,
+    "GrowthRate": -1.8663588811669598,
+    "CTYNAME": "Levy County",
+    "StatePercentage": 0.19386837239397045,
+    "StateRank": 46
+  },
+  {
+    "area": 630807238,
+    "FIPS": "12125",
+    "Pop": 15142,
+    "Year": 2016,
+    "GrowthRate": -2.5172213996008566,
+    "CTYNAME": "Union County",
+    "StatePercentage": 0.07346049635368236,
+    "StateRank": 60
+  },
+  {
+    "area": 1802874009,
+    "FIPS": "12079",
+    "Pop": 18224,
+    "Year": 2016,
+    "GrowthRate": -5.236337163954033,
+    "CTYNAME": "Madison County",
+    "StatePercentage": 0.0884126327796531,
+    "StateRank": 56
+  },
+  {
+    "area": 3438608053,
+    "FIPS": "12097",
+    "Pop": 336015,
+    "Year": 2016,
+    "GrowthRate": 24.521023102065627,
+    "CTYNAME": "Osceola County",
+    "StatePercentage": 1.6301564312694874,
+    "StateRank": 18
+  },
+  {
+    "area": 1991730024,
+    "FIPS": "12093",
+    "Pop": 40314,
+    "Year": 2016,
+    "GrowthRate": 0.7144998501049287,
+    "CTYNAME": "Okeechobee County",
+    "StatePercentage": 0.19558093052452455,
+    "StateRank": 45
+  },
+  {
+    "area": 4917324056,
+    "FIPS": "12086",
+    "Pop": 2712945,
+    "Year": 2016,
+    "GrowthRate": 8.199175069256057,
+    "CTYNAME": "Miami-Dade County",
+    "StatePercentage": 13.161688434832966,
+    "StateRank": 1
+  },
+  {
+    "area": 2031443679,
+    "FIPS": "12071",
+    "Pop": 722336,
+    "Year": 2016,
+    "GrowthRate": 16.39504342641679,
+    "CTYNAME": "Lee County",
+    "StatePercentage": 3.5043693761810526,
+    "StateRank": 8
+  },
+  {
+    "area": 1330689578,
+    "FIPS": "12047",
+    "Pop": 14361,
+    "Year": 2016,
+    "GrowthRate": -2.119683751363141,
+    "CTYNAME": "Hamilton County",
+    "StatePercentage": 0.06967152213282475,
+    "StateRank": 62
+  },
+  {
+    "area": 905705522,
+    "FIPS": "12041",
+    "Pop": 17212,
+    "Year": 2016,
+    "GrowthRate": 1.2768461312150663,
+    "CTYNAME": "Gilchrist County",
+    "StatePercentage": 0.08350297604276719,
+    "StateRank": 57
+  },
+  {
+    "area": 1701332835,
+    "FIPS": "12033",
+    "Pop": 315187,
+    "Year": 2016,
+    "GrowthRate": 5.709274090768844,
+    "CTYNAME": "Escambia County",
+    "StatePercentage": 1.5291106501273333,
+    "StateRank": 20
+  },
+  {
+    "area": 1507100924,
+    "FIPS": "12017",
+    "Pop": 143621,
+    "Year": 2016,
+    "GrowthRate": 1.6692269030106957,
+    "CTYNAME": "Citrus County",
+    "StatePercentage": 0.696768587162344,
+    "StateRank": 33
+  },
+  {
+    "area": 2266378728,
+    "FIPS": "12001",
+    "Pop": 263496,
+    "Year": 2016,
+    "GrowthRate": 6.4092882382635,
+    "CTYNAME": "Alachua County",
+    "StatePercentage": 1.2783348928285487,
+    "StateRank": 23
+  },
+  {
+    "area": 1509528105,
+    "FIPS": "12133",
+    "Pop": 24569,
+    "Year": 2016,
+    "GrowthRate": -0.7393341952165429,
+    "CTYNAME": "Washington County",
+    "StatePercentage": 0.1191950161744566,
+    "StateRank": 53
+  },
+  {
+    "area": 2702176496,
+    "FIPS": "12123",
+    "Pop": 22175,
+    "Year": 2016,
+    "GrowthRate": -1.754463692348594,
+    "CTYNAME": "Taylor County",
+    "StatePercentage": 0.10758067009925415,
+    "StateRank": 54
+  },
+  {
+    "area": 801546672,
+    "FIPS": "12117",
+    "Pop": 455479,
+    "Year": 2016,
+    "GrowthRate": 7.657126379457452,
+    "CTYNAME": "Seminole County",
+    "StatePercentage": 2.209728795316265,
+    "StateRank": 13
+  },
+  {
+    "area": 1885199824,
+    "FIPS": "12107",
+    "Pop": 72277,
+    "Year": 2016,
+    "GrowthRate": -2.6506835477136548,
+    "CTYNAME": "Putnam County",
+    "StatePercentage": 0.3506474900908136,
+    "StateRank": 39
+  },
+  {
+    "area": 1727171503,
+    "FIPS": "12073",
+    "Pop": 287822,
+    "Year": 2016,
+    "GrowthRate": 4.288623335966321,
+    "CTYNAME": "Leon County",
+    "StatePercentage": 1.3963510092134173,
+    "StateRank": 22
+  },
+  {
+    "area": 1549064068,
+    "FIPS": "12065",
+    "Pop": 13906,
+    "Year": 2016,
+    "GrowthRate": -5.696460056964597,
+    "CTYNAME": "Jefferson County",
+    "StatePercentage": 0.06746411717701141,
+    "StateRank": 64
+  },
+  {
+    "area": 2632923680,
+    "FIPS": "12055",
+    "Pop": 100917,
+    "Year": 2016,
+    "GrowthRate": 2.28350766236926,
+    "CTYNAME": "Highlands County",
+    "StatePercentage": 0.48959271632047036,
+    "StateRank": 36
+  },
+  {
+    "area": 1337193226,
+    "FIPS": "12039",
+    "Pop": 46006,
+    "Year": 2016,
+    "GrowthRate": -3.7329985352584174,
+    "CTYNAME": "Gadsden County",
+    "StatePercentage": 0.22319532394977615,
+    "StateRank": 43
+  },
+  {
+    "area": 2629960540,
+    "FIPS": "12009",
+    "Pop": 579130,
+    "Year": 2016,
+    "GrowthRate": 6.456155056543281,
+    "CTYNAME": "Brevard County",
+    "StatePercentage": 2.809614136395989,
+    "StateRank": 10
+  }
+]

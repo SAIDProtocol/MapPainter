@@ -1,0 +1,1592 @@
+[
+  {
+    "area": 1132610582,
+    "FIPS": "13271",
+    "Pop": 15965,
+    "Year": 2016,
+    "GrowthRate": -3.177876159864155,
+    "CTYNAME": "Telfair County",
+    "StatePercentage": 0.15484408853958795,
+    "StateRank": 105
+  },
+  {
+    "area": 1220058031,
+    "FIPS": "13141",
+    "Pop": 8640,
+    "Year": 2016,
+    "GrowthRate": -8.270517040025481,
+    "CTYNAME": "Hancock County",
+    "StatePercentage": 0.08379911838283996,
+    "StateRank": 135
+  },
+  {
+    "area": 1170534736,
+    "FIPS": "13019",
+    "Pop": 18993,
+    "Year": 2016,
+    "GrowthRate": -1.8094401075324384,
+    "CTYNAME": "Berrien County",
+    "StatePercentage": 0.18421257586172216,
+    "StateRank": 92
+  },
+  {
+    "area": 978250127,
+    "FIPS": "13315",
+    "Pop": 8761,
+    "Year": 2016,
+    "GrowthRate": -5.551962052608886,
+    "CTYNAME": "Wilcox County",
+    "StatePercentage": 0.08497269399908113,
+    "StateRank": 134
+  },
+  {
+    "area": 620370693,
+    "FIPS": "13209",
+    "Pop": 9060,
+    "Year": 2016,
+    "GrowthRate": -0.9294696555494824,
+    "CTYNAME": "Montgomery County",
+    "StatePercentage": 0.08787268663756134,
+    "StateRank": 131
+  },
+  {
+    "area": 1364178479,
+    "FIPS": "13121",
+    "Pop": 1023336,
+    "Year": 2016,
+    "GrowthRate": 10.513237255463096,
+    "CTYNAME": "Fulton County",
+    "StatePercentage": 9.92530724646087,
+    "StateRank": 1
+  },
+  {
+    "area": 477395751,
+    "FIPS": "13219",
+    "Pop": 36838,
+    "Year": 2016,
+    "GrowthRate": 11.870995171429442,
+    "CTYNAME": "Oconee County",
+    "StatePercentage": 0.35729073182720583,
+    "StateRank": 51
+  },
+  {
+    "area": 958280735,
+    "FIPS": "13241",
+    "Pop": 16559,
+    "Year": 2016,
+    "GrowthRate": 1.782531194295899,
+    "CTYNAME": "Rabun County",
+    "StatePercentage": 0.1606052779284082,
+    "StateRank": 103
+  },
+  {
+    "area": 942770570,
+    "FIPS": "13279",
+    "Pop": 27196,
+    "Year": 2016,
+    "GrowthRate": -0.21281279812137655,
+    "CTYNAME": "Toombs County",
+    "StatePercentage": 0.26377324346524483,
+    "StateRank": 66
+  },
+  {
+    "area": 892278138,
+    "FIPS": "13213",
+    "Pop": 39315,
+    "Year": 2016,
+    "GrowthRate": -0.5715586353405371,
+    "CTYNAME": "Murray County",
+    "StatePercentage": 0.38131508555802696,
+    "StateRank": 50
+  },
+  {
+    "area": 1017306098,
+    "FIPS": "13139",
+    "Pop": 196637,
+    "Year": 2016,
+    "GrowthRate": 9.24156398262241,
+    "CTYNAME": "Hall County",
+    "StatePercentage": 1.907176764056308,
+    "StateRank": 12
+  },
+  {
+    "area": 675661214,
+    "FIPS": "13277",
+    "Pop": 40828,
+    "Year": 2016,
+    "GrowthRate": 1.4738411830495863,
+    "CTYNAME": "Tift County",
+    "StatePercentage": 0.395989630247059,
+    "StateRank": 49
+  },
+  {
+    "area": 541613277,
+    "FIPS": "13307",
+    "Pop": 2599,
+    "Year": 2016,
+    "GrowthRate": -6.409794742527907,
+    "CTYNAME": "Webster County",
+    "StatePercentage": 0.025207628319097345,
+    "StateRank": 157
+  },
+  {
+    "area": 1410510137,
+    "FIPS": "13275",
+    "Pop": 45248,
+    "Year": 2016,
+    "GrowthRate": 1.0947763528307775,
+    "CTYNAME": "Thomas County",
+    "StatePercentage": 0.4388590866419841,
+    "StateRank": 44
+  },
+  {
+    "area": 601027938,
+    "FIPS": "13227",
+    "Pop": 30832,
+    "Year": 2016,
+    "GrowthRate": 4.657162253903593,
+    "CTYNAME": "Pickens County",
+    "StatePercentage": 0.29903870578469,
+    "StateRank": 56
+  },
+  {
+    "area": 1416686380,
+    "FIPS": "13071",
+    "Pop": 45708,
+    "Year": 2016,
+    "GrowthRate": 0.14679783527968482,
+    "CTYNAME": "Colquitt County",
+    "StatePercentage": 0.4433206137781075,
+    "StateRank": 43
+  },
+  {
+    "area": 972671315,
+    "FIPS": "13153",
+    "Pop": 152122,
+    "Year": 2016,
+    "GrowthRate": 8.08264533272704,
+    "CTYNAME": "Houston County",
+    "StatePercentage": 1.4754270239160163,
+    "StateRank": 15
+  },
+  {
+    "area": 479903182,
+    "FIPS": "13173",
+    "Pop": 10399,
+    "Year": 2016,
+    "GrowthRate": 2.9705911476383733,
+    "CTYNAME": "Lanier County",
+    "StatePercentage": 0.10085961019249452,
+    "StateRank": 125
+  },
+  {
+    "area": 1177231778,
+    "FIPS": "13131",
+    "Pop": 24808,
+    "Year": 2016,
+    "GrowthRate": -0.9660678642714515,
+    "CTYNAME": "Grady County",
+    "StatePercentage": 0.24061209824554325,
+    "StateRank": 75
+  },
+  {
+    "area": 808832044,
+    "FIPS": "13223",
+    "Pop": 155825,
+    "Year": 2016,
+    "GrowthRate": 9.144077887511386,
+    "CTYNAME": "Paulding County",
+    "StatePercentage": 1.5113423173618097,
+    "StateRank": 13
+  },
+  {
+    "area": 735650478,
+    "FIPS": "13005",
+    "Pop": 11372,
+    "Year": 2016,
+    "GrowthRate": 2.6261167764642153,
+    "CTYNAME": "Bacon County",
+    "StatePercentage": 0.11029670998259908,
+    "StateRank": 120
+  },
+  {
+    "area": 2090902573,
+    "FIPS": "13175",
+    "Pop": 47516,
+    "Year": 2016,
+    "GrowthRate": -1.828474618293015,
+    "CTYNAME": "Laurens County",
+    "StatePercentage": 0.4608563552174796,
+    "StateRank": 42
+  },
+  {
+    "area": 601903610,
+    "FIPS": "13147",
+    "Pop": 25553,
+    "Year": 2016,
+    "GrowthRate": 1.3605712019040084,
+    "CTYNAME": "Hart County",
+    "StatePercentage": 0.2478378324116562,
+    "StateRank": 71
+  },
+  {
+    "area": 677301813,
+    "FIPS": "13119",
+    "Pop": 22320,
+    "Year": 2016,
+    "GrowthRate": 1.109852774631932,
+    "CTYNAME": "Franklin County",
+    "StatePercentage": 0.21648105582233657,
+    "StateRank": 83
+  },
+  {
+    "area": 1284365331,
+    "FIPS": "13091",
+    "Pop": 20563,
+    "Year": 2016,
+    "GrowthRate": -5.539988056410493,
+    "CTYNAME": "Dodge County",
+    "StatePercentage": 0.1994399619567521,
+    "StateRank": 88
+  },
+  {
+    "area": 2312574726,
+    "FIPS": "13299",
+    "Pop": 35738,
+    "Year": 2016,
+    "GrowthRate": -1.745800456382483,
+    "CTYNAME": "Ware County",
+    "StatePercentage": 0.3466218625886498,
+    "StateRank": 53
+  },
+  {
+    "area": 506035802,
+    "FIPS": "13061",
+    "Pop": 3020,
+    "Year": 2016,
+    "GrowthRate": -4.460613729832332,
+    "CTYNAME": "Clay County",
+    "StatePercentage": 0.029290895545853783,
+    "StateRank": 155
+  },
+  {
+    "area": 1114908667,
+    "FIPS": "13135",
+    "Pop": 907135,
+    "Year": 2016,
+    "GrowthRate": 12.232513139271333,
+    "CTYNAME": "Gwinnett County",
+    "StatePercentage": 8.798276997015916,
+    "StateRank": 2
+  },
+  {
+    "area": 431395520,
+    "FIPS": "13281",
+    "Pop": 11391,
+    "Year": 2016,
+    "GrowthRate": 8.063751067261165,
+    "CTYNAME": "Towns County",
+    "StatePercentage": 0.11048099045126504,
+    "StateRank": 119
+  },
+  {
+    "area": 917793241,
+    "FIPS": "13155",
+    "Pop": 9422,
+    "Year": 2016,
+    "GrowthRate": -1.813255523134643,
+    "CTYNAME": "Irwin County",
+    "StatePercentage": 0.09138371451424977,
+    "StateRank": 129
+  },
+  {
+    "area": 518293193,
+    "FIPS": "13097",
+    "Pop": 142224,
+    "Year": 2016,
+    "GrowthRate": 7.220722826168895,
+    "CTYNAME": "Douglas County",
+    "StatePercentage": 1.3794265987130823,
+    "StateRank": 17
+  },
+  {
+    "area": 609245340,
+    "FIPS": "13253",
+    "Pop": 8468,
+    "Year": 2016,
+    "GrowthRate": -2.9344337459880734,
+    "CTYNAME": "Seminole County",
+    "StatePercentage": 0.08213089519281119,
+    "StateRank": 137
+  },
+  {
+    "area": 1546584747,
+    "FIPS": "13087",
+    "Pop": 26822,
+    "Year": 2016,
+    "GrowthRate": -3.552678892484721,
+    "CTYNAME": "Decatur County",
+    "StatePercentage": 0.2601458279241358,
+    "StateRank": 67
+  },
+  {
+    "area": 1292492346,
+    "FIPS": "13045",
+    "Pop": 116261,
+    "Year": 2016,
+    "GrowthRate": 5.025384379121576,
+    "CTYNAME": "Carroll County",
+    "StatePercentage": 1.127612187767055,
+    "StateRank": 20
+  },
+  {
+    "area": 647809457,
+    "FIPS": "13017",
+    "Pop": 17243,
+    "Year": 2016,
+    "GrowthRate": -2.2394829345730756,
+    "CTYNAME": "Ben Hill County",
+    "StatePercentage": 0.16723937480038303,
+    "StateRank": 100
+  },
+  {
+    "area": 1478123915,
+    "FIPS": "13321",
+    "Pop": 20748,
+    "Year": 2016,
+    "GrowthRate": -4.488330341113112,
+    "CTYNAME": "Worth County",
+    "StatePercentage": 0.20123427178323652,
+    "StateRank": 87
+  },
+  {
+    "area": 559659551,
+    "FIPS": "13231",
+    "Pop": 17941,
+    "Year": 2016,
+    "GrowthRate": 0.20665773011617716,
+    "CTYNAME": "Pike County",
+    "StatePercentage": 0.17400925728084857,
+    "StateRank": 99
+  },
+  {
+    "area": 899449594,
+    "FIPS": "13165",
+    "Pop": 8849,
+    "Year": 2016,
+    "GrowthRate": 6.294294294294289,
+    "CTYNAME": "Jenkins County",
+    "StatePercentage": 0.0858262035381656,
+    "StateRank": 133
+  },
+  {
+    "area": 336205278,
+    "FIPS": "13247",
+    "Pop": 89355,
+    "Year": 2016,
+    "GrowthRate": 4.666690093825778,
+    "CTYNAME": "Rockdale County",
+    "StatePercentage": 0.8666516461919751,
+    "StateRank": 29
+  },
+  {
+    "area": 885629899,
+    "FIPS": "13007",
+    "Pop": 3150,
+    "Year": 2016,
+    "GrowthRate": -8.270238788584734,
+    "CTYNAME": "Baker County",
+    "StatePercentage": 0.0305517619104104,
+    "StateRank": 154
+  },
+  {
+    "area": 704988503,
+    "FIPS": "13217",
+    "Pop": 106999,
+    "Year": 2016,
+    "GrowthRate": 6.818476774251522,
+    "CTYNAME": "Newton County",
+    "StatePercentage": 1.0377803087784134,
+    "StateRank": 23
+  },
+  {
+    "area": 909234534,
+    "FIPS": "13105",
+    "Pop": 19143,
+    "Year": 2016,
+    "GrowthRate": -4.746977160770271,
+    "CTYNAME": "Elbert County",
+    "StatePercentage": 0.18566742166697978,
+    "StateRank": 91
+  },
+  {
+    "area": 1037654069,
+    "FIPS": "13193",
+    "Pop": 13450,
+    "Year": 2016,
+    "GrowthRate": -8.222449675878536,
+    "CTYNAME": "Macon County",
+    "StatePercentage": 0.1304511738714349,
+    "StateRank": 114
+  },
+  {
+    "area": 843525615,
+    "FIPS": "13297",
+    "Pop": 90184,
+    "Year": 2016,
+    "GrowthRate": 7.3861944963741735,
+    "CTYNAME": "Walton County",
+    "StatePercentage": 0.8746920940090323,
+    "StateRank": 27
+  },
+  {
+    "area": 837696991,
+    "FIPS": "13293",
+    "Pop": 26335,
+    "Year": 2016,
+    "GrowthRate": -2.7008054385575946,
+    "CTYNAME": "Upson County",
+    "StatePercentage": 0.255422428543066,
+    "StateRank": 69
+  },
+  {
+    "area": 1072232618,
+    "FIPS": "13285",
+    "Pop": 70005,
+    "Year": 2016,
+    "GrowthRate": 4.34335454830007,
+    "CTYNAME": "Troup County",
+    "StatePercentage": 0.6789765373137397,
+    "StateRank": 33
+  },
+  {
+    "area": 868785319,
+    "FIPS": "13273",
+    "Pop": 8967,
+    "Year": 2016,
+    "GrowthRate": -5.779132079436792,
+    "CTYNAME": "Terrell County",
+    "StatePercentage": 0.08697068223830161,
+    "StateRank": 132
+  },
+  {
+    "area": 1188153047,
+    "FIPS": "13259",
+    "Pop": 5705,
+    "Year": 2016,
+    "GrowthRate": -6.460075422200362,
+    "CTYNAME": "Stewart County",
+    "StatePercentage": 0.0553326354599655,
+    "StateRank": 150
+  },
+  {
+    "area": 507333988,
+    "FIPS": "13255",
+    "Pop": 64806,
+    "Year": 2016,
+    "GrowthRate": 1.129802440622953,
+    "CTYNAME": "Spalding County",
+    "StatePercentage": 0.62855158170351,
+    "StateRank": 36
+  },
+  {
+    "area": 432284457,
+    "FIPS": "13249",
+    "Pop": 5098,
+    "Year": 2016,
+    "GrowthRate": 1.69559146219828,
+    "CTYNAME": "Schley County",
+    "StatePercentage": 0.0494453594346896,
+    "StateRank": 152
+  },
+  {
+    "area": 645061948,
+    "FIPS": "13235",
+    "Pop": 11251,
+    "Year": 2016,
+    "GrowthRate": -5.644079168064408,
+    "CTYNAME": "Pulaski County",
+    "StatePercentage": 0.10912313436635791,
+    "StateRank": 121
+  },
+  {
+    "area": 389190275,
+    "FIPS": "13225",
+    "Pop": 26655,
+    "Year": 2016,
+    "GrowthRate": -3.945945945945951,
+    "CTYNAME": "Peach County",
+    "StatePercentage": 0.2585260995942823,
+    "StateRank": 68
+  },
+  {
+    "area": 899647678,
+    "FIPS": "13211",
+    "Pop": 18170,
+    "Year": 2016,
+    "GrowthRate": 1.502709345846597,
+    "CTYNAME": "Morgan County",
+    "StatePercentage": 0.17623032187687523,
+    "StateRank": 98
+  },
+  {
+    "area": 1025912893,
+    "FIPS": "13207",
+    "Pop": 27306,
+    "Year": 2016,
+    "GrowthRate": 3.16218973138389,
+    "CTYNAME": "Monroe County",
+    "StatePercentage": 0.2648401303891004,
+    "StateRank": 65
+  },
+  {
+    "area": 1298160991,
+    "FIPS": "13199",
+    "Pop": 21074,
+    "Year": 2016,
+    "GrowthRate": -3.498488872607382,
+    "CTYNAME": "Meriwether County",
+    "StatePercentage": 0.20439613666666312,
+    "StateRank": 86
+  },
+  {
+    "area": 732793278,
+    "FIPS": "13187",
+    "Pop": 31445,
+    "Year": 2016,
+    "GrowthRate": 3.7754529553480154,
+    "CTYNAME": "Lumpkin County",
+    "StatePercentage": 0.3049841756421762,
+    "StateRank": 55
+  },
+  {
+    "area": 419999438,
+    "FIPS": "13047",
+    "Pop": 66398,
+    "Year": 2016,
+    "GrowthRate": 3.6934080864554204,
+    "CTYNAME": "Catoosa County",
+    "StatePercentage": 0.643992345183311,
+    "StateRank": 35
+  },
+  {
+    "area": 629495413,
+    "FIPS": "13043",
+    "Pop": 10910,
+    "Year": 2016,
+    "GrowthRate": -0.9532455742169788,
+    "CTYNAME": "Candler County",
+    "StatePercentage": 0.10581578490240555,
+    "StateRank": 123
+  },
+  {
+    "area": 1190219024,
+    "FIPS": "13015",
+    "Pop": 103807,
+    "Year": 2016,
+    "GrowthRate": 3.6670494831976868,
+    "CTYNAME": "Bartow County",
+    "StatePercentage": 1.006821190042531,
+    "StateRank": 25
+  },
+  {
+    "area": 601112274,
+    "FIPS": "13011",
+    "Pop": 18397,
+    "Year": 2016,
+    "GrowthRate": -0.059756627553241515,
+    "CTYNAME": "Banks County",
+    "StatePercentage": 0.1784319885288318,
+    "StateRank": 96
+  },
+  {
+    "area": 921722909,
+    "FIPS": "13177",
+    "Pop": 29337,
+    "Year": 2016,
+    "GrowthRate": 3.2011819748830277,
+    "CTYNAME": "Lee County",
+    "StatePercentage": 0.2845387425922889,
+    "StateRank": 60
+  },
+  {
+    "area": 1037095171,
+    "FIPS": "13183",
+    "Pop": 18437,
+    "Year": 2016,
+    "GrowthRate": 25.584088277365296,
+    "CTYNAME": "Long County",
+    "StatePercentage": 0.17881994741023383,
+    "StateRank": 94
+  },
+  {
+    "area": 784793325,
+    "FIPS": "13167",
+    "Pop": 9505,
+    "Year": 2016,
+    "GrowthRate": -4.759519038076149,
+    "CTYNAME": "Johnson County",
+    "StatePercentage": 0.092188729193159,
+    "StateRank": 128
+  },
+  {
+    "area": 856690607,
+    "FIPS": "13161",
+    "Pop": 14877,
+    "Year": 2016,
+    "GrowthRate": -1.4311270125223672,
+    "CTYNAME": "Jeff Davis County",
+    "StatePercentage": 0.14429160696545254,
+    "StateRank": 109
+  },
+  {
+    "area": 921538728,
+    "FIPS": "13129",
+    "Pop": 56904,
+    "Year": 2016,
+    "GrowthRate": 3.070151605716461,
+    "CTYNAME": "Gordon County",
+    "StatePercentage": 0.5519103046825377,
+    "StateRank": 40
+  },
+  {
+    "area": 372284127,
+    "FIPS": "13125",
+    "Pop": 3006,
+    "Year": 2016,
+    "GrowthRate": -2.0527859237536603,
+    "CTYNAME": "Glascock County",
+    "StatePercentage": 0.029155109937363068,
+    "StateRank": 156
+  },
+  {
+    "area": 1103983751,
+    "FIPS": "13123",
+    "Pop": 29733,
+    "Year": 2016,
+    "GrowthRate": 4.993114163635724,
+    "CTYNAME": "Gilmer County",
+    "StatePercentage": 0.28837953551816903,
+    "StateRank": 59
+  },
+  {
+    "area": 1320694741,
+    "FIPS": "13115",
+    "Pop": 96560,
+    "Year": 2016,
+    "GrowthRate": 0.14208228327265715,
+    "CTYNAME": "Floyd County",
+    "StatePercentage": 0.9365327397045169,
+    "StateRank": 26
+  },
+  {
+    "area": 473613883,
+    "FIPS": "13109",
+    "Pop": 10670,
+    "Year": 2016,
+    "GrowthRate": -3.0792987555636273,
+    "CTYNAME": "Evans County",
+    "StatePercentage": 0.10348803161399332,
+    "StateRank": 124
+  },
+  {
+    "area": 1074571646,
+    "FIPS": "13101",
+    "Pop": 3962,
+    "Year": 2016,
+    "GrowthRate": -1.6873449131513638,
+    "CTYNAME": "Echols County",
+    "StatePercentage": 0.03842732720287175,
+    "StateRank": 153
+  },
+  {
+    "area": 1327612129,
+    "FIPS": "13099",
+    "Pop": 10339,
+    "Year": 2016,
+    "GrowthRate": -5.717672806857564,
+    "CTYNAME": "Early County",
+    "StatePercentage": 0.10027767187039147,
+    "StateRank": 126
+  },
+  {
+    "area": 851140302,
+    "FIPS": "13095",
+    "Pop": 90017,
+    "Year": 2016,
+    "GrowthRate": -4.806370423637404,
+    "CTYNAME": "Dougherty County",
+    "StatePercentage": 0.8730723656791788,
+    "StateRank": 28
+  },
+  {
+    "area": 693055897,
+    "FIPS": "13089",
+    "Pop": 740321,
+    "Year": 2016,
+    "GrowthRate": 6.876698999692508,
+    "CTYNAME": "DeKalb County",
+    "StatePercentage": 7.180352675960933,
+    "StateRank": 4
+  },
+  {
+    "area": 546042942,
+    "FIPS": "13085",
+    "Pop": 23604,
+    "Year": 2016,
+    "GrowthRate": 5.909274464934711,
+    "CTYNAME": "Dawson County",
+    "StatePercentage": 0.22893453591534194,
+    "StateRank": 77
+  },
+  {
+    "area": 706002618,
+    "FIPS": "13081",
+    "Pop": 22721,
+    "Year": 2016,
+    "GrowthRate": -2.930747212372367,
+    "CTYNAME": "Crisp County",
+    "StatePercentage": 0.22037034360839197,
+    "StateRank": 79
+  },
+  {
+    "area": 879701643,
+    "FIPS": "13067",
+    "Pop": 748150,
+    "Year": 2016,
+    "GrowthRate": 8.475170980880009,
+    "CTYNAME": "Cobb County",
+    "StatePercentage": 7.256285928023346,
+    "StateRank": 3
+  },
+  {
+    "area": 2072566668,
+    "FIPS": "13065",
+    "Pop": 6829,
+    "Year": 2016,
+    "GrowthRate": 0.7375719132615473,
+    "CTYNAME": "Clinch County",
+    "StatePercentage": 0.06623428002736274,
+    "StateRank": 145
+  },
+  {
+    "area": 1092190453,
+    "FIPS": "13057",
+    "Pop": 241689,
+    "Year": 2016,
+    "GrowthRate": 12.311102436848273,
+    "CTYNAME": "Cherokee County",
+    "StatePercentage": 2.344134852179422,
+    "StateRank": 7
+  },
+  {
+    "area": 811512405,
+    "FIPS": "13055",
+    "Pop": 24824,
+    "Year": 2016,
+    "GrowthRate": -4.361226691323779,
+    "CTYNAME": "Chattooga County",
+    "StatePercentage": 0.24076728179810405,
+    "StateRank": 74
+  },
+  {
+    "area": 475937514,
+    "FIPS": "13035",
+    "Pop": 23817,
+    "Year": 2016,
+    "GrowthRate": 0.3116708082382189,
+    "CTYNAME": "Butts County",
+    "StatePercentage": 0.2310004169588078,
+    "StateRank": 76
+  },
+  {
+    "area": 1156146017,
+    "FIPS": "13295",
+    "Pop": 67896,
+    "Year": 2016,
+    "GrowthRate": -1.442879953549138,
+    "CTYNAME": "Walker County",
+    "StatePercentage": 0.6585214052918174,
+    "StateRank": 34
+  },
+  {
+    "area": 739164629,
+    "FIPS": "13287",
+    "Pop": 8030,
+    "Year": 2016,
+    "GrowthRate": -9.967485144074445,
+    "CTYNAME": "Turner County",
+    "StatePercentage": 0.0778827454414589,
+    "StateRank": 141
+  },
+  {
+    "area": 463948062,
+    "FIPS": "13257",
+    "Pop": 25751,
+    "Year": 2016,
+    "GrowthRate": -1.5258126195028723,
+    "CTYNAME": "Stephens County",
+    "StatePercentage": 0.24975822887459626,
+    "StateRank": 70
+  },
+  {
+    "area": 1109126239,
+    "FIPS": "13243",
+    "Pop": 7177,
+    "Year": 2016,
+    "GrowthRate": -6.439838352235697,
+    "CTYNAME": "Randolph County",
+    "StatePercentage": 0.06960952229556046,
+    "StateRank": 144
+  },
+  {
+    "area": 391703078,
+    "FIPS": "13239",
+    "Pop": 2335,
+    "Year": 2016,
+    "GrowthRate": -6.860789788591944,
+    "CTYNAME": "Quitman County",
+    "StatePercentage": 0.0226470997018439,
+    "StateRank": 158
+  },
+  {
+    "area": 803772833,
+    "FIPS": "13233",
+    "Pop": 41776,
+    "Year": 2016,
+    "GrowthRate": 0.5753906155957367,
+    "CTYNAME": "Polk County",
+    "StatePercentage": 0.4051842557362873,
+    "StateRank": 48
+  },
+  {
+    "area": 947978204,
+    "FIPS": "13197",
+    "Pop": 8524,
+    "Year": 2016,
+    "GrowthRate": -2.504861031682495,
+    "CTYNAME": "Marion County",
+    "StatePercentage": 0.08267403762677406,
+    "StateRank": 136
+  },
+  {
+    "area": 1020291683,
+    "FIPS": "13169",
+    "Pop": 28623,
+    "Year": 2016,
+    "GrowthRate": -0.04888780249328306,
+    "CTYNAME": "Jones County",
+    "StatePercentage": 0.2776136765592625,
+    "StateRank": 64
+  },
+  {
+    "area": 953541347,
+    "FIPS": "13159",
+    "Pop": 13654,
+    "Year": 2016,
+    "GrowthRate": -1.6494993877404056,
+    "CTYNAME": "Jasper County",
+    "StatePercentage": 0.13242976416658528,
+    "StateRank": 113
+  },
+  {
+    "area": 1201462494,
+    "FIPS": "13145",
+    "Pop": 33652,
+    "Year": 2016,
+    "GrowthRate": 4.645811306673295,
+    "CTYNAME": "Harris County",
+    "StatePercentage": 0.3263898069235336,
+    "StateRank": 54
+  },
+  {
+    "area": 308738453,
+    "FIPS": "13059",
+    "Pop": 124707,
+    "Year": 2016,
+    "GrowthRate": 6.159818167888247,
+    "CTYNAME": "Clarke County",
+    "StatePercentage": 1.2095297055750953,
+    "StateRank": 19
+  },
+  {
+    "area": 644222671,
+    "FIPS": "13053",
+    "Pop": 10922,
+    "Year": 2016,
+    "GrowthRate": -2.2902129182322426,
+    "CTYNAME": "Chattahoochee County",
+    "StatePercentage": 0.10593217256682616,
+    "StateRank": 122
+  },
+  {
+    "area": 726147258,
+    "FIPS": "13037",
+    "Pop": 6324,
+    "Year": 2016,
+    "GrowthRate": -5.66825775656325,
+    "CTYNAME": "Calhoun County",
+    "StatePercentage": 0.06133629914966202,
+    "StateRank": 147
+  },
+  {
+    "area": 559100198,
+    "FIPS": "13023",
+    "Pop": 12970,
+    "Year": 2016,
+    "GrowthRate": -0.5291816857120892,
+    "CTYNAME": "Bleckley County",
+    "StatePercentage": 0.12579566729461045,
+    "StateRank": 115
+  },
+  {
+    "area": 879043416,
+    "FIPS": "13003",
+    "Pop": 8273,
+    "Year": 2016,
+    "GrowthRate": -1.0406698564593313,
+    "CTYNAME": "Atkinson County",
+    "StatePercentage": 0.08023959564597627,
+    "StateRank": 138
+  },
+  {
+    "area": 580297280,
+    "FIPS": "13117",
+    "Pop": 221009,
+    "Year": 2016,
+    "GrowthRate": 25.026305368558013,
+    "CTYNAME": "Forsyth County",
+    "StatePercentage": 2.143560110494569,
+    "StateRank": 9
+  },
+  {
+    "area": 1002370114,
+    "FIPS": "13111",
+    "Pop": 24900,
+    "Year": 2016,
+    "GrowthRate": 5.112077335472165,
+    "CTYNAME": "Fannin County",
+    "StatePercentage": 0.24150440367276793,
+    "StateRank": 73
+  },
+  {
+    "area": 1015120153,
+    "FIPS": "13093",
+    "Pop": 13763,
+    "Year": 2016,
+    "GrowthRate": -7.294894247608781,
+    "CTYNAME": "Dooly County",
+    "StatePercentage": 0.13348695211840583,
+    "StateRank": 112
+  },
+  {
+    "area": 450605327,
+    "FIPS": "13083",
+    "Pop": 16257,
+    "Year": 2016,
+    "GrowthRate": -2.137009390801836,
+    "CTYNAME": "Dade County",
+    "StatePercentage": 0.15767618837382283,
+    "StateRank": 104
+  },
+  {
+    "area": 1490103280,
+    "FIPS": "13069",
+    "Pop": 43012,
+    "Year": 2016,
+    "GrowthRate": 0.6788071719488755,
+    "CTYNAME": "Coffee County",
+    "StatePercentage": 0.4171721851716102,
+    "StateRank": 47
+  },
+  {
+    "area": 366862138,
+    "FIPS": "13063",
+    "Pop": 279462,
+    "Year": 2016,
+    "GrowthRate": 7.560263106239347,
+    "CTYNAME": "Clayton County",
+    "StatePercentage": 2.7104941228594006,
+    "StateRank": 6
+  },
+  {
+    "area": 1099050235,
+    "FIPS": "13191",
+    "Pop": 13927,
+    "Year": 2016,
+    "GrowthRate": -2.5606940460365166,
+    "CTYNAME": "McIntosh County",
+    "StatePercentage": 0.13507758353215418,
+    "StateRank": 111
+  },
+  {
+    "area": 825200366,
+    "FIPS": "13151",
+    "Pop": 221768,
+    "Year": 2016,
+    "GrowthRate": 8.104629963634949,
+    "CTYNAME": "Henry County",
+    "StatePercentage": 2.1509216302691727,
+    "StateRank": 8
+  },
+  {
+    "area": 503398796,
+    "FIPS": "13113",
+    "Pop": 111627,
+    "Year": 2016,
+    "GrowthRate": 4.331124466086564,
+    "CTYNAME": "Fayette County",
+    "StatePercentage": 1.0826671513566293,
+    "StateRank": 22
+  },
+  {
+    "area": 1743037409,
+    "FIPS": "13031",
+    "Pop": 74722,
+    "Year": 2016,
+    "GrowthRate": 5.868517993765934,
+    "CTYNAME": "Bulloch County",
+    "StatePercentage": 0.7247265884030749,
+    "StateRank": 32
+  },
+  {
+    "area": 736332037,
+    "FIPS": "13301",
+    "Pop": 5442,
+    "Year": 2016,
+    "GrowthRate": -6.091458153580675,
+    "CTYNAME": "Warren County",
+    "StatePercentage": 0.05278180581474711,
+    "StateRank": 151
+  },
+  {
+    "area": 1013691982,
+    "FIPS": "13263",
+    "Pop": 6171,
+    "Year": 2016,
+    "GrowthRate": -9.714703730797368,
+    "CTYNAME": "Talbot County",
+    "StatePercentage": 0.05985235642829923,
+    "StateRank": 148
+  },
+  {
+    "area": 560530243,
+    "FIPS": "13215",
+    "Pop": 197485,
+    "Year": 2016,
+    "GrowthRate": 3.3292870522493416,
+    "CTYNAME": "Muscogee County",
+    "StatePercentage": 1.915401492342031,
+    "StateRank": 11
+  },
+  {
+    "area": 2141835933,
+    "FIPS": "13033",
+    "Pop": 22688,
+    "Year": 2016,
+    "GrowthRate": -2.7851572542634386,
+    "CTYNAME": "Burke County",
+    "StatePercentage": 0.2200502775312353,
+    "StateRank": 80
+  },
+  {
+    "area": 928284540,
+    "FIPS": "13289",
+    "Pop": 8171,
+    "Year": 2016,
+    "GrowthRate": -8.785443179281089,
+    "CTYNAME": "Twiggs County",
+    "StatePercentage": 0.07925030049840108,
+    "StateRank": 140
+  },
+  {
+    "area": 504031039,
+    "FIPS": "13265",
+    "Pop": 1593,
+    "Year": 2016,
+    "GrowthRate": -6.2389640965273685,
+    "CTYNAME": "Taliaferro County",
+    "StatePercentage": 0.015450462451836117,
+    "StateRank": 159
+  },
+  {
+    "area": 731466841,
+    "FIPS": "13201",
+    "Pop": 5926,
+    "Year": 2016,
+    "GrowthRate": -3.5481770833333286,
+    "CTYNAME": "Miller County",
+    "StatePercentage": 0.05747610827971176,
+    "StateRank": 149
+  },
+  {
+    "area": 1145716267,
+    "FIPS": "13025",
+    "Pop": 18355,
+    "Year": 2016,
+    "GrowthRate": -0.5472475075856096,
+    "CTYNAME": "Brantley County",
+    "StatePercentage": 0.17802463170335966,
+    "StateRank": 97
+  },
+  {
+    "area": 623402120,
+    "FIPS": "13311",
+    "Pop": 28884,
+    "Year": 2016,
+    "GrowthRate": 6.156051306552982,
+    "CTYNAME": "White County",
+    "StatePercentage": 0.2801451082604108,
+    "StateRank": 62
+  },
+  {
+    "area": 1250175714,
+    "FIPS": "13261",
+    "Pop": 30389,
+    "Year": 2016,
+    "GrowthRate": -7.115566830699635,
+    "CTYNAME": "Sumter County",
+    "StatePercentage": 0.29474206117316243,
+    "StateRank": 57
+  },
+  {
+    "area": 588446812,
+    "FIPS": "13075",
+    "Pop": 17167,
+    "Year": 2016,
+    "GrowthRate": -0.2440583415654629,
+    "CTYNAME": "Cook County",
+    "StatePercentage": 0.16650225292571916,
+    "StateRank": 101
+  },
+  {
+    "area": 1087272600,
+    "FIPS": "13127",
+    "Pop": 84502,
+    "Year": 2016,
+    "GrowthRate": 5.904174656289555,
+    "CTYNAME": "Glynn County",
+    "StatePercentage": 0.819582534905873,
+    "StateRank": 30
+  },
+  {
+    "area": 1762760538,
+    "FIPS": "13107",
+    "Pop": 22635,
+    "Year": 2016,
+    "GrowthRate": 0.11499845194391867,
+    "CTYNAME": "Emanuel County",
+    "StatePercentage": 0.2195362320133776,
+    "StateRank": 81
+  },
+  {
+    "area": 841521432,
+    "FIPS": "13079",
+    "Pop": 12322,
+    "Year": 2016,
+    "GrowthRate": -2.314888219438714,
+    "CTYNAME": "Crawford County",
+    "StatePercentage": 0.11951073341589745,
+    "StateRank": 117
+  },
+  {
+    "area": 2003652394,
+    "FIPS": "13049",
+    "Pop": 12497,
+    "Year": 2016,
+    "GrowthRate": -2.6561769746066375,
+    "CTYNAME": "Charlton County",
+    "StatePercentage": 0.12120805352203136,
+    "StateRank": 116
+  },
+  {
+    "area": 1313437498,
+    "FIPS": "13001",
+    "Pop": 18428,
+    "Year": 2016,
+    "GrowthRate": 0.5565862708719891,
+    "CTYNAME": "Appling County",
+    "StatePercentage": 0.17873265666191837,
+    "StateRank": 95
+  },
+  {
+    "area": 1215973896,
+    "FIPS": "13317",
+    "Pop": 9805,
+    "Year": 2016,
+    "GrowthRate": -6.467614232567016,
+    "CTYNAME": "Wilkes County",
+    "StatePercentage": 0.09509842080367428,
+    "StateRank": 127
+  },
+  {
+    "area": 752293531,
+    "FIPS": "13313",
+    "Pop": 104589,
+    "Year": 2016,
+    "GrowthRate": 1.7630403689541367,
+    "CTYNAME": "Whitfield County",
+    "StatePercentage": 1.0144057861739408,
+    "StateRank": 24
+  },
+  {
+    "area": 765301200,
+    "FIPS": "13309",
+    "Pop": 7978,
+    "Year": 2016,
+    "GrowthRate": 2.888831570802168,
+    "CTYNAME": "Wheeler County",
+    "StatePercentage": 0.07737839889563625,
+    "StateRank": 142
+  },
+  {
+    "area": 1757188472,
+    "FIPS": "13303",
+    "Pop": 20457,
+    "Year": 2016,
+    "GrowthRate": -3.074954989102622,
+    "CTYNAME": "Washington County",
+    "StatePercentage": 0.19841187092103668,
+    "StateRank": 89
+  },
+  {
+    "area": 516536217,
+    "FIPS": "13283",
+    "Pop": 6637,
+    "Year": 2016,
+    "GrowthRate": -3.588030214991278,
+    "CTYNAME": "Treutlen County",
+    "StatePercentage": 0.06437207739663296,
+    "StateRank": 146
+  },
+  {
+    "area": 975611442,
+    "FIPS": "13269",
+    "Pop": 8232,
+    "Year": 2016,
+    "GrowthRate": -6.113138686131393,
+    "CTYNAME": "Taylor County",
+    "StatePercentage": 0.07984193779253919,
+    "StateRank": 139
+  },
+  {
+    "area": 1670803486,
+    "FIPS": "13251",
+    "Pop": 14044,
+    "Year": 2016,
+    "GrowthRate": -3.2115782219159144,
+    "CTYNAME": "Screven County",
+    "StatePercentage": 0.13621236326025513,
+    "StateRank": 110
+  },
+  {
+    "area": 840008393,
+    "FIPS": "13245",
+    "Pop": 201647,
+    "Year": 2016,
+    "GrowthRate": 0.35434344439744336,
+    "CTYNAME": "Richmond County",
+    "StatePercentage": 1.955768613951913,
+    "StateRank": 10
+  },
+  {
+    "area": 892634162,
+    "FIPS": "13237",
+    "Pop": 21477,
+    "Year": 2016,
+    "GrowthRate": 1.3113826123873764,
+    "CTYNAME": "Putnam County",
+    "StatePercentage": 0.20830482239678863,
+    "StateRank": 85
+  },
+  {
+    "area": 1137034040,
+    "FIPS": "13221",
+    "Pop": 14921,
+    "Year": 2016,
+    "GrowthRate": 0.09391561011605631,
+    "CTYNAME": "Oglethorpe County",
+    "StatePercentage": 0.1447183617349948,
+    "StateRank": 108
+  },
+  {
+    "area": 731184844,
+    "FIPS": "13195",
+    "Pop": 28824,
+    "Year": 2016,
+    "GrowthRate": 2.419784671143802,
+    "CTYNAME": "Madison County",
+    "StatePercentage": 0.27956316993830777,
+    "StateRank": 63
+  },
+  {
+    "area": 1284858631,
+    "FIPS": "13185",
+    "Pop": 114628,
+    "Year": 2016,
+    "GrowthRate": 4.502730446991038,
+    "CTYNAME": "Lowndes County",
+    "StatePercentage": 1.111773766433817,
+    "StateRank": 21
+  },
+  {
+    "area": 544880787,
+    "FIPS": "13181",
+    "Pop": 7828,
+    "Year": 2016,
+    "GrowthRate": -1.7570281124498024,
+    "CTYNAME": "Lincoln County",
+    "StatePercentage": 0.07592355309037861,
+    "StateRank": 143
+  },
+  {
+    "area": 475262774,
+    "FIPS": "13171",
+    "Pop": 18469,
+    "Year": 2016,
+    "GrowthRate": 1.0892172961138442,
+    "CTYNAME": "Lamar County",
+    "StatePercentage": 0.17913031451535547,
+    "StateRank": 93
+  },
+  {
+    "area": 1363589116,
+    "FIPS": "13163",
+    "Pop": 15916,
+    "Year": 2016,
+    "GrowthRate": -5.855909144682357,
+    "CTYNAME": "Jefferson County",
+    "StatePercentage": 0.15436883890987046,
+    "StateRank": 106
+  },
+  {
+    "area": 879716380,
+    "FIPS": "13157",
+    "Pop": 64615,
+    "Year": 2016,
+    "GrowthRate": 6.3621399176954725,
+    "CTYNAME": "Jackson County",
+    "StatePercentage": 0.6266990780448153,
+    "StateRank": 37
+  },
+  {
+    "area": 730805104,
+    "FIPS": "13143",
+    "Pop": 29042,
+    "Year": 2016,
+    "GrowthRate": 0.8998367091686106,
+    "CTYNAME": "Haralson County",
+    "StatePercentage": 0.2816775458419489,
+    "StateRank": 61
+  },
+  {
+    "area": 716754762,
+    "FIPS": "13137",
+    "Pop": 44246,
+    "Year": 2016,
+    "GrowthRate": 2.7042083517095676,
+    "CTYNAME": "Habersham County",
+    "StatePercentage": 0.4291407166628631,
+    "StateRank": 46
+  },
+  {
+    "area": 1003451715,
+    "FIPS": "13133",
+    "Pop": 17003,
+    "Year": 2016,
+    "GrowthRate": 6.255468066491687,
+    "CTYNAME": "Greene County",
+    "StatePercentage": 0.1649116215119708,
+    "StateRank": 102
+  },
+  {
+    "area": 1141971255,
+    "FIPS": "13077",
+    "Pop": 140526,
+    "Year": 2016,
+    "GrowthRate": 9.870056762208563,
+    "CTYNAME": "Coweta County",
+    "StatePercentage": 1.3629577441975658,
+    "StateRank": 18
+  },
+  {
+    "area": 1110634444,
+    "FIPS": "13051",
+    "Pop": 289082,
+    "Year": 2016,
+    "GrowthRate": 8.720768426515832,
+    "CTYNAME": "Chatham County",
+    "StatePercentage": 2.8037982338365905,
+    "StateRank": 5
+  },
+  {
+    "area": 1588171684,
+    "FIPS": "13039",
+    "Pop": 53008,
+    "Year": 2016,
+    "GrowthRate": 4.622429242490028,
+    "CTYNAME": "Camden County",
+    "StatePercentage": 0.5141231096339792,
+    "StateRank": 41
+  },
+  {
+    "area": 1130059118,
+    "FIPS": "13029",
+    "Pop": 36230,
+    "Year": 2016,
+    "GrowthRate": 19.24823908893424,
+    "CTYNAME": "Bryan County",
+    "StatePercentage": 0.3513937568298949,
+    "StateRank": 52
+  },
+  {
+    "area": 645714764,
+    "FIPS": "13021",
+    "Pop": 152760,
+    "Year": 2016,
+    "GrowthRate": -1.8169898513371976,
+    "CTYNAME": "Bibb County",
+    "StatePercentage": 1.4816149680743786,
+    "StateRank": 14
+  },
+  {
+    "area": 1158541304,
+    "FIPS": "13319",
+    "Pop": 9104,
+    "Year": 2016,
+    "GrowthRate": -4.359701649332919,
+    "CTYNAME": "Wilkinson County",
+    "StatePercentage": 0.08829944140710358,
+    "StateRank": 130
+  },
+  {
+    "area": 1662237980,
+    "FIPS": "13305",
+    "Pop": 30104,
+    "Year": 2016,
+    "GrowthRate": 0.033229215125942346,
+    "CTYNAME": "Wayne County",
+    "StatePercentage": 0.29197785414317295,
+    "StateRank": 58
+  },
+  {
+    "area": 833844747,
+    "FIPS": "13291",
+    "Pop": 22928,
+    "Year": 2016,
+    "GrowthRate": 7.537169926363674,
+    "CTYNAME": "Union County",
+    "StatePercentage": 0.22237803081964752,
+    "StateRank": 78
+  },
+  {
+    "area": 1241953433,
+    "FIPS": "13267",
+    "Pop": 25092,
+    "Year": 2016,
+    "GrowthRate": -1.5613966261278875,
+    "CTYNAME": "Tattnall County",
+    "StatePercentage": 0.2433666063034977,
+    "StateRank": 72
+  },
+  {
+    "area": 881051116,
+    "FIPS": "13229",
+    "Pop": 19171,
+    "Year": 2016,
+    "GrowthRate": 1.9246105587750577,
+    "CTYNAME": "Pierce County",
+    "StatePercentage": 0.1859389928839612,
+    "StateRank": 90
+  },
+  {
+    "area": 1326293152,
+    "FIPS": "13205",
+    "Pop": 22459,
+    "Year": 2016,
+    "GrowthRate": -4.417585223645574,
+    "CTYNAME": "Mitchell County",
+    "StatePercentage": 0.21782921293520863,
+    "StateRank": 82
+  },
+  {
+    "area": 666816637,
+    "FIPS": "13189",
+    "Pop": 21490,
+    "Year": 2016,
+    "GrowthRate": -1.557489693082914,
+    "CTYNAME": "McDuffie County",
+    "StatePercentage": 0.2084309090332443,
+    "StateRank": 84
+  },
+  {
+    "area": 1337285587,
+    "FIPS": "13179",
+    "Pop": 62570,
+    "Year": 2016,
+    "GrowthRate": -0.18664156842726243,
+    "CTYNAME": "Liberty County",
+    "StatePercentage": 0.6068646802331361,
+    "StateRank": 38
+  },
+  {
+    "area": 766718985,
+    "FIPS": "13149",
+    "Pop": 11487,
+    "Year": 2016,
+    "GrowthRate": -3.136858082469004,
+    "CTYNAME": "Heard County",
+    "StatePercentage": 0.11141209176662993,
+    "StateRank": 118
+  },
+  {
+    "area": 1237247956,
+    "FIPS": "13103",
+    "Pop": 58712,
+    "Year": 2016,
+    "GrowthRate": 11.911251739321045,
+    "CTYNAME": "Effingham County",
+    "StatePercentage": 0.5694460461219096,
+    "StateRank": 39
+  },
+  {
+    "area": 751327584,
+    "FIPS": "13073",
+    "Pop": 147450,
+    "Year": 2016,
+    "GrowthRate": 17.97321299985599,
+    "CTYNAME": "Columbia County",
+    "StatePercentage": 1.4301134265682582,
+    "StateRank": 16
+  },
+  {
+    "area": 1277108508,
+    "FIPS": "13027",
+    "Pop": 15687,
+    "Year": 2016,
+    "GrowthRate": -3.5417819590481514,
+    "CTYNAME": "Brooks County",
+    "StatePercentage": 0.1521477743138438,
+    "StateRank": 107
+  },
+  {
+    "area": 415349721,
+    "FIPS": "13013",
+    "Pop": 77126,
+    "Year": 2016,
+    "GrowthRate": 10.663758716675758,
+    "CTYNAME": "Barrow County",
+    "StatePercentage": 0.7480429171753373,
+    "StateRank": 31
+  },
+  {
+    "area": 669822350,
+    "FIPS": "13009",
+    "Pop": 45144,
+    "Year": 2016,
+    "GrowthRate": -1.2036591237361591,
+    "CTYNAME": "Baldwin County",
+    "StatePercentage": 0.4378503935503388,
+    "StateRank": 45
+  }
+]

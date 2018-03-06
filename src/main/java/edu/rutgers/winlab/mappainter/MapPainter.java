@@ -191,8 +191,8 @@ public class MapPainter {
         return bi;
     }
 
-    public static void saveImage(BufferedImage img, String outputFile) throws IOException {
-        try (FileOutputStream fos = new FileOutputStream(outputFile)) {
+    public static void saveImage(BufferedImage img, String prefix, String outputFile) throws IOException {
+        try (FileOutputStream fos = new FileOutputStream(prefix + outputFile)) {
             ImageIO.write(img, "png", fos);
         }
     }

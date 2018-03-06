@@ -18,7 +18,7 @@ public class MapPainterTest {
     public MapPainterTest() {
     }
 
-    @Test
+//    @Test
     public void test1() throws IOException {
 //        MapItem[] mapItems = MapPainter.getFromMapFile("ResultMap.json");
         char[] str = "212".toCharArray();
@@ -64,8 +64,10 @@ public class MapPainterTest {
 
     @Test
     public void drawDisasterAreaMapStart() throws IOException {
-//        DataLogic.drawDisasterArea(true);
-//        DataLogic.drawPopulationDensityDisasterArea(true);
-        DataLogic.drawCellSites(true);
+//        DataLogicHarvey.drawDisasterArea(true);
+//        DataLogicHarvey.drawPopulationDensityDisasterArea(true);
+//        DataLogicHarvey.drawCellSites(true);
+//        DataLogicIrma.drawDisasterArea(true);
+        DataLogicIrma.drawPopulationDensityDisasterArea(true);
     }
 }

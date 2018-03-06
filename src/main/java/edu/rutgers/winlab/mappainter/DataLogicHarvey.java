@@ -6,33 +6,26 @@
 package edu.rutgers.winlab.mappainter;
 
 import com.google.gson.Gson;
+import static edu.rutgers.winlab.mappainter.DataLogicCommon.FLOAT_FORMAT;
+import static edu.rutgers.winlab.mappainter.DataLogicCommon.INTEGER_FORMAT;
+import static edu.rutgers.winlab.mappainter.DataLogicCommon.concatenate;
+import static edu.rutgers.winlab.mappainter.DataLogicCommon.drawBarCharts;
+import static edu.rutgers.winlab.mappainter.DataLogicCommon.findCounty;
+import static edu.rutgers.winlab.mappainter.DataLogicCommon.squareMeterToSquareMile;
 import java.awt.Color;
-import java.awt.FontMetrics;
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.text.DecimalFormat;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 
 /**
  *
  * @author jiachen
  */
-public class DataLogic {
-
-    public static <T> T[] concatenate(T[] first, T[] second) {
-        T[] result = Arrays.copyOf(first, first.length + second.length);
-        System.arraycopy(second, 0, result, first.length, second.length);
-        return result;
-    }
-
-    public static double squareMeterToSquareMile(double squareMeter) {
-        return squareMeter * 0.386102159 / 1000000;
-    }
+public class DataLogicHarvey {
 
     public static String renameCounty(String prefix, String county) {
         switch (prefix) {
@@ -52,23 +45,6 @@ public class DataLogic {
         return county;
     }
 
-    public static MapItem findCounty(MapItem[] items, String countyName, String prefix) {
-        MapItem candidate = null;
-        countyName = renameCounty(prefix, countyName);
-        for (MapItem mi : items) {
-            if (mi.getName().contains(countyName)) {
-                if (candidate != null) {
-                    System.out.printf("%s county: %s, duplicate: %s, %s%n", prefix, countyName, candidate.getName(), mi.getName());
-                }
-                candidate = mi;
-            }
-        }
-        if (candidate == null) {
-            System.out.printf("%s county: %s, not found%n", prefix, countyName);
-        }
-        return candidate;
-    }
-
     public static String getShortCountyName(String county) {
         if (county.endsWith(" Parish")) {
             return county.substring(0, county.length() - 7).trim();
@@ -79,45 +55,8 @@ public class DataLogic {
         return county;
     }
 
-    // values[d1][d2] d1==colors.length  d2==titles.length
-    public static void drawBarCharts(ArrayList<String> titles, Color[] colors, ArrayList<Double>[] values, int barWidth, int maxHeight, int fontSize, String fileName) throws IOException {
-        int totalWidth = barWidth * colors.length * titles.size();
-        BufferedImage img = new BufferedImage(1, 1, BufferedImage.TYPE_4BYTE_ABGR);
-        Graphics2D g2d = MapPainter.getGraphicsFromImage(img, fontSize);
-        int maxFontWidth = 0;
-        FontMetrics metrics = g2d.getFontMetrics();
-        for (String title : titles) {
-            maxFontWidth = Math.max(maxFontWidth, metrics.stringWidth(" " + title));
-        }
-        int totalHeight = maxHeight + maxFontWidth;
-        img = new BufferedImage(totalWidth, totalHeight, BufferedImage.TYPE_4BYTE_ABGR);
-        g2d = MapPainter.getGraphicsFromImage(img, fontSize);
-        metrics = g2d.getFontMetrics();
-        for (int j = 0; j < colors.length; j++) {
-            g2d.setColor(colors[j]);
-            for (int i = 0; i < titles.size(); i++) {
-                int height = (int) Math.round(values[j].get(i) * maxHeight);
-                g2d.fillRect((i * colors.length + j) * barWidth, maxHeight - height, barWidth, height);
-            }
-        }
-        g2d.setColor(Color.black);
-        for (int i = 0; i < titles.size(); i++) {
-            g2d.drawLine((i * colors.length) * barWidth, maxHeight - 4, (i * colors.length) * barWidth, maxHeight + 4);
-            g2d.drawLine(((i + 1) * colors.length) * barWidth - 1, maxHeight - 4, ((i + 1) * colors.length) * barWidth - 1, maxHeight + 4);
-        }
-        g2d.drawLine(0, maxHeight, totalWidth, maxHeight);
-        g2d.drawLine(0, maxHeight + 1, totalWidth, maxHeight + 1);
-        g2d.rotate(Math.PI / 2);
-        for (int i = 0; i < titles.size(); i++) {
-            String title = " " + titles.get(i);
-            g2d.drawString(title, maxHeight, (float) (metrics.getHeight() / 2 - metrics.getDescent() - (i + 0.5) * barWidth * colors.length));
-        }
-        MapPainter.saveImage(img, fileName);
-    }
-
     private static final double BOUND_X = 310, BOUND_Y = 240, BOUND_WIDTH = 430, BOUND_HEIGHT = 280;
-    private static final DecimalFormat INTEGER_FORMAT = new DecimalFormat("#,##0");
-    private static final DecimalFormat FLOAT_FORMAT = new DecimalFormat("#,##0.####");
+    private static final String PREFIX = "Harvey_";
 
     public static void drawDisasterArea(boolean crop) throws IOException {
         double imageScale = 10;
@@ -142,14 +81,14 @@ public class DataLogic {
 //            System.out.printf("name: %s%n", mi.getName());
 //        }
         for (String TXCounty : TXCounties) {
-            MapItem mi = findCounty(settings[0].getMis(), TXCounty, "TX");
+            MapItem mi = findCounty(settings[0].getMis(), DataLogicHarvey::renameCounty, TXCounty, "TX");
             if (mi != null) {
                 colors.put(mi, disasterAreaColor);
                 texts.put(mi, getShortCountyName(mi.getName()));
             }
         }
         for (String LACounty : LACounties) {
-            MapItem mi = findCounty(settings[1].getMis(), LACounty, "LA");
+            MapItem mi = findCounty(settings[1].getMis(), DataLogicHarvey::renameCounty, LACounty, "LA");
             if (mi != null) {
                 colors.put(mi, disasterAreaColor);
                 texts.put(mi, getShortCountyName(mi.getName()));
@@ -165,10 +104,10 @@ public class DataLogic {
         if (crop) {
             img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
         }
-        MapPainter.saveImage(img, "disasterArea1.png");
+        MapPainter.saveImage(img, PREFIX, "disasterArea1.png");
 
         for (String TXCounty : TXCounties2) {
-            MapItem mi = findCounty(settings[0].getMis(), TXCounty, "TX");
+            MapItem mi = findCounty(settings[0].getMis(), DataLogicHarvey::renameCounty, TXCounty, "TX");
             if (mi != null) {
                 colors.put(mi, disasterArea2Color);
                 texts.put(mi, getShortCountyName(mi.getName()));
@@ -180,13 +119,13 @@ public class DataLogic {
         if (crop) {
             img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
         }
-        MapPainter.saveImage(img, "disasterArea2.png");
+        MapPainter.saveImage(img, PREFIX, "disasterArea2.png");
 
         colors.keySet().forEach((mapItem) -> {
             colors.put(mapItem, disasterArea3Color);
         });
         for (String TXCounty : TXCounties3) {
-            MapItem mi = findCounty(settings[0].getMis(), TXCounty, "TX");
+            MapItem mi = findCounty(settings[0].getMis(), DataLogicHarvey::renameCounty, TXCounty, "TX");
             if (mi != null) {
                 colors.put(mi, disasterAreaColor);
             }
@@ -197,7 +136,7 @@ public class DataLogic {
         if (crop) {
             img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
         }
-        MapPainter.saveImage(img, "disasterArea3.png");
+        MapPainter.saveImage(img, PREFIX, "disasterArea3.png");
     }
 
     public static void drawPopulationDensityDisasterArea(boolean crop) throws IOException {
@@ -224,13 +163,13 @@ public class DataLogic {
         };
         HashMap<String, MapItem> areas = new HashMap<>();
         for (String TXCounty : TXCounties) {
-            MapItem mi = findCounty(settings[0].getMis(), TXCounty, "TX");
+            MapItem mi = findCounty(settings[0].getMis(), DataLogicHarvey::renameCounty, TXCounty, "TX");
             if (mi != null) {
                 areas.put(mi.getFIPS(), mi);
             }
         }
         for (String LACounty : LACounties) {
-            MapItem mi = findCounty(settings[1].getMis(), LACounty, "LA");
+            MapItem mi = findCounty(settings[1].getMis(), DataLogicHarvey::renameCounty, LACounty, "LA");
             if (mi != null) {
                 areas.put(mi.getFIPS(), mi);
             }
@@ -280,7 +219,7 @@ public class DataLogic {
         if (crop) {
             img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
         }
-        MapPainter.saveImage(img, "population.png");
+        MapPainter.saveImage(img, PREFIX, "population.png");
 
         img = MapPainter.generateBufferedImage(settings);
         g2d = MapPainter.getGraphicsFromImage(img, fontSize);
@@ -288,7 +227,7 @@ public class DataLogic {
         if (crop) {
             img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
         }
-        MapPainter.saveImage(img, "density.png");
+        MapPainter.saveImage(img, PREFIX, "density.png");
 
     }
 
@@ -362,7 +301,7 @@ public class DataLogic {
                     if (parts1.length != parts2.length || parts1.length < 2 || !parts1[0].equals(parts2[0]) || !parts1[1].equals(parts2[1])) {
                         throw new IllegalArgumentException("Files not aligned at line " + lineCount);
                     }
-                    MapItem mi = findCounty((parts1[0].equals("TX") ? settings[0] : settings[1]).getMis(), parts1[1], parts1[0]);
+                    MapItem mi = findCounty((parts1[0].equals("TX") ? settings[0] : settings[1]).getMis(), DataLogicHarvey::renameCounty, parts1[1], parts1[0]);
                     String shortName = getShortCountyName(mi.getName());
                     titles.add(shortName);
                     long population = resultData.get(mi.getFIPS()).getPop();
@@ -420,7 +359,7 @@ public class DataLogic {
             if (crop) {
                 img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
             }
-            MapPainter.saveImage(img, "out_" + i + ".png");
+            MapPainter.saveImage(img, PREFIX, "out_" + i + ".png");
 
             img = MapPainter.generateBufferedImage(settings);
             g2d = MapPainter.getGraphicsFromImage(img, fontSize);
@@ -428,7 +367,7 @@ public class DataLogic {
             if (crop) {
                 img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
             }
-            MapPainter.saveImage(img, "outPercent_" + i + ".png");
+            MapPainter.saveImage(img, PREFIX, "outPercent_" + i + ".png");
 
             img = MapPainter.generateBufferedImage(settings);
             g2d = MapPainter.getGraphicsFromImage(img, fontSize);
@@ -436,9 +375,9 @@ public class DataLogic {
             if (crop) {
                 img = MapPainter.cropImage(img, (int) (BOUND_X * imageScale), (int) (BOUND_Y * imageScale), (int) (BOUND_WIDTH * imageScale), (int) (BOUND_HEIGHT * imageScale));
             }
-            MapPainter.saveImage(img, "outPop_" + i + ".png");
+            MapPainter.saveImage(img, PREFIX, "outPop_" + i + ".png");
 
-            drawBarCharts(titles, colorSetting, values[i], 10, 300, fontSize, "bar_" + i + ".png");
+            drawBarCharts(titles, colorSetting, values[i], 10, 300, fontSize, PREFIX, "bar_" + i + ".png");
         }
 
     }

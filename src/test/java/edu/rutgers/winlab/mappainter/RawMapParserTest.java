@@ -19,8 +19,11 @@ public class RawMapParserTest {
 
     @org.junit.Test
     public void test1() throws IOException, JDOMException {
-        RawMapParser.parseMap("RawMapTX.txt", "ResultMapTX.json", "ResultDataTX.json");
-        RawMapParser.parseMap("RawMapLA.txt", "ResultMapLA.json", "ResultDataLA.json");
+//        RawMapParser.parseMap("RawMapTX.txt", "ResultMapTX.json", "ResultDataTX.json");
+//        RawMapParser.parseMap("RawMapLA.txt", "ResultMapLA.json", "ResultDataLA.json");
+        RawMapParser.parseMap("RawMapFL.txt", "ResultMapFL.json", "ResultDataFL.json");
+        RawMapParser.parseMap("RawMapAL.txt", "ResultMapAL.json", "ResultDataAL.json");
+        RawMapParser.parseMap("RawMapGA.txt", "ResultMapGA.json", "ResultDataGA.json");
     }
 
 }
