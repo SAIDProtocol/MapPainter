@@ -287,8 +287,8 @@ public class DataLogicHarvey {
             }
         }
 
-        try (BufferedReader br1 = new BufferedReader(new FileReader("CellSitesServed.txt"))) {
-            try (BufferedReader br2 = new BufferedReader(new FileReader("CellSitesOut.txt"))) {
+        try (BufferedReader br1 = new BufferedReader(new FileReader("Harvey_CellSitesServed.txt"))) {
+            try (BufferedReader br2 = new BufferedReader(new FileReader("Harvey_CellSitesOut.txt"))) {
                 br1.readLine();
                 br2.readLine();
                 String line1, line2;

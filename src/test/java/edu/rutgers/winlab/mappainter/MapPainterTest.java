@@ -68,6 +68,7 @@ public class MapPainterTest {
 //        DataLogicHarvey.drawPopulationDensityDisasterArea(true);
 //        DataLogicHarvey.drawCellSites(true);
 //        DataLogicIrma.drawDisasterArea(true);
-        DataLogicIrma.drawPopulationDensityDisasterArea(true);
+//        DataLogicIrma.drawPopulationDensityDisasterArea(true);
+        DataLogicIrma.drawCellSites(true);
     }
 }

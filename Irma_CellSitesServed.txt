@@ -1,0 +1,89 @@
+State	County	9/11	9/12	9/13	9/14	9/15	9/16	9/17	9/18
+FL	Alachua County	279	279	279	279	279	279	279	279
+FL	Baker County	22	22	22	22	22	22	22	22
+FL	Bay County	208	208	208	208	208	208	208	208
+FL	Bradford County	22	22	22	22	22	22	22	22
+FL	Brevard County	316	316	316	316	316	316	316	316
+FL	Broward County	924	924	924	924	924	924	924	924
+FL	Calhoun County	15	15	15	15	15	15	15	15
+FL	Charlotte County	123	123	123	123	123	123	123	123
+FL	Citrus County	111	111	111	111	111	111	111	111
+FL	Clay County	178	178	178	178	178	178	178	178
+FL	Collier County	212	212	212	212	212	212	212	212
+FL	Columbia County	73	73	73	73	73	73	73	73
+FL	DeSoto County	34	34	34	34	34	34	34	34
+FL	Dixie County	18	18	18	18	18	18	18	18
+FL	Duval County	798	807	807	807	807	807	807	807
+FL	Escambia County	186	186	186	186	186	186	186	186
+FL	Flagler County	86	86	86	86	86	86	86	86
+FL	Franklin County	28	28	28	28	28	28	28	28
+FL	Gadsden County	62	62	62	62	62	62	62	62
+FL	Gilchrist County	13	13	13	13	13	13	13	13
+FL	Glades County	30	30	30	30	30	30	30	30
+FL	Gulf County	22	22	22	22	22	22	22	22
+FL	Hamilton County	18	18	18	18	18	18	18	18
+FL	Hardee County	39	39	39	39	39	39	39	39
+FL	Hendry County	46	46	46	46	46	46	46	46
+FL	Hernando County	117	117	117	117	117	117	117	117
+FL	Highlands County	80	80	80	80	80	80	80	80
+FL	Hillsborough County	1140	1140	1140	1140	1140	1140	1140	1140
+FL	Holmes County	21	21	21	21	21	21	21	21
+FL	Indian River County	105	105	105	105	105	105	105	105
+FL	Jackson County	60	60	60	60	60	60	60	60
+FL	Jefferson County	41	41	41	41	41	41	41	41
+FL	Lafayette County	14	14	14	14	14	14	14	14
+FL	Lake County	218	218	218	218	218	218	218	218
+FL	Lee County	343	343	343	343	343	343	343	343
+FL	Leon County	304	440	440	440	440	440	440	440
+FL	Levy County	76	76	76	76	76	76	76	76
+FL	Liberty County	9	9	9	9	9	9	9	9
+FL	Madison County	37	37	37	37	37	37	37	37
+FL	Manatee County	239	239	239	239	239	239	239	239
+FL	Marion County	274	274	274	274	274	274	274	274
+FL	Martin County	123	123	123	123	123	123	123	123
+FL	Miami-Dade County	1435	1435	1435	1435	1434	1434	1434	1434
+FL	Monroe County	108	108	108	108	108	108	108	108
+FL	Nassau County	107	109	109	109	109	109	109	109
+FL	Okaloosa County	194	194	194	194	194	194	194	194
+FL	Okeechobee County	70	70	70	70	70	70	70	70
+FL	Orange County	1054	1152	1152	1152	1152	1152	1152	1152
+FL	Osceola County	237	237	237	237	237	237	237	237
+FL	Palm Beach County	726	726	726	726	726	727	727	727
+FL	Pasco County	321	321	321	321	321	321	321	321
+FL	Pinellas County	596	596	596	596	596	596	596	596
+FL	Polk County	481	481	481	481	481	481	481	481
+FL	Putnam County	88	88	88	88	88	88	88	88
+FL	St. Johns County	251	251	251	251	251	251	251	251
+FL	St. Lucie County	195	195	195	195	195	195	195	195
+FL	Santa Rosa County	135	135	135	135	135	135	135	135
+FL	Sarasota County	244	244	244	244	244	244	244	244
+FL	Seminole County	314	314	314	314	314	314	314	314
+FL	Sumter County	78	78	78	78	78	78	78	78
+FL	Suwannee County	56	56	56	56	56	56	56	56
+FL	Taylor County	51	51	51	51	51	51	51	51
+FL	Union County	13	13	13	13	13	13	13	13
+FL	Volusia County	491	474	474	474	474	474	474	474
+FL	Wakulla County	38	38	38	38	38	38	38	38
+FL	Walton County	120	120	120	120	120	120	120	120
+FL	Washington County	35	35	35	35	35	35	35	35
+AL	Houston County		196	196	196				
+AL	Geneva County		52	52	52				
+AL	Henry County		87	87	87				
+GA	Seminole County		76	76	76				
+GA	Decatur County		58	58	58				
+GA	Grady County		41	41	41				
+GA	Thomas County		76	76	76				
+GA	Brooks County		50	50	50				
+GA	Lowndes County		180	180	180				
+GA	Lanier County		20	20	20				
+GA	Echols County		21	21	21				
+GA	Clinch County		34	34	34				
+GA	Ware County		74	74	74				
+GA	Charlton County		30	30	30				
+GA	Camden County		86	86	86				
+GA	Glynn County		141	141	141				
+GA	Early County		17	17	17				
+GA	Miller County		7	7	7				
+GA	Baker County		22	22	22				
+GA	Mitchell County		34	34	34				
+GA	Colquitt County		74	74	74				

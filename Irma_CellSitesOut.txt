@@ -1,0 +1,89 @@
+State	County	9/11	9/12	9/13	9/14	9/15	9/16	9/17	9/18
+FL	Alachua County	36	41	36	20	8	5	1	0
+FL	Baker County	1	2	4	4	1	2	1	0
+FL	Bay County	0	0	0	1	1	1	0	0
+FL	Bradford County	2	4	3	1	1	0	1	0
+FL	Brevard County	117	89	72	45	22	13	7	5
+FL	Broward County	443	353	254	175	125	84	57	42
+FL	Calhoun County	0	0	0	0	0	0	0	0
+FL	Charlotte County	36	33	18	18	15	15	4	2
+FL	Citrus County	24	32	26	17	9	5	2	1
+FL	Clay County	34	44	31	23	9	6	5	3
+FL	Collier County	160	154	137	107	96	55	47	26
+FL	Columbia County	7	13	9	5	0	0	1	1
+FL	DeSoto County	10	11	10	14	4	3	3	2
+FL	Dixie County	2	1	1	1	1	2	0	0
+FL	Duval County	150	112	70	47	31	19	13	6
+FL	Escambia County	0	0	0	0	0	0	0	0
+FL	Flagler County	16	23	18	13	6	7	0	0
+FL	Franklin County	12	2	0	0	0	0	0	0
+FL	Gadsden County	0	2	1	0	0	0	0	0
+FL	Gilchrist County	0	2	0	0	0	1	0	0
+FL	Glades County	11	13	9	5	5	6	2	2
+FL	Gulf County	0	0	0	0	0	0	0	0
+FL	Hamilton County	1	4	3	2	2	1	0	0
+FL	Hardee County	15	19	14	13	10	5	4	4
+FL	Hendry County	31	36	35	29	23	15	8	6
+FL	Hernando County	23	19	20	7	5	2	2	0
+FL	Highlands County	42	43	36	22	22	16	15	16
+FL	Hillsborough County	191	157	87	54	27	20	18	12
+FL	Holmes County	0	0	0	0	0	0	0	0
+FL	Indian River County	41	28	17	12	11	7	5	5
+FL	Jackson County	0	1	0	1	1	1	0	0
+FL	Jefferson County	3	9	3	1	1	0	1	1
+FL	Lafayette County	1	2	4	0	0	1	0	0
+FL	Lake County	48	60	36	32	16	13	6	4
+FL	Lee County	186	170	129	97	63	36	23	16
+FL	Leon County	3	14	8	7	7	7	8	8
+FL	Levy County	9	11	6	3	3	1	1	1
+FL	Liberty County	0	0	0	0	0	0	0	0
+FL	Madison County	7	10	6	3	2	0	1	0
+FL	Manatee County	57	23	15	10	6	3	2	2
+FL	Marion County	51	73	54	50	20	17	3	2
+FL	Martin County	47	35	21	14	13	9	5	7
+FL	Miami-Dade County	739	602	457	355	234	160	119	95
+FL	Monroe County	87	89	89	83	35	25	13	9
+FL	Nassau County	16	24	18	9	8	4	3	1
+FL	Okaloosa County	0	0	0	0	0	0	0	0
+FL	Okeechobee County	20	17	22	21	9	5	2	2
+FL	Orange County	191	170	125	89	49	36	22	8
+FL	Osceola County	61	51	40	29	23	8	9	4
+FL	Palm Beach County	311	244	178	136	89	70	51	48
+FL	Pasco County	53	57	47	31	23	15	9	11
+FL	Pinellas County	145	159	101	70	40	29	23	17
+FL	Polk County	137	145	108	84	37	24	20	16
+FL	Putnam County	20	27	25	10	6	3	3	0
+FL	St. Johns County	50	35	29	32	28	16	3	1
+FL	St. Lucie County	52	43	27	17	13	5	2	2
+FL	Santa Rosa County	0	0	0	0	0	0	0	0
+FL	Sarasota County	87	66	39	31	21	22	17	17
+FL	Seminole County	72	76	45	27	16	9	8	2
+FL	Sumter County	18	24	18	18	10	10	5	2
+FL	Suwannee County	5	11	7	2	1	1	1	0
+FL	Taylor County	6	11	3	0	0	0	1	0
+FL	Union County	0	7	2	3	0	0	0	0
+FL	Volusia County	86	111	86	70	43	29	26	26
+FL	Wakulla County	0	4	1	1	2	1	0	0
+FL	Walton County	0	0	0	0	0	0	0	1
+FL	Washington County	0	0	1	1	1	1	1	1
+AL	Houston County		0	0	2				
+AL	Geneva County		0	0	0				
+AL	Henry County		2	2	2				
+GA	Seminole County		0	0	0				
+GA	Decatur County		4	1	0				
+GA	Grady County		0	0	0				
+GA	Thomas County		6	2	0				
+GA	Brooks County		7	5	1				
+GA	Lowndes County		11	5	1				
+GA	Lanier County		2	0	0				
+GA	Echols County		1	1	0				
+GA	Clinch County		2	2	1				
+GA	Ware County		7	4	2				
+GA	Charlton County		2	2	0				
+GA	Camden County		15	9	7				
+GA	Glynn County		37	21	9				
+GA	Early County		0	0	0				
+GA	Miller County		0	0	0				
+GA	Baker County		1	1	1				
+GA	Mitchell County		5	1	0				
+GA	Colquitt County		9	1	1				
